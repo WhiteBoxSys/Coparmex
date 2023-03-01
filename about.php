@@ -2,14 +2,14 @@
 <html lang="en">
 
 <head>
-    <?php include "./statics/head.php" ?>
+    <?php include './statics/head.php'; ?>
 </head>
 
 <body>
     <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner"></div>
     </div>
-    <?php include 'statics/topbar.php' ?>
+    <?php include './statics/header.php'; ?>
     <div class="container-fluid position-relative p-0">
         <?php include './statics/nav.php'; ?>
         <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
