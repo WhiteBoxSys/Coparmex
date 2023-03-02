@@ -6,10 +6,11 @@
                     <a href="index.html" class="navbar-brand">
                         <h1 class="m-0 text-white"><i class="fa fa-user-tie me-2"></i>Startup</h1>
                     </a>
-                    <p class="mt-3 mb-4">Lorem diam sit erat dolor elitr et, diam lorem justo amet clita stet eos sit. Elitr dolor duo lorem, elitr clita ipsum sea. Diam amet erat lorem stet eos. Diam amet et kasd eos duo.</p>
+                    <p class="mt-3 mb-4">
+                        Quieres conocer mas sobre nosotros y sobre todas nuestras noticias y proximos eventos suscribete a nuestro portal.</p>
                     <form action="">
                         <div class="input-group">
-                            <input type="text" class="form-control border-white p-3" placeholder="Emails">
+                            <input type="text" class="form-control border-white p-3" placeholder="Email">
                             <button class="btn btn-dark">Suscribete</button>
                         </div>
                     </form>
@@ -23,15 +24,15 @@
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-geo-alt text-primary me-2"></i>
-                            <p class="mb-0">123 Street, New York, USA</p>
+                            <p class="mb-0">Manzanillo Colima</p>
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-envelope-open text-primary me-2"></i>
-                            <p class="mb-0">info@example.com</p>
+                            <p class="mb-0">contacto@coparmexmanzanillo.org</p>
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-telephone text-primary me-2"></i>
-                            <p class="mb-0">+012 345 67890</p>
+                            <p class="mb-0">314 33 42929</p>
                         </div>
                         <div class="d-flex mt-4">
                             <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-twitter fw-normal"></i></a>

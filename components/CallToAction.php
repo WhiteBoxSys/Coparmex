@@ -21,7 +21,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="mb-2">Llamar para consultar cualquier duda</h5>
-                        <h4 class="text-primary mb-0">+012 345 6789</h4>
+                        <h4 class="text-primary mb-0">314 33 42929</h4>
                     </div>
                 </div>
             </div>
@@ -47,7 +47,7 @@
                                 <textarea class="form-control bg-light border-0" rows="3" placeholder="Mensaje"></textarea>
                             </div>
                             <div class="col-12">
-                                <button class="btn btn-dark w-100 py-3" type="submit">Request A Quote</button>
+                                <button class="btn btn-dark w-100 py-3" type="submit">Más información</button>
                             </div>
                         </div>
                     </form>
