@@ -6,7 +6,7 @@
 </head>
 
 <body>
-
+  <!-- TODO: en este apartado tendrás que hacer que el formulario de login valide las credenciales que manda el usuario con las que se tiene en la base de datos con la tabla de usuarios -->
   <main>
     <div class="container">
       <section class="section register min-vh-100 d-flex flex-column align-items-center justify-content-center py-4">
