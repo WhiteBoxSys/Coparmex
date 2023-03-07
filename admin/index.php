@@ -5,7 +5,7 @@
   <?php include './static/head.php' ?>
 </head>
 
-<body>
+<body> <!-- Nueva Rama -->
   <!-- TODO: en este apartado tendrás que hacer que el formulario de login valide las credenciales que manda el usuario con las que se tiene en la base de datos con la tabla de usuarios -->
   <main>
     <div class="container">
