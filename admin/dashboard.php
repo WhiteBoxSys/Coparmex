@@ -2,7 +2,10 @@
 <html lang="en">
 
 <head>
-  <?php include './static/head.php' ?>
+  <?php 
+  session_start(); 
+  include './static/head.php'
+  ?>
 </head>
 
 <body>
