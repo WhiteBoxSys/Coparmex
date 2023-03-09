@@ -3,8 +3,8 @@
 
 <head>
   <?php 
-  session_start(); 
-  include './static/head.php'
+  include './static/head.php';
+  session_start();
   ?>
 </head>
 
