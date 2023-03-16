@@ -1,6 +1,6 @@
-<nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
+<nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0" style="background-color: white;">
     <a href="index.html" class="navbar-brand p-0">
-        <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Startup</h1>
+        <img src="./img/LogoHorizontal.png" alt="Logo Coparmex" width="250px">
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
         <span class="fa fa-bars"></span>

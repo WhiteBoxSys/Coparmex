@@ -4,8 +4,9 @@
             <div class="col-lg-4 col-md-6 footer-about">
                 <div class="d-flex flex-column align-items-center justify-content-center text-center h-100 bg-primary p-4">
                     <a href="index.html" class="navbar-brand">
-                        <h1 class="m-0 text-white"><i class="fa fa-user-tie me-2"></i>Startup</h1>
+                        <img src="./img/LogoHorizontalBlanco.png" alt="Logo Coparmex Footer" width="300px">
                     </a>
+                    <br>
                     <p class="mt-3 mb-4">
                         Quieres conocer mas sobre nosotros y sobre todas nuestras noticias y proximos eventos suscribete a nuestro portal.</p>
                     <form action="">
