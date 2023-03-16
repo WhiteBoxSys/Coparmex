@@ -60,7 +60,7 @@ if(empty($_SESSION["id"])){
                         <hr class="dropdown-divider">
                     </li>
                     <li>
-                        <a class="dropdown-item d-flex align-items-center" href="./php/sesion_destroy.php">
+                        <a class="dropdown-item d-flex align-items-center" href="../controllers/LoginDestroy.php">
                             <i class="bi bi-box-arrow-right"></i>
                             <span>Cerrar Sesión</span>
                         </a>
