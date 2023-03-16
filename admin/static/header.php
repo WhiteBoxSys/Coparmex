@@ -1,3 +1,8 @@
+<?php
+if(empty($_SESSION["id"])){
+    header("Location: ./index.php");
+}
+?>
 <header id="header" class="header fixed-top d-flex align-items-center">
 
     <div class="d-flex align-items-center justify-content-between">
@@ -29,7 +34,7 @@
                 </a>
                 <ul class="dropdown-menu dropdown-menu-end dropdown-menu-arrow profile">
                     <li class="dropdown-header">
-                        <h6>Miguel Angel Castro</h6>
+                        <span><?php echo $_SESSION['email']; ?></span>
                         <span>Administrador</span>
                     </li>
                     <li>
@@ -55,7 +60,7 @@
                         <hr class="dropdown-divider">
                     </li>
                     <li>
-                        <a class="dropdown-item d-flex align-items-center" href="#">
+                        <a class="dropdown-item d-flex align-items-center" href="../controllers/LoginDestroy.php">
                             <i class="bi bi-box-arrow-right"></i>
                             <span>Cerrar Sesión</span>
                         </a>
