@@ -4,9 +4,19 @@
 <meta content="Empresas, Sindicatos, Coparmex" name="keywords">
 <meta content="Somos un sindicato patronal apartidista y de afiliación voluntaria que reúne a empresarios de todos los tamaños" name="description">
 <meta content="WhiteBox Systems" name="author">
+<link rel="manifest" href="manifest.json" />
 
 <!-- Favicon -->
 <link href="./img/LogoVertical.png" rel="icon">
+<link rel="apple-touch-icon" href="./img/icons/logo_72x72.png" />
+<link rel="apple-touch-icon" href="./img/icons/logo_96x96.png" />
+<link rel="apple-touch-icon" href="./img/icons/logo_128x128.png" />
+<link rel="apple-touch-icon" href="./img/icons/logo_142x142.png" />
+<link rel="apple-touch-icon" href="./img/icons/logo_152x152.png" />
+<link rel="apple-touch-icon" href="./img/icons/logo_192x192.png" />
+<link rel="apple-touch-icon" href="./img/icons/logo_384x384.png" />
+<link rel="apple-touch-icon" href="./img/icons/logo_512x512.png" />
+
 
 <!-- Google Web Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -26,3 +36,4 @@
 
 <!-- Template Stylesheet -->
 <link href="css/style.css" rel="stylesheet">
+<script src="js/app.js"></script>
