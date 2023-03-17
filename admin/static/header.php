@@ -34,7 +34,7 @@ if(empty($_SESSION["id"])){
                 </a>
                 <ul class="dropdown-menu dropdown-menu-end dropdown-menu-arrow profile">
                     <li class="dropdown-header">
-                        <span><?php echo $_SESSION['email']; ?></span>
+                        <span><?php echo $_SESSION['email']; ?></span><br>
                         <span>Administrador</span>
                     </li>
                     <li>
