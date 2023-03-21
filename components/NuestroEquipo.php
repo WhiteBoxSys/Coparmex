@@ -17,8 +17,8 @@
                         </div>
                     </div>
                     <div class="text-center py-4">
-                        <h4 class="text-primary">Full Name</h4>
-                        <p class="text-uppercase m-0">Designation</p>
+                        <h4 class="text-primary">Ing. Miguel Angel Castro</h4>
+                        <p class="text-uppercase m-0">Presidente</p>
                     </div>
                 </div>
             </div>
