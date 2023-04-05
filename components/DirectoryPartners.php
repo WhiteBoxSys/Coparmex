@@ -1,4 +1,5 @@
 <div class="container py-5">
+    <!-- TODO: Darle diseño a la tabla y vaciar toda la información del documento de Directorio de Word -->
     <h1>Directorio de Socios</h1>
     <table id="directory-table">
         <thead>
