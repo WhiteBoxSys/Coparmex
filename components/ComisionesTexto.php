@@ -8,7 +8,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                        <img class="img-fluid" src="assets/img/blog-1.jpg" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -23,7 +23,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="img/blog-2.jpg" alt="">
+                        <img class="img-fluid" src="assets/img/blog-2.jpg" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -38,7 +38,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="img/blog-3.jpg" alt="">
+                        <img class="img-fluid" src="assets/img/blog-3.jpg" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -52,7 +52,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                        <img class="img-fluid" src="assets/img/blog-1.jpg" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -66,7 +66,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                        <img class="img-fluid" src="assets/img/blog-1.jpg" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -80,7 +80,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                        <img class="img-fluid" src="assets/img/blog-1.jpg" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -94,7 +94,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                        <img class="img-fluid" src="assets/img/blog-1.jpg" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -109,7 +109,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                        <img class="img-fluid" src="assets/img/blog-1.jpg" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -123,7 +123,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                        <img class="img-fluid" src="assets/img/blog-1.jpg" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -138,7 +138,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                        <img class="img-fluid" src="assets/img/blog-1.jpg" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -154,7 +154,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                        <img class="img-fluid" src="assets/img/blog-1.jpg" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -169,7 +169,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="img/blog-1.jpg" alt="">
+                        <img class="img-fluid" src="assets/img/blog-1.jpg" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">

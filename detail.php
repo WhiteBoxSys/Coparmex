@@ -2,16 +2,14 @@
 <html lang="en">
 
 <head>
-    <?php include 'statics/head.php' ?>
+    <?php include 'static/head.php' ?>
 </head>
 
 <body>
-    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
-        <div class="spinner"></div>
-    </div>
-    <?php include 'statics/topbar.php' ?>
+    <?php include './components/Spinner.php' ?>
+    <?php include 'static/topbar.php' ?>
     <div class="container-fluid position-relative p-0">
-        <?php include 'statics/nav.php' ?>
+        <?php include 'static/nav.php' ?>
 
         <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
             <div class="row py-5">
@@ -45,7 +43,7 @@
                 <div class="col-lg-12">
                     <!-- Blog Detail Start -->
                     <div class="mb-5">
-                        <img class="img-fluid w-100 rounded mb-5" src="img/blog-1.jpg" alt="">
+                        <img class="img-fluid w-100 rounded mb-5" src="assets/img/blog-1.jpg" alt="">
                         <h1 class="mb-4">Diam dolor est labore duo ipsum clita sed et lorem tempor duo</h1>
                         <p>Sadipscing labore amet rebum est et justo gubergren. Et eirmod ipsum sit diam ut
                             magna lorem. Nonumy vero labore lorem sanctus rebum et lorem magna kasd, stet
@@ -81,7 +79,7 @@
                             <h3 class="mb-0">3 Comments</h3>
                         </div>
                         <div class="d-flex mb-4">
-                            <img src="img/user.jpg" class="img-fluid rounded" style="width: 45px; height: 45px;">
+                            <img src="assets/img/user.jpg" class="img-fluid rounded" style="width: 45px; height: 45px;">
                             <div class="ps-3">
                                 <h6><a href="">John Doe</a> <small><i>01 Jan 2045</i></small></h6>
                                 <p>Diam amet duo labore stet elitr invidunt ea clita ipsum voluptua, tempor labore
@@ -90,7 +88,7 @@
                             </div>
                         </div>
                         <div class="d-flex mb-4">
-                            <img src="img/user.jpg" class="img-fluid rounded" style="width: 45px; height: 45px;">
+                            <img src="assets/img/user.jpg" class="img-fluid rounded" style="width: 45px; height: 45px;">
                             <div class="ps-3">
                                 <h6><a href="">John Doe</a> <small><i>01 Jan 2045</i></small></h6>
                                 <p>Diam amet duo labore stet elitr invidunt ea clita ipsum voluptua, tempor labore
@@ -99,7 +97,7 @@
                             </div>
                         </div>
                         <div class="d-flex ms-5 mb-4">
-                            <img src="img/user.jpg" class="img-fluid rounded" style="width: 45px; height: 45px;">
+                            <img src="assets/img/user.jpg" class="img-fluid rounded" style="width: 45px; height: 45px;">
                             <div class="ps-3">
                                 <h6><a href="">John Doe</a> <small><i>01 Jan 2045</i></small></h6>
                                 <p>Diam amet duo labore stet elitr invidunt ea clita ipsum voluptua, tempor labore
@@ -140,16 +138,7 @@
             </div>
         </div>
     </div>
-    <?php include 'statics/footer.php' ?>
-    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded back-to-top"><i class="bi bi-arrow-up"></i></a>
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/wow/wow.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/counterup/counterup.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="js/main.js"></script>
+    <?php include 'static/footer.php' ?>
 </body>
 
 </html>

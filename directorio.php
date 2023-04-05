@@ -12,11 +12,10 @@
         <?php include './static/nav.php'; ?>
         <?php
         include './components/HeaderOtherPages.php';
-        HeaderOtherPages("Comisiones");
+        HeaderOtherPages("Directorio");
         ?>
     </div>
-    <?php include './components/ComisionesExplicacion.php' ?>
-    <?php include './components/ComisionesTexto.php' ?>
+    <?php include './components/DirectoryPartners.php' ?>
     <?php include './static/footer.php'; ?>
 </body>
 
