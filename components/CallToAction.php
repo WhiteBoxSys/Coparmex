@@ -14,7 +14,7 @@
                         <h5 class="mb-4"><i class="fa fa-phone-alt text-primary me-3"></i>Asistencia telefónica las 24 horas</h5>
                     </div>
                 </div>
-                <p class="mb-4">Eirmod sed tempor lorem ut dolores. Aliquyam sit sadipscing kasd ipsum. Dolor ea et dolore et at sea ea at dolor, justo ipsum duo rebum sea invidunt voluptua. Eos vero eos vero ea et dolore eirmod et. Dolores diam duo invidunt lorem. Elitr ut dolores magna sit. Sea dolore sanctus sed et. Takimata takimata sanctus sed.</p>
+                <p class="mb-4">En Coparmex Manzanillo nos interesa mucho escuchar sus comentarios, sugerencias y preguntas. Si tienen alguna duda o inquietud acerca de nuestros servicios, actividades o programas, no duden en escribirnos. Nuestro equipo estará encantado de responder a sus preguntas y brindarles la información que necesiten.</p>
                 <div class="d-flex align-items-center mt-2 wow zoomIn" data-wow-delay="0.6s">
                     <div class="bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
                         <i class="fa fa-phone-alt text-white"></i>
@@ -22,6 +22,24 @@
                     <div class="ps-4">
                         <h5 class="mb-2">Llamar para consultar cualquier duda</h5>
                         <h4 class="text-primary mb-0">314 33 42929</h4>
+                    </div>
+                </div>
+                <div class="d-flex align-items-center mt-2 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
+                        <i class="fab fa-whatsapp" style="color: #ffffff;"></i>
+                    </div>
+                    <div class="ps-4">
+                        <h5 class="mb-2">Contacto de Whatsapp</h5>
+                        <h4 class="text-primary mb-0">314 121 7143</h4>
+                    </div>
+                </div>
+                <div class="d-flex align-items-center mt-2 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
+                        <i class="fa fa-envelope text-white"></i>
+                    </div>
+                    <div class="ps-4">
+                        <h5 class="mb-2">Correo</h5>
+                        <h4 class="text-primary mb-0">hola@coparmexmanzanillo.org</h4>
                     </div>
                 </div>
             </div>

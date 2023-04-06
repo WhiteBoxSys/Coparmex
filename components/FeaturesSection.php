@@ -11,15 +11,23 @@
                         <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                             <i class="fa fa-cubes text-white"></i>
                         </div>
-                        <h4>Best In Industry</h4>
-                        <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
+                        <h4>Representatividad:</h4>
+                        <p class="mb-0">
+                            Coparmex es una organización que agrupa a más de 36,000
+                            empresas en todo el país, lo que la convierte en una de las organizaciones
+                            empresariales más grandes y representativas de México.
+                        </p>
                     </div>
                     <div class="col-12 wow zoomIn" data-wow-delay="0.6s">
                         <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                             <i class="fa fa-award text-white"></i>
                         </div>
-                        <h4>Award Winning</h4>
-                        <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
+                        <h4>Participación en la vida política</h4>
+                        <p class="mb-0"> 
+                            Coparmex es una organización que se involucra
+                            activamente en la vida política del país, a través de la promoción de iniciativas y
+                            propuestas que buscan mejorar el entorno empresarial y económico de México.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -34,15 +42,23 @@
                         <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                             <i class="fa fa-users-cog text-white"></i>
                         </div>
-                        <h4>Professional Staff</h4>
-                        <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
+                        <h4>Compromiso con la ética y la responsabilidad social</h4>
+                        <p class="mb-0">
+                            Coparmex tiene un fuerte
+                            compromiso con la ética y la responsabilidad social empresarial, lo que se traduce
+                            en la promoción de prácticas empresariales sostenibles y socialmente responsables.</p>
                     </div>
                     <div class="col-12 wow zoomIn" data-wow-delay="0.8s">
                         <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                             <i class="fa fa-phone-alt text-white"></i>
                         </div>
-                        <h4>24/7 Support</h4>
-                        <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
+                        <h4>Promoción del emprendimiento y la innovación</h4>
+                        <p class="mb-0"> 
+                            Coparmex es una organización que
+                            busca fomentar el emprendimiento y la innovación en México, a través de la creación
+                            de programas y proyectos que buscan impulsar el desarrollo económico y
+                            empresarial del país.
+                        </p>
                     </div>
                 </div>
             </div>

@@ -592,6 +592,20 @@ table tbody tr td {
   background-color: #DEEBF6;
 }
 
+.txtMas{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+#textContact{
+  margin-top: 20px;
+  text-align:inherit;
+  font-size: 20px;
+}
+
 
 
 

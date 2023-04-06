@@ -8,7 +8,10 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="text-white mb-0">Empresas</h5>
-                        <h1 class="text-white mb-0" data-toggle="counter-up">180</h1>
+                        <div class="txtMas">
+                            <h5 class="text-white mb-0">+</h5>
+                            <h1 class="text-white mb-0" data-toggle="counter-up">180</h1>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -19,7 +22,10 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="text-primary mb-0">Empleos Generados</h5>
+                        <div class="txtMas">
+                        <h5 class="text-primary mb-0">+</h5>
                         <h1 class="mb-0" data-toggle="counter-up">14000</h1>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -30,7 +36,10 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="text-white mb-0">Actividades por año</h5>
-                        <h1 class="text-white mb-0" data-toggle="counter-up">150</h1>
+                        <div class="txtMas">
+                            <h5 class="text-white mb-0">+</h5>
+                            <h1 class="text-white mb-0" data-toggle="counter-up">150</h1>
+                        </div>
                     </div>
                 </div>
             </div>
