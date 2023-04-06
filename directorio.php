@@ -3,6 +3,7 @@
 
 <head>
     <?php include './static/head.php'; ?>
+    <link rel="stylesheet" href="assets/style.css">
 </head>
 
 <body>

@@ -472,6 +472,129 @@ h6,
   transform: scale(1.15);
 }
 
+/*** directorios tablas ***/
+
+table{
+  margin-top: 20px;
+  border: solid 1px;
+  width: 100%;
+}
+
+table thead tr th {
+  border: solid 1px;
+  text-align: center;
+  color: #000;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+table tbody tr td {
+  border: solid 1px;
+  color: #000;
+  padding: 10px;
+}
+
+#directory-table tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-agricola tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-asesoria tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-legal tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-automotriz tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+
+#directory-table-consultoria tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-comercio tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-construccion tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-deportivo tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-educativo tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-energetico tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-financieros tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-hoteleria tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+
+#directory-table-inmobiliaria tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-logistico tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-medios tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-minero tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-naviero tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-pesca tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-publicidad tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-salud tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+
+#directory-table-salud tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-sanitizacion tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-seguridad tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-seguros tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-serviciosGeolocalizacion tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-serviciosGenerales tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+
+#directory-table-funerales tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-serviciosT tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-terminal tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+#directory-table-transporte tbody tr:nth-child(even) {
+  background-color: #DEEBF6;
+}
+
+
+
+
 /*** Miscellaneous ***/
 @media (min-width: 991.98px) {
   .facts {
