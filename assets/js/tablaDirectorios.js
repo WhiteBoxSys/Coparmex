@@ -6,7 +6,6 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -20,7 +19,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -34,7 +33,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -47,7 +46,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -60,7 +59,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -73,7 +72,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -86,7 +85,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -99,7 +98,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -112,7 +111,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -125,7 +124,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -138,7 +137,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -151,7 +150,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -164,7 +163,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -177,7 +176,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -190,7 +189,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -203,7 +202,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -216,7 +215,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -229,7 +228,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -242,7 +241,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -255,7 +254,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -268,7 +267,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -281,7 +280,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -294,7 +293,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -307,7 +306,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -320,7 +319,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -333,7 +332,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -346,7 +345,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -359,7 +358,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -372,7 +371,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
@@ -385,7 +384,7 @@ $(document).ready(function () {
         aTargets: [0],
       },
     ],
-    aaSorting: [[3, "asc"]],
+
     dom: "Bfrtip",
     buttons: ["csv", "excel", "pdf"],
   });
