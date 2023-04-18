@@ -512,7 +512,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img src="../assets/img/Directorio/PLANEACIÓN Y ESTRATEGIA.jpg" alt="agencia consultoria"></td>
+                    <td><img src="assets/img/Directorio/PLANEACIÓN Y ESTRATEGIA.jpg" alt="agencia consultoria"></td>
                     <td>PLANEACIÓN Y ESTRATEGIA EMPRESARIAL</td>
                     <td>Los Pinos 344, Jardines De La Corregidora, Colima, Col.
                     </td>
@@ -523,7 +523,7 @@
                 </tr>
 
                 <tr>
-                    <td><img src="" alt="agencia consultoria"></td>
+                    <td><img src="assets/img/Directorio/TLC.png" alt="agencia consultoria"></td>
                     <td>TLC ASOCIADOS
                     <td>Luis Cabrera #2089, Zona Urbana Rio Tijuana, Tijuana, B.C.
                     </td>
@@ -531,7 +531,7 @@
                     <td>664 634 0189</td>
                 </tr>
                 <tr>
-                    <td><img src="" alt="agencia consultoria"></td>
+                    <td><img src="assets/img/Directorio/URIAS HIGAREDA.jpg" alt="agencia consultoria"></td>
                     <td>URIAS HIGAREDA Y ASOCIADOS SC</td>
                     <td>Compostela No.1958, Chapultepec Country, Guadalajara, Jal.
                     </td>
