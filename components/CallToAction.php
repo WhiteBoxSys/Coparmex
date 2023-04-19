@@ -21,7 +21,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="mb-2">Llamar para consultar cualquier duda</h5>
-                        <h4 class="text-primary mb-0">314 33 42929</h4>
+                        <h4 class="text-primary mb-0"><a href="tel:+">314 33 42929</a></h4>
                     </div>
                 </div>
                 <div class="d-flex align-items-center mt-2 wow zoomIn" data-wow-delay="0.6s">
@@ -30,7 +30,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="mb-2">Contacto de Whatsapp</h5>
-                        <h4 class="text-primary mb-0">314 121 7143</h4>
+                        <h4 class="text-primary mb-0"> <a href="https://wa.link/0om18r">314 121 7143</a></h4>
                     </div>
                 </div>
                 <div class="d-flex align-items-center mt-2 wow zoomIn" data-wow-delay="0.6s">
@@ -39,7 +39,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="mb-2">Correo</h5>
-                        <h4 class="text-primary mb-0">hola@coparmexmanzanillo.org</h4>
+                        <h4 class="text-primary mb-0"><a href="mailto:">contacto@coparmexmanzanillo.org</a></h4>
                     </div>
                 </div>
             </div>
