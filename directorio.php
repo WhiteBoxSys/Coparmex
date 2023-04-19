@@ -19,5 +19,5 @@
     <?php include './components/DirectoryPartners.php' ?>
     <?php include './static/footer.php'; ?>
 </body>
-
+<script src="assets/js/imagesLoad.js"></script>
 </html>

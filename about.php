@@ -21,5 +21,5 @@
     <?php include './components/NuestroEquipo.php' ?>
     <?php include './static/footer.php'; ?>
 </body>
-
+<script src="assets/js/imagesLoad.js"></script>
 </html>

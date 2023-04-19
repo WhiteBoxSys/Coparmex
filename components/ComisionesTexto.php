@@ -8,7 +8,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="assets/img/comisiones/COMISION DE SOCIOS-1.png" alt="Atencion a socios">
+                        <img class="img-fluid" data-src="assets/img/comisiones/COMISION DE SOCIOS-1.png" alt="Atencion a socios">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -22,7 +22,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="assets/img/comisiones/COMISION COMERCIO-1.png" alt="Comercio">
+                        <img class="img-fluid" data-src="assets/img/comisiones/COMISION COMERCIO-1.png" alt="Comercio">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -37,7 +37,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="assets/img/blog-3.jpg" alt="">
+                        <img class="img-fluid" data-src="assets/img/blog-3.jpg" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -51,7 +51,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="assets/img/blog-1.jpg" alt="">
+                        <img class="img-fluid" data-src="assets/img/blog-1.jpg" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -65,7 +65,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="assets/img/comisiones/COMISION EDUCACION-1.png" alt="Comercio">
+                        <img class="img-fluid" data-src="assets/img/comisiones/COMISION EDUCACION-1.png" alt="Comercio">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -79,7 +79,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="assets/img/blog-1.jpg" alt="">
+                        <img class="img-fluid" data-src="assets/img/blog-1.jpg" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -93,7 +93,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="assets/img/comisiones/ComisionGrandesEmpresas.png" alt="Comercio">
+                        <img class="img-fluid" data-src="assets/img/comisiones/ComisionGrandesEmpresas.png" alt="Comercio">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -108,7 +108,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="assets/img/comisiones/COMISION LABORAL-1.png" alt="Comercio">
+                        <img class="img-fluid" data-src="assets/img/comisiones/COMISION LABORAL-1.png" alt="Comercio">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -122,7 +122,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="assets/img/blog-1.jpg" alt="">
+                        <img class="img-fluid" data-src="assets/img/blog-1.jpg" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -137,7 +137,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="assets/img/blog-1.jpg" alt="">
+                        <img class="img-fluid" data-src="assets/img/blog-1.jpg" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -153,7 +153,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="assets/img/comisiones/comision-turismo1.png" alt="Comercio">
+                        <img class="img-fluid" data-src="assets/img/comisiones/comision-turismo1.png" alt="Comercio">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -168,7 +168,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" src="assets/img/comisiones/vivienda.png" alt="Comercio">
+                        <img class="img-fluid" data-src="assets/img/comisiones/vivienda.png" alt="Comercio">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">

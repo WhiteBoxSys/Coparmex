@@ -12,7 +12,7 @@
         </thead>
         <tbody>
             <tr>
-                <td><img class="directoryImg" src="assets/img/Directorio/Hugo_Herrera_Logo.jpg" class="directoryImg" alt="agencia aduanal"></td>
+                <td><img class="directoryImg" data-src="assets/img/Directorio/Hugo_Herrera_Logo.jpg" class="directoryImg" alt="agencia aduanal"></td>
                 <td>AGENCIA ADUANAL HUGO HERRERA</td>
                 <td>Carretera Manzanillo-Minatitlán
                     Km 1.6, Tapeixtles, Manzanillo, Col.
@@ -21,7 +21,7 @@
                 <td>314 331 1600</td>
             </tr>
             <tr>
-                <td><img class="directoryImg" src="assets/img/Directorio/Alianza_Logo.jpg" alt="agencia aduanal"></td>
+                <td><img class="directoryImg" data-src="assets/img/Directorio/Alianza_Logo.jpg" alt="agencia aduanal"></td>
                 <td>ALIANZA ESTRATEGICA PORTUARIA S.A. DE C.V.</td>
                 <td>Carretera Manzanillo-Minatitlán
                     Km 1.0, No.52, Tapeixtles, Manzanillo, Col
@@ -32,7 +32,7 @@
             </tr>
 
             <tr>
-                <td><img class="directoryImg" src="assets/img/Directorio/CYE_logo.png" alt="agencia aduanal"></td>
+                <td><img class="directoryImg" data-src="assets/img/Directorio/CYE_logo.png" alt="agencia aduanal"></td>
                 <td>C&E AGENTES ADUANALES S.A. DE C.V.</td>
                 <td>Blvd. Miguel De La Madrid Hurtado No.426 Int. 27D, Manzanillo, Col
                 </td>
@@ -40,7 +40,7 @@
                 <td>314 335 4215</td>
             </tr>
             <tr>
-                <td><img class="directoryImg" src="assets/img/Directorio/GCB_Logo.jpg" alt="agencia aduanal"></td>
+                <td><img class="directoryImg" data-src="assets/img/Directorio/GCB_Logo.jpg" alt="agencia aduanal"></td>
                 <td>GCB LOGISTICA ADUANAL S.C.</td>
                 <td>Manuel Bonilla Valle No.484, Manzanillo, Col.
 
@@ -50,7 +50,7 @@
             </tr>
 
             <tr>
-                <td><img class="directoryImg" src="assets/img/Directorio/HP_Logo.jpg" alt="agencia aduanal"></td>
+                <td><img class="directoryImg" data-src="assets/img/Directorio/HP_Logo.jpg" alt="agencia aduanal"></td>
                 <td>HP ENTERPRISES</td>
                 <td>Av. Dolores Hidalgo No.49, 16 De Septiembre, Manzanillo, Col.
 
@@ -59,7 +59,7 @@
                 <td>314 332 0014</td>
             </tr>
             <tr>
-                <td><img class="directoryImg" src="assets/img/Directorio/LME_Logo.jpg" alt="agencia aduanal"></td>
+                <td><img class="directoryImg" data-src="assets/img/Directorio/LME_Logo.jpg" alt="agencia aduanal"></td>
                 <td>LME AGENT SC</td>
                 <td>Calle de la Laguna No. 9 Valle de las Garzas, Manzanillo, Col. C.P. 28219
 
@@ -72,7 +72,7 @@
             </tr>
 
             <tr>
-                <td><img class="directoryImg" src="assets/img/Directorio/SILCA_Logo.png" alt="agencia aduanal"></td>
+                <td><img class="directoryImg" data-src="assets/img/Directorio/SILCA_Logo.png" alt="agencia aduanal"></td>
                 <td>SILCA LOGISTICA AGENCIA ADUANAL S.C.</td>
                 <td>Av. Manzanillo, No.57, Local 2, Colonia Guadalupe Victoria, Manzanillo, Col.
                 </td>
@@ -82,7 +82,7 @@
                 </td>
             </tr>
             <tr>
-                <td><img class="directoryImg" src="assets/img/Directorio/SOLUCIONES_Logo.png" alt="agencia aduanal"></td>
+                <td><img class="directoryImg" data-src="assets/img/Directorio/SOLUCIONES_Logo.png" alt="agencia aduanal"></td>
                 <td>SOLUCIONES EN COMERCIO EXTERIOR DEL PACIFICO</td>
                 <td>Av. Manzanillo, No.57, Local 2, Colonia Guadalupe Victoria, Manzanillo, Col.
                 </td>
@@ -94,7 +94,7 @@
             </tr>
 
             <tr>
-                <td><img class="directoryImg" src="assets/img/Directorio/VILLANUEVA_Logo.jpg" alt="agencia aduanal"></td>
+                <td><img class="directoryImg" data-src="assets/img/Directorio/VILLANUEVA_Logo.jpg" alt="agencia aduanal"></td>
                 <td>VILLANUEVA CERVANTES Y ASOCIADOS S.C</td>
                 <td>Carretera Manzanillo-Minatitlán l-16 m.2, Colonia Tapeixtles, Manzanillo, Col.
 
@@ -105,7 +105,7 @@
                 </td>
             </tr>
             <tr>
-                <td><img class="directoryImg" src="assets/img/Directorio/CORPORATIVO_Logo.png" alt="agencia aduanal"></td>
+                <td><img class="directoryImg" data-src="assets/img/Directorio/CORPORATIVO_Logo.png" alt="agencia aduanal"></td>
                 <td>CORPORATIVO ADUANAL RALI</td>
                 <td>Blvd. Miguel de Madrid Hurtado No.426 Tapeixtles 23-A
 
@@ -117,7 +117,7 @@
             </tr>
 
             <tr>
-                <td><img class="directoryImg" src="assets/img/Directorio/GRUPO_Logo.png" alt="agencia aduanal"></td>
+                <td><img class="directoryImg" data-src="assets/img/Directorio/GRUPO_Logo.png" alt="agencia aduanal"></td>
                 <td>GRUPO ADONAI S.C.</td>
                 <td>Calle Nogal No.40 Barrio I, Colonia los Pinos
 
@@ -129,7 +129,7 @@
                 </td>
             </tr>
             <tr>
-                <td><img class="directoryImg" src="assets/img/Directorio/DACIS_Logo.png" alt="agencia aduanal"></td>
+                <td><img class="directoryImg" data-src="assets/img/Directorio/DACIS_Logo.png" alt="agencia aduanal"></td>
                 <td>DACIS AGENCIA ADUANAL</td>
                 <td>Av. Paseo de las Gaviotas No. 47 Int 4 Barrio V, Manzanillo, Colima
 
@@ -143,7 +143,7 @@
             </tr>
 
             <tr>
-                <td><img class="directoryImg" src="assets/img/Directorio/DUEÑO_Logo.png" alt="agencia aduanal"></td>
+                <td><img class="directoryImg" data-src="assets/img/Directorio/DUEÑO_Logo.png" alt="agencia aduanal"></td>
                 <td>DUEÑO DEL MAR WOODWARD GROUP INTERNATIONAL LOGISTIC SERVICES THINK GLOBAL SA DE CV</td>
                 <td>Av. Teniente Azueta No.25-1, Burócratas, Manzanillo, Col
 
@@ -171,7 +171,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/UNION_Logo.jpg" alt="agencia agricola"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/UNION_Logo.jpg" alt="agencia agricola"></td>
                     <td>UNIÓN REGIONAL DE PRODUCTORES DE PLÁTANO PACÍFICO CENTRO</td>
                     <td>López Mateos No.80, La Playita, El Colomo, Manzanillo, Col.
 
@@ -183,7 +183,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/VIVEPLANTS_Logo.jpg" alt="agencia agricola"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/VIVEPLANTS_Logo.jpg" alt="agencia agricola"></td>
                     <td>VIVEPLANTS ORCHIDS & EXOTICS</td>
                     <td>Prolongación Rio Santiago S/N, Ejido La Central, Manzanillo Col.
                     </td>
@@ -207,7 +207,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/COACH_Logo.png" alt="agencia asesoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/COACH_Logo.png" alt="agencia asesoria"></td>
                     <td>COACH EJECUTIVA WENDY SIBAJA</td>
                     <td>Calle Orquideas No 42, Barrio 3 Valle de las Garzas Manzanillo, Col.
 
@@ -219,7 +219,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/GRUPO VERUM Logo.jpg" alt="agencia asesoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/GRUPO VERUM Logo.jpg" alt="agencia asesoria"></td>
                     <td>GRUPO VERUM</td>
                     <td>Blvd. Miguel de la Madrid No.4996 Local B, Playa Azul, Manzanillo, Col.
 
@@ -232,7 +232,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/OPENKENEN_Logo.png" alt="agencia asesoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/OPENKENEN_Logo.png" alt="agencia asesoria"></td>
                     <td>OPENKENEN</td>
                     <td>Av. Elías Zamora Verduzco No.2176 Manzanillo, Col
                     </td>
@@ -244,7 +244,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/PRODUCTIVIDAD_Logo.png" alt="agencia asesoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/PRODUCTIVIDAD_Logo.png" alt="agencia asesoria"></td>
                     <td>PRODUCTIVIDAD UDE</td>
                     <td>Plaza San Jacinto, No.8, int.C, San Ángel, CDMX.
 
@@ -257,7 +257,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/SINERGIA_Logo.png" alt="agencia asesoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/SINERGIA_Logo.png" alt="agencia asesoria"></td>
                     <td>SINERGIA CONSULTORIA Y CAPACITACION EN CALIDAD S.C./td>
                     <td>Av. Constitución No.1599 Planta Int.7 Colima, Col.
                     </td>
@@ -271,7 +271,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/TANATOLOGIA_Logo.jpg" alt="agencia asesoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/TANATOLOGIA_Logo.jpg" alt="agencia asesoria"></td>
                     <td>TANATOLOGÍA</td>
                     <td>C. Aniceto Madrueño, no. 632 Col. Salagua, Manzanillo, Col.
 
@@ -284,7 +284,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/WORKEN_Logo.png" alt="agencia asesoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/WORKEN_Logo.png" alt="agencia asesoria"></td>
                     <td>WORKEN MANZANILLO</td>
                     <td>Blvd. Miguel De La Madrid No.426, Torre Puerto Piso 2 Int.22-A, Manzanillo, Col.
                     </td>
@@ -295,7 +295,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/PRODUCTIVIDAD_Logo.png" alt="agencia asesoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/PRODUCTIVIDAD_Logo.png" alt="agencia asesoria"></td>
                     <td>PRODUCTIVIDAD LABORAL 24/7</td>
                     <td>Av. Rey Coliman 329 D103, Colonia Centro, Colima, Col.
                     </td>
@@ -308,7 +308,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/GRUPO CORSEC Logo.jpg" alt="agencia asesoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/GRUPO CORSEC Logo.jpg" alt="agencia asesoria"></td>
                     <td>GRUPO CORSEC</td>
                     <td>Blvd, Miguel de la Madrid 426 Piso 3 Planta Peletizadora C.P. 28239
                     </td>
@@ -319,7 +319,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/DOMIND_Logo.png" alt="agencia asesoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/DOMIND_Logo.png" alt="agencia asesoria"></td>
                     <td>DOMIND DESARROLLO ORGANIZACIONAL</td>
                     <td>Av. Constitución 2132-5 C.P. 28017 Col. Puerta del Sol. Colima, Colima
                     </td>
@@ -346,7 +346,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/GAITAN.jpg" alt="agencia legal"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/GAITAN.jpg" alt="agencia legal"></td>
                     <td>GAITAN GUDIÑO Y ASOCIADOS S.C.</td>
                     <td>Blvd. Miguel De La Madrid No.1513 Las Perlas 2, Playa Azul, Manzanillo, Col.
                     </td>
@@ -359,7 +359,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="../assets/img/Directorio/NOTARIA.jpg" alt="agencia legal"></td>
+                    <td><img class="directoryImg" data-src="../assets/img/Directorio/NOTARIA.jpg" alt="agencia legal"></td>
                     <td>NOTARIA 1</td>
                     <td>Guarnición De La Plaza No.7, Salagua, El Pacífico, Manzanillo, Col.
                     </td>
@@ -385,7 +385,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/AUTOMOTORES.jpg" alt="agencia automotriz"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/AUTOMOTORES.jpg" alt="agencia automotriz"></td>
                     <td>AUTOMOTORES FLOVA</td>
                     <td>Blvd. Miguel De La Madrid No. 1104, Solares, Manzanillo, Col.
                     </td>
@@ -397,7 +397,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/CAVSA.jpg" alt="agencia automotriz"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/CAVSA.jpg" alt="agencia automotriz"></td>
                     <td>CAVSA COLIMA AUTOMOTRIZ (SUC. MANZANILLO)</td>
                     <td>Blvd. Miguel De La Madrid Hurtado No.12148, Salagua, Manzanillo, Col.
                     </td>
@@ -407,7 +407,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/LLANTIFRIO.jpg" alt="agencia automotriz"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/LLANTIFRIO.jpg" alt="agencia automotriz"></td>
                     <td>LLANTIFRIOS.A. DE C.V.</td>
                     <td>Lib. Tapeixtles El Colomo, No.400, Loma Alta Tapeixtles, Manzanillo, Col.
                     </td>
@@ -419,7 +419,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/NISSAN.png" alt="agencia automotriz"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/NISSAN.png" alt="agencia automotriz"></td>
                     <td>NISSAN RANCAGUA MANZANILLO</td>
                     <td>Blvd. Miguel de la Madrid Km 2, Parque Industrial Fondeport, Manzanillo, Col.
                     </td>
@@ -446,7 +446,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/BTM.png" alt="agencia consultoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/BTM.png" alt="agencia consultoria"></td>
                     <td>BTM DEL PUERTO, S.C./td>
                     <td>Av. La audiencia no 148 Int B14 Col Las Palmas C.P. 28869
                     </td>
@@ -458,7 +458,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/CONSORCIO POMPA.jpg" alt="agencia consultoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/CONSORCIO POMPA.jpg" alt="agencia consultoria"></td>
                     <td>CONSORCIO POMPA Y ASOCIADOS S.C.</td>
                     <td>Av. Audiencia 48 Local 25 Fracc. Península De Santiago, Manzanillo, Col
                     </td>
@@ -469,7 +469,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/CORPORATIVO_Logo.png" alt="agencia consultoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/CORPORATIVO_Logo.png" alt="agencia consultoria"></td>
                     <td>CORPORATIVO GARCÍA TREJO CONSULTORES FISCALES S.C.
                     <td>Lázaro Cárdenas No.175, Manzanillo, Col.
                     </td>
@@ -483,7 +483,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/DESPACHO DE ASESORÍA FISCO.jpg" alt="agencia consultoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/DESPACHO DE ASESORÍA FISCO.jpg" alt="agencia consultoria"></td>
                     <td>DESPACHO DE ASESORÍA FISCO ADUANERA INTEGRAL S.C.</td>
                     <td>Obras Marítimas No.30, Colonia el Pacífico, Manzanillo, Col.
                     </td>
@@ -494,7 +494,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/DESPACHO Y CONSULTORIA CADENA.jpg" alt="agencia consultoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/DESPACHO Y CONSULTORIA CADENA.jpg" alt="agencia consultoria"></td>
                     <td>DESPACHO Y CONSULTORIA CADENA S.A. DE C.V.
                     <td>Calle 10 De Mayo No.14 Int. 9, Centro, Manzanillo, Col.
                     </td>
@@ -502,7 +502,7 @@
                     <td>314 332 8401</td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/FLORES SANTOS Y ASOCIADOS.png" alt="agencia consultoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/FLORES SANTOS Y ASOCIADOS.png" alt="agencia consultoria"></td>
                     <td>FLORES SANTOS Y ASOCIADOS SC</td>
                     <td>Laguna De Carrizalillos No.712, Las Víboras, Colima, Col.
                     </td>
@@ -512,7 +512,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/PLANEACIÓN Y ESTRATEGIA.jpg" alt="agencia consultoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/PLANEACIÓN Y ESTRATEGIA.jpg" alt="agencia consultoria"></td>
                     <td>PLANEACIÓN Y ESTRATEGIA EMPRESARIAL</td>
                     <td>Los Pinos 344, Jardines De La Corregidora, Colima, Col.
                     </td>
@@ -523,7 +523,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/TLC.png" alt="agencia consultoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/TLC.png" alt="agencia consultoria"></td>
                     <td>TLC ASOCIADOS
                     <td>Luis Cabrera #2089, Zona Urbana Rio Tijuana, Tijuana, B.C.
                     </td>
@@ -531,7 +531,7 @@
                     <td>664 634 0189</td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/URIAS HIGAREDA.jpg" alt="agencia consultoria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/URIAS HIGAREDA.jpg" alt="agencia consultoria"></td>
                     <td>URIAS HIGAREDA Y ASOCIADOS SC</td>
                     <td>Compostela No.1958, Chapultepec Country, Guadalajara, Jal.
                     </td>
@@ -560,7 +560,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Comercio/ARTEK.jpg" alt="agencia comercio"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/ARTEK.jpg" alt="agencia comercio"></td>
                     <td>ARTEK BORDADOS
                     <td>Blvd. Miguel de la Madrid Km 11.5, Manzanillo, Col.
                     </td>
@@ -572,7 +572,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Comercio/BEEF.png" alt="agencia comercio"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/BEEF.png" alt="agencia comercio"></td>
                     <td>BEEF MARKET TIF S.A. DE C.V.</td>
                     <td>Océano Atlántico No.2, Colonia Del Mar, Manzanillo, Col.
                     </td>
@@ -583,7 +583,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Comercio/KAVA.jpg" alt="agencia comercio"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/KAVA.jpg" alt="agencia comercio"></td>
                     <td>KAVA DETALLES
                     <td>Av. Elías Zamora Verduzco #17 Salagua, Manzanillo, Col
                     </td>
@@ -594,7 +594,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Comercio/LA CASA DEL SOLDADOR.jpg" alt="agencia comercio"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/LA CASA DEL SOLDADOR.jpg" alt="agencia comercio"></td>
                     <td>LA CASA DEL SOLDADOR</td>
                     <td>Libramiento El Colomo, No. 13 C, Indeco, Tapeixtles, Manzanillo, Col
                     </td>
@@ -607,7 +607,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Comercio/MAYOREO DE COPIADORAS.jpg" alt="agencia comercio"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/MAYOREO DE COPIADORAS.jpg" alt="agencia comercio"></td>
                     <td>MAYOREO DE COPIADORAS S.A. DE C.V.
 
                     <td>Blvd. Miguel De La Madrid No.384 Pb, Tapeixtles, Manzanillo, Col.
@@ -619,7 +619,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Comercio/PAKET.jpg" alt="agencia comercio"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/PAKET.jpg" alt="agencia comercio"></td>
                     <td>PAKET</td>
                     <td>Av. La Joya No.105, La Joya 1, Manzanillo, Col.
 
@@ -632,7 +632,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Comercio/SEÑOR LED.png" alt="agencia comercio"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/SEÑOR LED.png" alt="agencia comercio"></td>
                     <td>SEÑOR LED
 
                     <td>Blvd. Miguel de la Madrid No.4996 Local A, Playa Azul, Manzanillo, Col.
@@ -644,7 +644,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Comercio/UNIFORMES.jpg" alt="agencia comercio"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/UNIFORMES.jpg" alt="agencia comercio"></td>
                     <td>UNIFORMES Y
                         BORDADOS
                         MANZANILLO
@@ -661,7 +661,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Comercio/AUTOGENA.png" alt="agencia comercio"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/AUTOGENA.png" alt="agencia comercio"></td>
                     <td>AUTOGENA MANZANILLO
                     </td>
                     <td>Blvd. Miguel De La Madrid No.580, Valle De Las Garzas, Barrio 1, Manzanillo, Col.
@@ -691,7 +691,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Construccion/ALTHO.jpg" alt="agencia construccion"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Construccion/ALTHO.jpg" alt="agencia construccion"></td>
                     <td>ALTHO PROYECTO Y CONSTRUCCIÓN S.A. DE C.V.</td>
                     <td>Revolución No.3B, Santiago, Manzanillo Col.
                     </td>
@@ -702,7 +702,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Construccion/Azulejos.jpg" alt="agencia construccion"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Construccion/Azulejos.jpg" alt="agencia construccion"></td>
                     <td>AZULEJOS LAS GARZAS</td>
 
                     <td>Av. Elías Zamora Verduzco No.38, Valle De Las Garzas, Manzanillo, Col.
@@ -717,7 +717,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Construccion/BB.jpg" alt="agencia construccion"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Construccion/BB.jpg" alt="agencia construccion"></td>
                     <td>BB CONSTRUCTORA HMNOS</td>
                     <td>Narcizo Mendoza, No.1, Santiago, Manzanillo, Col.
                     </td>
@@ -728,7 +728,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Construccion/INGENIERIA.jpg" alt="agencia construccion"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Construccion/INGENIERIA.jpg" alt="agencia construccion"></td>
                     <td>INGENIERIA INDESCA</td>
 
                     <td>Calle Circuito del Prado 2001 No Ext 10, Col. Brisas de Chapala
@@ -741,7 +741,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Construccion/MADERERIA.png" alt="agencia construccion"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Construccion/MADERERIA.png" alt="agencia construccion"></td>
                     <td>MADERERIA VARALOSO</td>
                     <td>Av. Manzanillo No.20, Manzanillo, Col.
                     </td>
@@ -752,7 +752,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src=" assets/img/Directorio/Construccion/PINFRA.jpg" alt="agencia construccion"></td>
+                    <td><img class="directoryImg" data-src=" assets/img/Directorio/Construccion/PINFRA.jpg" alt="agencia construccion"></td>
                     <td>PINFRA</td>
 
                     <td>Bosques De Radiatas S/N, Bosques De Las Lomas, Cdmx.
@@ -764,7 +764,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Construccion/MATERIALES.png" alt="agencia construccion"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Construccion/MATERIALES.png" alt="agencia construccion"></td>
                     <td>MATERIALES MONTERREY</td>
 
                     <td>Blvd. Miguel De La Madrid Hurtado No.13, Salagua, Manzanillo, Col.
@@ -794,7 +794,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Deportivo/DESARROLLADORA.png" alt="agencia deportiva"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Deportivo/DESARROLLADORA.png" alt="agencia deportiva"></td>
                     <td>DESARROLLADORA RESIDENCIAL MANZANILLO COUNTRY CLUB, S.A. DE C.V.</td>
                     <td>Antiguo camino a Chandiablo Km.2, Colonia Abelardo L. Rodríguez, Manzanillo, Col.
                     </td>
@@ -805,7 +805,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Deportivo/PACIFIC.jpg" alt="agencia deportiva"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Deportivo/PACIFIC.jpg" alt="agencia deportiva"></td>
                     <td>PACIFIC AQUA ESCUELA DE NADO</td>
                     <td>Av. Las Palmas, Fracc. la Higuera Local 1-A, Frente a Campo Verde., Manzanillo, Col.
                     </td>
@@ -818,7 +818,7 @@
 
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Deportivo/CAPITAL.PNG" alt="agencia deportiva"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Deportivo/CAPITAL.PNG" alt="agencia deportiva"></td>
                     <td>CAPITAL FITNESS</td>
                     <td>Blvd. Miguel de la Madrid No.3175, Plaza Punto Bahía Local C2, Manzanillo, Col
                     </td>
@@ -829,7 +829,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Deportivo/PULSE.PNG" alt="agencia deportiva"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Deportivo/PULSE.PNG" alt="agencia deportiva"></td>
                     <td>PULSE LIFE CLUB</td>
                     <td>Blvd. Miguel de la Madrid Hurtado #8, Playa Azul,Manzanillo, Col.
 
@@ -857,7 +857,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Educativo/COLEGIO.jpg" alt="agencia educativa"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Educativo/COLEGIO.jpg" alt="agencia educativa"></td>
                     <td>COLEGIO TERRANOVA</td>
                     <td>Arturo Castro Guízar No.21, Las Brisas, Manzanillo, Col.
                     </td>
@@ -868,7 +868,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Educativo/PATRONATO.png" alt="agencia educativa"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Educativo/PATRONATO.png" alt="agencia educativa"></td>
                     <td>PATRONATO CULTURAL VIZCAYA, A.C.</td>
                     <td>Blvd. Miguel De La Madrid No.1088, Salagua, Manzanillo, Col.
                     </td>
@@ -881,7 +881,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Educativo/COII.png" alt="agencia educativa"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Educativo/COII.png" alt="agencia educativa"></td>
                     <td>COII (CENTRO DE ORIENTACION DE INTERVENCION INFANTIL)</td>
                     <td>José María Flores 100, Fracc. Los Mangos, Salagua
                     </td>
@@ -891,7 +891,7 @@
                     <td>314 113 1232 314 305 4017</td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Educativo/INSTITUTO.png" alt="agencia educativa"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Educativo/INSTITUTO.png" alt="agencia educativa"></td>
                     <td>INSTITUTO DE EDUCACION Y CULTURA DE OCCIDENTE S.A. DE C.V.</td>
                     <td>Boulevard Miguel de la Madrid No. 14540 Int 7
                     </td>
@@ -917,7 +917,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Energetico/DISTRIBUIDOR.jpg" alt="agencia energetica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Energetico/DISTRIBUIDOR.jpg" alt="agencia energetica"></td>
                     <td>DISTRIBUIDOR A PORTUARIA DE COMBUSTIBLE S.A. DE C.V. </td>
                     <td>Av. Central Sur, Lote 1, Mza. H, Fondeport, Manzanillo, Col.
                     </td>
@@ -927,7 +927,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Energetico/GAS.png" alt="agencia energetica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Energetico/GAS.png" alt="agencia energetica"></td>
                     <td>GAS MENGUC,S.A. DE C.V. </td>
                     <td>Carretera Manzanillo Cuyutlan km 5 , campos, Manzanillo, Colima
                     </td>
@@ -939,7 +939,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Energetico/HOREB.png" alt="agencia energetica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Energetico/HOREB.png" alt="agencia energetica"></td>
                     <td>HOREB ENERGY</td>
                     <td>Av. Elias Zamora Verduzco No.2124F, Manzanillo, Col
                     </td>
@@ -949,7 +949,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Energetico/GRUPO.jpg" alt="agencia energetica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Energetico/GRUPO.jpg" alt="agencia energetica"></td>
                     <td>GRUPO JOVALDI S.A. DE C.V.</td>
                     <td>Blvd. Miguel De La Madrid No.302, Tapeixtles, Manzanillo, Col.
                     </td>
@@ -975,7 +975,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Financiera/BANCO.png" alt="agencia financiera"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Financiera/BANCO.png" alt="agencia financiera"></td>
                     <td>BANCO MONEX S.A.</td>
                     <td>Blvd. Miguel De La Madrid Hurtado No.256 Int 1, Tapeixtles, Manzanillo, Col.
                     </td>
@@ -985,7 +985,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Financiera/CAJA.png" alt="agencia financiera"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Financiera/CAJA.png" alt="agencia financiera"></td>
                     <td>CAJA POPULAR MANZANILLO, S.C. DE A.P. DE R.L. DE C.V. </td>
                     <td>Av. México No. 386 Col. Centro, Manzanillo, Col.
                     </td>
@@ -996,7 +996,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Financiera/INTERCAM.png" alt="agencia financiera"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Financiera/INTERCAM.png" alt="agencia financiera"></td>
                     <td>INTERCAM BANCO</td>
                     <td>Blvd Miguel de la Madrid No. 874 Local 1, Playa Azul Manzanillo Colima
                     </td>
@@ -1006,7 +1006,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Financiera/SOC.png" alt="agencia financiera"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Financiera/SOC.png" alt="agencia financiera"></td>
                     <td>SOC 12 OPCIONES PARA TI</td>
                     <td>Prol. Acueducto No. 32, Fracc. Almendros III, Manzanillo, Col.
                     </td>
@@ -1031,7 +1031,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Hoteleria/" alt="agencia hotelera"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/" alt="agencia hotelera"></td>
                     <td>EL CORAZON DE MANZANILLO</td>
                     <td>El Naranjo, Manzanillo, Col.
                     </td>
@@ -1041,7 +1041,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Hoteleria/El.jpg" alt="agencia hotelera"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/El.jpg" alt="agencia hotelera"></td>
                     <td>HECTOURS</td>
                     <td>Blvd. Miguel de la Madrid No.3147, Playa Azul, Manzanillo, Col.
                     </td>
@@ -1056,7 +1056,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Hoteleria/HECTOURS.jpg" alt="agencia hotelera"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/HECTOURS.jpg" alt="agencia hotelera"></td>
                     <td>HOLIDAY INN EXPRESS MANZANILLO</td>
                     <td>Blvd. Miguel De La Madrid No.424, Zona Industrial Tapeixtles, Manzanillo, Col
                     </td>
@@ -1068,7 +1068,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Hoteleria/HOLIDAY.jpg" alt="agencia hotelera"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/HOLIDAY.jpg" alt="agencia hotelera"></td>
                     <td>HOTEL GRAN ISLA NAVIDAD</td>
                     <td>Circuito De Los Marinos S/N, Fraccionamiento Isla Navidad, Manzanillo Col.
                     </td>
@@ -1082,7 +1082,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Hoteleria/HOTEL.jpg" alt="agencia hotelera"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/HOTEL.jpg" alt="agencia hotelera"></td>
                     <td>LA PERGOLA</td>
                     <td>Blvd. Miguel De La Madrid No.1309, Salagua, Manzanillo, Col.
                     </td>
@@ -1093,7 +1093,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Hoteleria/RESTAURANT.JPG" alt="agencia hotelera"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/RESTAURANT.JPG" alt="agencia hotelera"></td>
                     <td>RESTAURANT BIGOTES 1</td>
                     <td>Blvd. Miguel de la Madrid No. 3157, Playa Azul, Manzanillo, Col.C.P. 28218 </td>
                     <td>elbigotei@hotmail.com
@@ -1104,7 +1104,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Hoteleria/CORPORATIVO.JPG" alt="agencia hotelera"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/CORPORATIVO.JPG" alt="agencia hotelera"></td>
                     <td>CORPORATIVO MARBELLA</td>
                     <td>Blvd. Miguel De La Madrid No.1077, Esquina Calle Marbella No.7, Playa Azul, Manzanillo, Col.
                     </td>
@@ -1117,7 +1117,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Hoteleria/TLALOC.JPG" alt="agencia hotelera"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/TLALOC.JPG" alt="agencia hotelera"></td>
                     <td>TLALOC TOURS S.A DE C.V.</td>
                     <td>Blvd. Miguel De La Madrid Km 14, Santiago, Manzanillo, Col. </td>
                     <td>elbigotei@hotmail.com
@@ -1143,7 +1143,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Inmobiliaria/AM.PNG" alt="agencia inmobiliaria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Inmobiliaria/AM.PNG" alt="agencia inmobiliaria"></td>
                     <td>AM ESPACIOS</td>
                     <td>Plaza Miramar. Blvd. Miguel de la Madrid No.14550 Int. 10 Col. Colinas de Santiago C.P.28860 Manzanillo, Colima
                     </td>
@@ -1154,7 +1154,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Inmobiliaria/CENTURY.JPG" alt="agencia inmobiliaria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Inmobiliaria/CENTURY.JPG" alt="agencia inmobiliaria"></td>
                     <td>CENTURY 21 GOLDEN PROPERTIES</td>
                     <td>Blvd. Miguel De La Madrid No.1337 Int. A8, Salagua, Manzanillo Col.
                     </td>
@@ -1165,7 +1165,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Inmobiliaria/REMAX.JPG" alt="agencia inmobiliaria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Inmobiliaria/REMAX.JPG" alt="agencia inmobiliaria"></td>
                     <td>REMAX PERLA PACIFICO</td>
                     <td>Blvd. Miguel De La Madrid No.14485, Santiago, Manzanillo, Col.
                     </td>
@@ -1176,7 +1176,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="" alt="agencia inmobiliaria"></td>
+                    <td><img class="directoryImg" data-src="" alt="agencia inmobiliaria"></td>
                     <td>LLACA CORP</td>
                     <td>Juan Escutia 179
                     </td>
@@ -1202,7 +1202,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/ALTA.JPG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/ALTA.JPG" alt="agencia logistica"></td>
                     <td>ALTA STOCKMAN</td>
                     <td>Av. Lázaro Cárdenas #1248 Int. 2da planta, colonia Morelos en las Brisas. C.P. 28217 Manzanillo, Colima.
                     </td>
@@ -1213,7 +1213,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/CIMA.JPG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/CIMA.JPG" alt="agencia logistica"></td>
                     <td>CIMA GROUP</td>
                     <td>Carretera Manzanillo-Minatitlán Km 4.5, Manzanillo, Col.
                     </td>
@@ -1225,7 +1225,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/EXCELENCIA.PNG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/EXCELENCIA.PNG" alt="agencia logistica"></td>
                     <td>EXCELENCIA EN LOGISTICA ADUANAL S.C.</td>
                     <td>Carretera Manzanillo- Minatitlán No.1003, Tapeixtles, Manzanillo, Col.
                     </td>
@@ -1236,7 +1236,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/GRUPO.JPG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/GRUPO.JPG" alt="agencia logistica"></td>
                     <td>GRUPO EMPRESARIAL CUADRANTE I</td>
                     <td>Pájaro de Fuego 5, Salagua, Manzanillo, Colima C.P. 28869
                     </td>
@@ -1249,7 +1249,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/GRUPO GALVAN.PNG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/GRUPO GALVAN.PNG" alt="agencia logistica"></td>
                     <td>GRUPO GALVAN</td>
                     <td>Av. Dos Oriente No.13, Parque Industrial Fondeport, Manzanillo, Col.
                     </td>
@@ -1260,7 +1260,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/IMPALA.PNG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/IMPALA.PNG" alt="agencia logistica"></td>
                     <td>IMPALA TERMINALS MÉXICO</td>
                     <td>Carretera Manzanillo- Minatitlán Km 1.5, Tapeixtles, Manzanillo, Colima C.P. 28239
                     </td>
@@ -1271,7 +1271,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/LOGÍSTICA.JPG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/LOGÍSTICA.JPG" alt="agencia logistica"></td>
                     <td>LOGISTICA Y MANIOBRAS MELPAG, S.A DE C.V.</td>
                     <td>Km 1 Carretera Manzanillo Minatitlan No.50, Tapeixtles, Manzanillo, Col.
                     </td>
@@ -1282,7 +1282,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/LOGISTICA.JPG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/LOGISTICA.JPG" alt="agencia logistica"></td>
                     <td>LOGÍSTICA WOODWARD</td>
                     <td>Av. Lázaro Cárdenas No.1248 Col. Morelos C.P.28217
 
@@ -1294,7 +1294,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/MANIOBRAS.PNG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/MANIOBRAS.PNG" alt="agencia logistica"></td>
                     <td>MANIOBRAS ESTRATEGICAS DEL PACIFICO</td>
                     <td>Acámbaro No.444, Tapeixtles, Manzanillo, Col.
                     </td>
@@ -1304,7 +1304,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/MCT.JPG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/MCT.JPG" alt="agencia logistica"></td>
                     <td>MCT</td>
                     <td>Carretera Manzanillo-Minatitlán Km 2, Tapeixtles, Manzanillo, Col.
 
@@ -1317,7 +1317,7 @@
 
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/OPERADORA.PNG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/OPERADORA.PNG" alt="agencia logistica"></td>
                     <td>OPERADORA DE ENLACES LOGISTICOS S.A. DE C.V. </td>
                     <td>Dolores Hidalgo No.25, Colonia 16 De Septiembre, Manzanillo, Col.
                     </td>
@@ -1327,7 +1327,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/SOLUCIONES.PNG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/SOLUCIONES.PNG" alt="agencia logistica"></td>
                     <td>SOLUCIONES Y PUNTO S.A DE C.V</td>
                     <td>Av. La Audiencia No. 40 Int. 48B, Península De Santiago, Manzanillo, Col.
 
@@ -1339,7 +1339,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/TES.JPG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/TES.JPG" alt="agencia logistica"></td>
                     <td>TES OPERADOR LOGISTICO INTEGRAL</td>
                     <td>Blvd. Miguel De La Madrid No. 618, Valle De Las Garzas, Manzanillo, Col.
                     </td>
@@ -1349,7 +1349,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/WORLD.JPG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/WORLD.JPG" alt="agencia logistica"></td>
                     <td>WORLD SERVICE LOGISTIC SC.</td>
                     <td>Blvd. Miguel De La Madrid No.1303, Brisas Del Mar, Manzanillo, Col.
 
@@ -1361,7 +1361,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/VAFA.JPG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/VAFA.JPG" alt="agencia logistica"></td>
                     <td>VAFA LOGÍSTICA Y TRANSPORTACIÓN</td>
                     <td>Blvd. Miguel de la Madrid, No.618, Int.5, Valle de las Garzas, Manzanillo, Col.
                     </td>
@@ -1371,7 +1371,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/KOSTEN.JPG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/KOSTEN.JPG" alt="agencia logistica"></td>
                     <td>KOSTEN LOGISTICS</td>
                     <td>Av.Palma S/N Fracc. La Higuera, Manzanillo, Col.
 
@@ -1383,7 +1383,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/LOGÍSTICAa.PNG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/LOGÍSTICAa.PNG" alt="agencia logistica"></td>
                     <td>LOGÍSTICA TRAE</td>
                     <td>Av. Parotas, No. 119, Barrio 1, Valle de las Garzas, Manzanillo, Col
                     </td>
@@ -1395,7 +1395,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Logistica/INTERCARGO.JPG" alt="agencia logistica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/INTERCARGO.JPG" alt="agencia logistica"></td>
                     <td>INTERCARGO SOLUTIONS MEXICO SA DE CV</td>
                     <td>Blvd. Miguel de la Madrid No. 1017 Int. 4, Playa Azul, Manzanillo, Co
 
@@ -1425,7 +1425,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Medios/Manzanillo.jpg" alt="agencia medios de comuniacion"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Medios/Manzanillo.jpg" alt="agencia medios de comuniacion"></td>
                     <td>MANZANILLO. TV</td>
                     <td>Prolongación 28 De Agosto No.57ª, Col. Deportiva, Manzanillo, Col.
                     </td>
@@ -1453,7 +1453,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Minero/Peña.jpg" alt="agencia minera"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Minero/Peña.jpg" alt="agencia minera"></td>
                     <td>PEÑA COLORADA</td>
                     <td>Av. Del Trabajo No.1000, Tapeixtles, Manzanillo Col
                     </td>
@@ -1480,7 +1480,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Naviero/ACAPULCO.JPG" alt="agencia naviera"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Naviero/ACAPULCO.JPG" alt="agencia naviera"></td>
                     <td>ACAPULCO SHIPPING AGENCIES S.A. DE C.V.</td>
                     <td>Calle 5 De Diciembre No. 1 Ext. B, Manzanillo, Col.
 
@@ -1507,7 +1507,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Pesca/GRUPO.PNG" alt="agencia pesquera"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Pesca/GRUPO.PNG" alt="agencia pesquera"></td>
                     <td>GRUPO MAR</td>
                     <td>Don Antonio Suarez Gutiérrez No.5, Parque Industrial Fondeport, Manzanillo, Col
 
@@ -1534,7 +1534,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Publicidad/BRIO.PNG" alt="agencia publicista"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Publicidad/BRIO.PNG" alt="agencia publicista"></td>
                     <td>PUBLICENTER</td>
                     <td>Av. Morelos, No.219, Centro, Manzanillo, Col.
                     </td>
@@ -1544,7 +1544,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Publicidad/PUBLICENTER.JPG" alt="agencia publicista"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Publicidad/PUBLICENTER.JPG" alt="agencia publicista"></td>
                     <td>BRIO CREATIVO</td>
                     <td>Crucero de las Hadas. Blvd. Miguel de la Madrid 11368
                     </td>
@@ -1570,7 +1570,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Salud/HOSPITAL.JPG" alt="agencia de salud"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Salud/HOSPITAL.JPG" alt="agencia de salud"></td>
                     <td>HOSPITAL ECHAURI</td>
                     <td>Blvd. Miguel De La Madrid No.1215, Salagua, Manzanillo, Col.
                     </td>
@@ -1581,7 +1581,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Salud/LABORATORIO.JPG" alt="agencia de salud"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Salud/LABORATORIO.JPG" alt="agencia de salud"></td>
                     <td>LABORATORIO CLINICO DEL PUERTO SC</td>
                     <td>Blvd. Miguel De La Madrid No.1215, Salagua, Manzanillo, Col.
                     </td>
@@ -1593,7 +1593,7 @@
 
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Salud/GRUPO.PNG" alt="agencia de salud"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Salud/GRUPO.PNG" alt="agencia de salud"></td>
                     <td>GRUPO OFTAMOLOGICO SAN ANTONIO</td>
                     <td>Av. Elías Zamora Verduzco No.2114-A Loc. 9, Manzanillo, Col.
                     </td>
@@ -1606,7 +1606,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Salud/PRO.PNG" alt="agencia de salud"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Salud/PRO.PNG" alt="agencia de salud"></td>
                     <td>PRO INSUMOS DE SALUD COLIMA</td>
                     <td>Calle Coral, No. 9B, Salagua, Manzanillo, Col.
                     </td>
@@ -1616,7 +1616,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Salud/CLINICA.JPG" alt="agencia de salud"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Salud/CLINICA.JPG" alt="agencia de salud"></td>
                     <td>CLINICA DENTAL LOP CAL</td>
                     <td>Emiliano Zapata No. 43, esq. Josefa Ortiz de Dguez Centro, Manzanillo, Col.
                     </td>
@@ -1644,7 +1644,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Sanitizacion/SOLUCIONES INTEGRADAS.JPG" alt="agencia de sanitizacion"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Sanitizacion/SOLUCIONES INTEGRADAS.JPG" alt="agencia de sanitizacion"></td>
                     <td>SOLUCIONES DE SANITIZACIÓN Y LIMPIEZA</td>
                     <td>Av. Las Palmas, No. 113, Valle Paraíso, Manzanillo, Col.
                     </td>
@@ -1654,7 +1654,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Sanitizacion/SOLUCIONES.JPG" alt="agencia de sanitizacion"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Sanitizacion/SOLUCIONES.JPG" alt="agencia de sanitizacion"></td>
                     <td>SOLUCIONES INTEGRADAS DEL PACIFICO S.A. DE C.V. </td>
                     <td>Independencia No. 22, Centro Santiago, Manzanillo, Col.
                     </td>
@@ -1681,7 +1681,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Seguridad/ASESORIA.PNG" alt="agencia de seguridad"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Seguridad/ASESORIA.PNG" alt="agencia de seguridad"></td>
                     <td>ASESORIA EN LOGISTICA Y SEGURIDAD DUL</td>
                     <td>Av. Elías Zamora Verduzco, No. 445, L13, Barrio 4, Valle de las Garzas, Manzanillo, Col.
                     </td>
@@ -1691,7 +1691,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Seguridad/GRUPO.JPG" alt="agencia de seguridad"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Seguridad/GRUPO.JPG" alt="agencia de seguridad"></td>
                     <td>GRUPO CENTAUROS SEGURIDAD PRIVADA</td>
                     <td>Lázaro Cárdenas, No. 24, Colonia Tapeixtles, Manzanillo, Col.
                     </td>
@@ -1702,7 +1702,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Seguridad/PREVENCION.PNG" alt="agencia de seguridad"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Seguridad/PREVENCION.PNG" alt="agencia de seguridad"></td>
                     <td>PREVENCIÓN DE RIESGOS MANZANILLO</td>
                     <td>Lagos del bosque No.17, Tapeixtles, Manzanillo, Col.
                     </td>
@@ -1712,7 +1712,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Seguridad/PROTECTOR.JPG" alt="agencia de seguridad"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Seguridad/PROTECTOR.JPG" alt="agencia de seguridad"></td>
                     <td>PROTECTOR A CONTENEDORES S.A. DE C.V. </td>
                     <td>Calle Privada Encino No.185, Salagua, Manzanillo, Col.
                     </td>
@@ -1739,7 +1739,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Seguros/ESQUIVEL.JPG" alt="agencia de seguros"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Seguros/ESQUIVEL.JPG" alt="agencia de seguros"></td>
                     <td>ESQUIVEL ASESORES EN SEGUROS </td>
                     <td>Obras Marítimas No.104, Los Pinos, Manzanillo, Col.
                     </td>
@@ -1749,7 +1749,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Seguros/DANI.JPG" alt="agencia de seguros"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Seguros/DANI.JPG" alt="agencia de seguros"></td>
                     <td>GRUPO NUÑO ASESORES EN RIESGOS S.A DE C.V.</td>
                     <td>Respeto #23 Col. San Miguel, Manzanillo, Col
                     </td>
@@ -1760,7 +1760,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Seguros/GRUPO.JPG" alt="agencia de seguros"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Seguros/GRUPO.JPG" alt="agencia de seguros"></td>
                     <td>DANI TENA- LA DE LOS SEGUROS</td>
                     <td>Sidney 95 Real Santa Fe, Villa de Álvarez
                     </td>
@@ -1786,7 +1786,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Geolocalizacion/ATLANTIDA.PNG " alt="agencia de geolocalización"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Geolocalizacion/ATLANTIDA.PNG " alt="agencia de geolocalización"></td>
                     <td>ATLANTIDA</td>
                     <td>Av. Del Trabajo S/N, int. 4, Tapeixtles, Manzanillo, Col.
                     </td>
@@ -1812,7 +1812,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Generales/ALMACENAMIENTO.PNG" alt="agencia de servicios generales"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/ALMACENAMIENTO.PNG" alt="agencia de servicios generales"></td>
                     <td>ALMACENAMIENTO Y SERVICIOS A CONTENEDORES S.A. DE C.V.</td>
                     <td>Acámbaro N.66, Tapeixtles, Manzanillo, Col.
                     </td>
@@ -1822,7 +1822,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Generales/TECNO.PNG" alt="agencia de servicios generales"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/TECNO.PNG" alt="agencia de servicios generales"></td>
                     <td>TECNO MARINE, DISEÑO Y MANUFACTURA</td>
                     <td>Blvd. Miguel de la Madrid Hurtado, No. 400, Fondeport, Manzanillo, Col.
                     </td>
@@ -1834,7 +1834,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Generales/AFFIMEX.JPG" alt="agencia de servicios generales"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/AFFIMEX.JPG" alt="agencia de servicios generales"></td>
                     <td>AFFIMEX CORED WIRES S. DE R.L. DE C.V.</td>
                     <td>Carretera Manzanillo- Minatitlán S/N, KM 3.5, Jalipa Manzanillo, Col.
                     </td>
@@ -1845,7 +1845,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Generales/HAPPY.JPG" alt="agencia de servicios generales"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/HAPPY.JPG" alt="agencia de servicios generales"></td>
                     <td>HAPPY MOMS & KIDS LUDOTECA</td>
                     <td>Blvd. Miguel de la Madrid Hurtado, No. 1046, Plaza Las Palmas, Local F, Salagua, Manzanillo, Col.
                     </td>
@@ -1856,7 +1856,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Generales/B.K.A.S.JPG" alt="agencia de servicios generales"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/B.K.A.S.JPG" alt="agencia de servicios generales"></td>
                     <td>B.K.A.S. SALON & SPA</td>
                     <td>Av. Lázaro Cárdenas No. 1504, Las Brisas, Manzanillo, Col.
                     </td>
@@ -1866,7 +1866,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Generales/EWALD.PNG" alt="agencia de servicios generales"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/EWALD.PNG" alt="agencia de servicios generales"></td>
                     <td>EWALD & KOHL PACIFICO</td>
                     <td>Calle Guanabano 34 Valle de las Garzas
                     </td>
@@ -1877,7 +1877,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Generales/INSPECTORES.JPG" alt="agencia de servicios generales"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/INSPECTORES.JPG" alt="agencia de servicios generales"></td>
                     <td>INSPECTORES MARITIMOS DE MEXICO S DE R.L. DE C.V.</td>
                     <td>Av. Teniente Azueta No 4 Col. Burócrata
                     </td>
@@ -1887,7 +1887,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Generales/LDC.PNG" alt="agencia de servicios generales"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/LDC.PNG" alt="agencia de servicios generales"></td>
                     <td>LDC INDUSTRIAL S. DE R.L. DE C.V.</td>
                     <td>Calle Andador Palma D, Numero Ext M64 L1, Colonia Valle de las Garzas C.P. 28219 Manzanillo, Colima
                     </td>
@@ -1897,7 +1897,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Generales/LOCAL.PNG" alt="agencia de servicios generales"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/LOCAL.PNG" alt="agencia de servicios generales"></td>
                     <td>LOCAL WORKSPACE SOLUTIONS.</td>
                     <td>Blvd. Miguel de la Madrid 1251, Local 1B, Las Palmas, Manzanillo
                     </td>
@@ -1923,7 +1923,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Funerales/CIELO.JPG" alt="agencia funeraria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Funerales/CIELO.JPG" alt="agencia funeraria"></td>
                     <td>CIELO ETERNO</td>
                     <td>Blvd. Miguel de la Madrid No.1845, Fracc. Playa Azul, Manzanillo, Col.
                     </td>
@@ -1949,7 +1949,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Tecnologicos/CONSULTORIA.JPG" alt="agencia tecnologica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Tecnologicos/CONSULTORIA.JPG" alt="agencia tecnologica"></td>
                     <td>CONSULTORÍA EN INFORMÁTICA ALSA SA DE CV</td>
                     <td>Av. Manuel J. Clouthier No.182 B, El Ángel, Villa de Álvarez, Col.
                     </td>
@@ -1961,7 +1961,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Tecnologicos/CODESY.PNG" alt="agencia tecnologica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Tecnologicos/CODESY.PNG" alt="agencia tecnologica"></td>
                     <td>CODESY CONSULTORES</td>
                     <td>Gaviotas No.14, Gaviotas, Manzanillo, Col.
                     </td>
@@ -1972,7 +1972,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Tecnologicos/INTESYS.JPG" alt="agencia tecnologica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Tecnologicos/INTESYS.JPG" alt="agencia tecnologica"></td>
                     <td>INTESYS S.A. DE C.V</td>
                     <td>Torre Puerto Int. L14-2 Blvd. Miguel De La Madrid No.426, Tapeixtles, Manzanillo, Col.
                     </td>
@@ -1982,7 +1982,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Tecnologicos/SISTEMAS.PNG" alt="agencia tecnologica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Tecnologicos/SISTEMAS.PNG" alt="agencia tecnologica"></td>
                     <td>SISTEMAS INTEGRALES EN INTERNET & COMPUTO DE MEXICO S.C</td>
                     <td>Andador Bugambilias S/N, Manzana 4 Lote 14, Valle De Las Garzas, Manzanillo Col.
                     </td>
@@ -1993,7 +1993,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Tecnologicos/ATLAS-RASTREO.PNG" alt="agencia tecnologica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Tecnologicos/ATLAS-RASTREO.PNG" alt="agencia tecnologica"></td>
                     <td>ATLAS-RASTREO INTELIGENTE</td>
                     <td>Av. Lázaro Cárdenas No.1526 Local 7, Morelos, Manzanillo, Col. C.P. 28217 Plaza Santa Fe
                     </td>
@@ -2003,7 +2003,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Tecnologicos/GRUPO.JPG" alt="agencia tecnologica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Tecnologicos/GRUPO.JPG" alt="agencia tecnologica"></td>
                     <td>GRUPO SITPE SOLUCIONES</td>
                     <td>Sirio No.240 I.19, Salagua, Manzanillo, Col.
                     </td>
@@ -2013,7 +2013,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Servicios Tecnologicos/TECNOLÓGICA.JPG" alt="agencia tecnologica"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Tecnologicos/TECNOLÓGICA.JPG" alt="agencia tecnologica"></td>
                     <td>TECNOLÓGICA MEXICANA</td>
                     <td>Calle Gavilán, No.134, Paraíso Salagua, Manzanillo, Col.
                     <td>ventas@tecme.mx
@@ -2039,7 +2039,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Terminal Portuaria/CONTECON.JPG" alt="agencia portuaria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Terminal Portuaria/CONTECON.JPG" alt="agencia portuaria"></td>
                     <td>CONTECON MANZANILLO S.A. DE C.V. </td>
                     <td>Blvd. Miguel De La Madrid Hurtado No.1519 Int. L-A, Infonavit, Manzanillo, Col.
                     </td>
@@ -2049,7 +2049,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Terminal Portuaria/OCUPA.PNG" alt="agencia portuaria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Terminal Portuaria/OCUPA.PNG" alt="agencia portuaria"></td>
                     <td>OCUPA, S.A DE C.V.</td>
                     <td>Av. Central L1 Me, Fondeport, Manzanillo, Col.
                     </td>
@@ -2060,7 +2060,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Terminal Portuaria/SSA.JPG" alt="agencia portuaria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Terminal Portuaria/SSA.JPG" alt="agencia portuaria"></td>
                     <td>SSA MEXICO </td>
                     <td>Blvd. Miguel De La Madrid No.855, Manzanillo, Col.
                     </td>
@@ -2070,7 +2070,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Terminal Portuaria/TAP.PNG" alt="agencia portuaria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Terminal Portuaria/TAP.PNG" alt="agencia portuaria"></td>
                     <td>TAP LA JUNTA S.A. DE C.V</td>
                     <td>V. Lázaro Cárdenas # 1248 Int 1Col. Morelos Manzanillo, Colima, C.P. 28217
                     </td>
@@ -2081,7 +2081,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Terminal Portuaria/TERMINAL.JPG" alt="agencia portuaria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Terminal Portuaria/TERMINAL.JPG" alt="agencia portuaria"></td>
                     <td>TERMINAL INTERNACIONAL DE MANZANILLO S.A. DE C.V. </td>
                     <td>Av. Teniente Azueta N.29 Edificio 2, Burócrata, Manzanillo, Col.
                     </td>
@@ -2093,7 +2093,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Terminal Portuaria/TERMINALES.PNG" alt="agencia portuaria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Terminal Portuaria/TERMINALES.PNG" alt="agencia portuaria"></td>
                     <td>TERMINALES MEXICANAS DE CARGA Y ALMACENAJE, S.A. DE C.V.(TMC)</td>
                     <td>Calle Ballena L 23 M 1 Colonia Océano C.P. 28219
                     </td>
@@ -2103,7 +2103,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Terminal Portuaria/GRUPO.JPG" alt="agencia portuaria"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Terminal Portuaria/GRUPO.JPG" alt="agencia portuaria"></td>
                     <td>GRUPO LOGISTICO DE LA CUENCA DEL PACIFICO S.A. DE C.V</td>
                     <td>Av. Elías Zamora Verduzco #153 Local 4 Valle de las garzas barrio 2 Manzanillo Colima C.P. 28219
                     </td>
@@ -2135,7 +2135,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Transporte/AEROPUERTO.PNG" alt="agencia de transporte"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/AEROPUERTO.PNG" alt="agencia de transporte"></td>
                     <td>AEROPUERTO DE MANZANILLO S.A. DE C.V</td>
                     <td>Carretera Manzanillo, Barra De Navidad Km 42, Col. Playa De Oro, Manzanillo, Col.
                     </td>
@@ -2147,7 +2147,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Transporte/ALCARAZ.PNG" alt="agencia de transporte"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/ALCARAZ.PNG" alt="agencia de transporte"></td>
                     <td>ALCARAZ TRANSPORTE DE MANZANILLO</td>
                     <td>Carretera Manzanillo-Minatitlán km 2.3, No. 2137, int. A-1, Manzanillo, Col
                     </td>
@@ -2159,7 +2159,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Transporte/MGA.JPG" alt="agencia de transporte"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/MGA.JPG" alt="agencia de transporte"></td>
                     <td>MGA TRANSPORT</td>
                     <td>Blvd. Miguel de la Madrid Hurtado, No. 502, int. 13B, Fondeport, Manzanillo, Col
                     </td>
@@ -2171,7 +2171,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Transporte/MOREGAR.JPG" alt="agencia de transporte"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/MOREGAR.JPG" alt="agencia de transporte"></td>
                     <td>MOREGAR EXPRESS SA DE C</td>
                     <td>Miguel Torres Cárdenas No.14 Col. Del Pacifico, Manzanillo, Col.
                     </td>
@@ -2183,7 +2183,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Transporte/SANIDAD.JPG" alt="agencia de transporte"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/SANIDAD.JPG" alt="agencia de transporte"></td>
                     <td>SANIDAD CARGA Y OPERACIONES S.A. DE C.V.</td>
                     <td>La Barca No.11 M7 I-46, Tapeixtles, Manzanillo, Col.
                     </td>
@@ -2195,7 +2195,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Transporte/TRANSPORTES.PNG" alt="agencia de transporte"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/TRANSPORTES.PNG" alt="agencia de transporte"></td>
                     <td>TRANSPORTES JOSE GUAJARDO S.A. DE C.V.</td>
                     <td>Obras Marítimas S/N, Tapeixtles Manzanillo, Col.
                     </td>
@@ -2207,7 +2207,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Transporte/LOGISTICA.JPG" alt="agencia de transporte"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/LOGISTICA.JPG" alt="agencia de transporte"></td>
                     <td>LOGISTICA MULTIMODAL ESPECIALIZADA EN TRANSPORTE</td>
                     <td>Av. Paseo de las Garzas, No.295B, Salagua, Manzanillo, Col.
                     </td>
@@ -2217,7 +2217,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Transporte/CONEXIÓN.JPG" alt="agencia de transporte"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/CONEXIÓN.JPG" alt="agencia de transporte"></td>
                     <td>CONEXIÓN PORTUARIA DEL PACÍFICO</td>
                     <td>Av. Paseo de las Gaviotas No.295, Salagua, Manzanillo, Col.
                     </td>
@@ -2229,7 +2229,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Transporte/IPORT.PNG" alt="agencia de transporte"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/IPORT.PNG" alt="agencia de transporte"></td>
                     <td>TRANSPORTES FERNANDEZ</td>
                     <td>Av. Lopez Mateos S/N. Col. Arturo Noriega Pizano, El Colomo, Manzanillo, Col.
                     </td>
@@ -2239,7 +2239,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Transporte/SMD.JPG" alt="agencia de transporte"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/SMD.JPG" alt="agencia de transporte"></td>
                     <td>SMD SERVICIOS DE DISTRIBUCION PICASSO S.A. DE C.V</td>
                     <td>Carretera federal Manzanillo Armería Km 307+500, Col. El Colomo C.P. 28800
                     </td>
@@ -2251,7 +2251,7 @@
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Transporte/TRANSPORTES.PNG" alt="agencia de transporte"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/TRANSPORTES.PNG" alt="agencia de transporte"></td>
                     <td>TRANSPORTES FERNANDEZ</td>
                     <td>Av. Lopez Mateos S/N. Col. Arturo Noriega Pizano, El Colomo, Manzanillo, Col.
                     </td>
@@ -2261,7 +2261,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Transporte/GRUAS.JPG" alt="agencia de transporte"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/GRUAS.JPG" alt="agencia de transporte"></td>
                     <td>GRUAS ROMAN DE MANZANILLO S DE RL DE CV</td>
                     <td>José Cárdenas Pallares s/n Col. Méndez Arceo Salahua
                     </td>
@@ -2273,7 +2273,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" src="assets/img/Directorio/Transporte/K8.PNG" alt="agencia de transporte"></td>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/K8.PNG" alt="agencia de transporte"></td>
                     <td>K8 LOGISTICA S.A. DE C.V.</td>
                     <td>Obras Marítimas 86, Col. Fetse C.P. 28219
                     </td>
