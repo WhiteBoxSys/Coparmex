@@ -494,6 +494,13 @@ table tbody tr td {
   padding: 10px;
 }
 
+.directoryImg {
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+  align-self: center;
+}
+
 #directory-table tbody tr:nth-child(even) {
   background-color: #DEEBF6;
 }
