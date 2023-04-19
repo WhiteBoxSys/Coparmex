@@ -8,7 +8,11 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="team-item bg-light rounded overflow-hidden">
                     <div class="team-img position-relative overflow-hidden">
+<<<<<<< HEAD
                         <img class="img-fluid w-100" data-src="assets/img/team-1.jpg" alt="">
+=======
+                        <img class="img-fluid w-100" src="assets/img/Presidente.jpg" alt="">
+>>>>>>> 6ccdbf0213c1671610f7a36d69b2da503735fb0a
                         <div class="team-social">
                             <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a>
                             <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-facebook-f fw-normal"></i></a>

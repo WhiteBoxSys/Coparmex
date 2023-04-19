@@ -26,7 +26,7 @@
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-geo-alt text-primary me-2"></i>
-                            <p class="mb-0">Manzanillo Colima</p>
+                            <p class="mb-0">Av Elías Zamora 3009-planta alta, Manzanillo, Col.</p>
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-envelope-open text-primary me-2"></i>
@@ -53,7 +53,7 @@
         <div class="row justify-content-end">
             <div class="col-lg-8 col-md-6">
                 <div class="d-flex align-items-center justify-content-center" style="height: 75px;">
-                    <p class="mb-0">&copy; <a class="text-white border-bottom" href="#">COPARMEX Manzanillo</a>. Todos los derechos reservados.
+                    <p class="mb-0">&copy; <a class="text-white border-bottom" href="./">COPARMEX Manzanillo</a>. Todos los derechos reservados.
 
                         Diseñado por <a class="text-white border-bottom" href="https://whiteboxsystems.tech/s">WhiteBox Systems</a>
                     </p>

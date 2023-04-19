@@ -43,7 +43,6 @@
                 <td><img class="directoryImg" data-src="assets/img/Directorio/GCB_Logo.jpg" alt="agencia aduanal"></td>
                 <td>GCB LOGISTICA ADUANAL S.C.</td>
                 <td>Manuel Bonilla Valle No.484, Manzanillo, Col.
-
                 </td>
                 <td>www.gcb.mx</td>
                 <td>314 333 6564</td>

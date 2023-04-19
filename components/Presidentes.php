@@ -13,9 +13,7 @@
                         <small class="text-uppercase">Presidente (2000 a 2002)</small>
                     </div>
                 </div>
-                <div class="pt-4 pb-5 px-5">
-                    Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
-                </div>
+
             </div>
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
@@ -24,9 +22,6 @@
                         <h4 class="text-primary mb-1">Oscar Jiménez Lizárraga </h4>
                         <small class="text-uppercase">Presidente (2002-2004)</small>
                     </div>
-                </div>
-                <div class="pt-4 pb-5 px-5">
-                    Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
                 </div>
             </div>
             <div class="testimonial-item bg-light my-4">
@@ -37,9 +32,7 @@
                         <small class="text-uppercase">Presidente (2004-2006)</small>
                     </div>
                 </div>
-                <div class="pt-4 pb-5 px-5">
-                    Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
-                </div>
+
             </div>
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
@@ -49,9 +42,7 @@
                         <small class="text-uppercase">Presidente (2006-2008)</small>
                     </div>
                 </div>
-                <div class="pt-4 pb-5 px-5">
-                    Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
-                </div>
+
             </div>
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
@@ -61,9 +52,7 @@
                         <small class="text-uppercase">Presidente (2008-2010)</small>
                     </div>
                 </div>
-                <div class="pt-4 pb-5 px-5">
-                    Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
-                </div>
+
             </div>
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
@@ -73,9 +62,7 @@
                         <small class="text-uppercase">Presidente (2010-2012)</small>
                     </div>
                 </div>
-                <div class="pt-4 pb-5 px-5">
-                    Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
-                </div>
+
             </div>
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
@@ -85,9 +72,7 @@
                         <small class="text-uppercase">Presidente (2012-2014)</small>
                     </div>
                 </div>
-                <div class="pt-4 pb-5 px-5">
-                    Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
-                </div>
+
             </div>
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
@@ -97,9 +82,7 @@
                         <small class="text-uppercase">Presidente (2014-2016)</small>
                     </div>
                 </div>
-                <div class="pt-4 pb-5 px-5">
-                    Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
-                </div>
+
             </div>
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
@@ -109,9 +92,7 @@
                         <small class="text-uppercase">Presidente (2016-2018)</small>
                     </div>
                 </div>
-                <div class="pt-4 pb-5 px-5">
-                    Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
-                </div>
+
             </div>
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
@@ -121,9 +102,7 @@
                         <small class="text-uppercase">Presidente (2018-2020)</small>
                     </div>
                 </div>
-                <div class="pt-4 pb-5 px-5">
-                    Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
-                </div>
+
             </div>
         </div>
     </div>
