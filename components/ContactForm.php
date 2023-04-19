@@ -45,7 +45,7 @@
                             <textarea class="form-control border-0 bg-light px-4 py-3" rows="4" placeholder="Mensaje"></textarea>
                         </div>
                         <div class="col-12">
-                            <button class="btn btn-primary w-100 py-3" type="submit">Send Message</button>
+                            <button class="btn btn-primary w-100 py-3" type="submit">Enviar Mensaje</button>
                         </div>
                     </div>
                 </form>

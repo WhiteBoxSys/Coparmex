@@ -115,7 +115,7 @@
                             <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Lic. Uriel Moreno Flores</small>
                         </div>
                         <h4 class="mb-3"><strong>Laboral</strong> </h4>
-                        <p>Asesoría a los socios en materia laboral y dar a conocer de manera constante temas relevantes.</p> <br> <br> <br>
+                        <p>Asesoría a los socios en materia laboral y dar a conocer de manera constante temas relevantes.</p> <br>
                     </div>
                 </div>
             </div>
@@ -130,7 +130,8 @@
                             </small>
                         </div>
                         <h4 class="mb-3"><strong>Responsabilidad Social</strong> </h4>
-                        <p>Tener un impacto positivo y favorable para la comunidad.</p> <br><br> <br> <br>
+                        <p>Tener un impacto positivo y favorable para la comunidad.</p> <br><br>
+
                     </div>
                 </div>
             </div>
@@ -142,7 +143,6 @@
                     <div class="p-4">
                         <div class="d-flex mb-3">
                             <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Lic. Mariana Reyes
-
                             </small>
                         </div>
                         <h4 class="mb-3"><strong>Salud</strong> </h4>
