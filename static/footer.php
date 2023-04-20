@@ -4,7 +4,7 @@
             <div class="col-lg-4 col-md-6 footer-about">
                 <div class="d-flex flex-column align-items-center justify-content-center text-center h-100 bg-primary p-4">
                     <a href="index.php" class="navbar-brand">
-                        <img data-src="assets/img/LogoHorizontalBlanco.png" alt="Logo Coparmex Footer" width="300px" height="60px" >
+                        <img data-src="assets/img/LogoHorizontalBlanco.png" alt="Logo Coparmex Footer" width="300px" height="60px">
                         <img data-src="assets/img/LogoHorizontalBlanco.png" alt="Logo Coparmex Footer" width="300px" style="display:none">
                     </a>
                     <br>
@@ -74,4 +74,3 @@
 <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&family=Rubik:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
-<link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">

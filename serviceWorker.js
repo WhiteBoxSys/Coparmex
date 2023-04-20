@@ -11,7 +11,6 @@ const assets = [
   "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css",
   "assets/lib/owlcarousel/assets/owl.carousel.min.css",
   "assets/lib/animate/animate.min.css",
-  "assets/css/bootstrap.min.css",
 ];
 
 self.addEventListener("install", (installEvent) => {
