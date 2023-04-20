@@ -3,7 +3,7 @@
         <div class="row g-5">
             <div class="col-lg-7">
                 <div class="section-title position-relative pb-3 mb-5">
-                    <h5 class="fw-bold text-primary text-uppercase">¿Quienes Somos?</h5>
+                    <h5 class="fw-bold text-uppercase">¿Quienes Somos?</h5>
                     <h1 class="mb-0">Somos la mejor solución para los problemas de tu empresa</h1>
                 </div>
                 <p class="mb-4">Somos un sindicato patronal apartidista y de afiliación voluntaria que reúne a empresarios de todos los tamaños y sectores, a quienes representamos en los ámbitos laboral, económico, social y político, dentro y fuera de México.</p>
@@ -23,7 +23,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="mb-2">Llamar para consultar cualquier duda</h5>
-                        <h4 class="text-primary mb-0"><a href="tel:+314334292">314 33 4292</a></h4>
+                        <h4 class="mb-0"><a style="color: #091E3E;" href="tel:+314334292">314 33 4292</a></h4>
                     </div>
                 </div>
                 <a href="quote.html" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Afíaliate</a>
