@@ -613,11 +613,6 @@ table tbody tr td {
   font-size: 20px;
 }
 
-.img-banner {
-  height: 840px;
-  width: auto;
-}
-
 /*** Miscellaneous ***/
 @media (min-width: 991.98px) {
   .facts {
