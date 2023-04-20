@@ -23,7 +23,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="mb-2">Llamar para consultar cualquier duda</h5>
-                        <h4 class="text-primary mb-0">+012 345 6789</h4>
+                        <h4 class="text-primary mb-0"><a href="tel:+314334292">314 33 4292</a></h4>
                     </div>
                 </div>
                 <a href="quote.html" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Afíaliate</a>
