@@ -9,12 +9,12 @@
                 <p class="mb-4">Somos un sindicato patronal apartidista y de afiliación voluntaria que reúne a empresarios de todos los tamaños y sectores, a quienes representamos en los ámbitos laboral, económico, social y político, dentro y fuera de México.</p>
                 <div class="row g-0 mb-3">
                     <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Honestidad</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Solidaridad</h5>
+                        <h5 class="mb-3"><i class="fa fa-check  me-3"></i>Honestidad</h5>
+                        <h5 class="mb-3"><i class="fa fa-check  me-3"></i>Solidaridad</h5>
                     </div>
                     <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Transparencia</h5>
-                        <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Responsabilidad social</h5>
+                        <h5 class="mb-3"><i class="fa fa-check  me-3"></i>Transparencia</h5>
+                        <h5 class="mb-3"><i class="fa fa-check  me-3"></i>Responsabilidad social</h5>
                     </div>
                 </div>
                 <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
