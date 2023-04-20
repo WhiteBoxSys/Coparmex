@@ -7,8 +7,8 @@
                         <i class="fa fa-users text-dark"></i>
                     </div>
                     <div class="ps-4">
-                        <h5 class="text-white mb-0">Empresas</h5>
                         <h1 class="text-white mb-0" data-toggle="counter-up">180</h1>
+                        <h5 class="text-white mb-0">Empresas</h5>
                     </div>
                 </div>
             </div>
@@ -18,8 +18,8 @@
                         <i class="fa fa-check text-white"></i>
                     </div>
                     <div class="ps-4">
-                        <h5 class="text-dark mb-0">Empleos Generados</h5>
                         <h1 class="mb-0" data-toggle="counter-up">14000</h1>
+                        <h5 class="text-dark mb-0">Empleos Generados</h5>
                     </div>
                 </div>
             </div>
@@ -29,8 +29,8 @@
                         <i class="fa fa-award text-dark"></i>
                     </div>
                     <div class="ps-4">
-                        <h5 class="text-white mb-0">Actividades por año</h5>
                         <h1 class="text-white mb-0" data-toggle="counter-up">180</h1>
+                        <h5 class="text-white mb-0">Actividades por año</h5>
                     </div>
                 </div>
             </div>

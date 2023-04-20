@@ -3,20 +3,20 @@
         <div class="row g-5">
             <div class="col-lg-7">
                 <div class="section-title position-relative pb-3 mb-5">
-                    <h5 class="fw-bold text-uppercase">¿Quienes Somos?</h5>
                     <h1 class="mb-0">Somos la mejor solución para los problemas de tu empresa</h1>
                 </div>
-                <p class="mb-4">Somos un sindicato patronal apartidista y de afiliación voluntaria que reúne a empresarios de todos los tamaños y sectores, a quienes representamos en los ámbitos laboral, económico, social y político, dentro y fuera de México.</p>
                 <div class="row g-0 mb-3">
                     <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                        <h5 class="mb-3"><i class="fa fa-check  me-3"></i>Honestidad</h5>
-                        <h5 class="mb-3"><i class="fa fa-check  me-3"></i>Solidaridad</h5>
+                        <h6 class="mb-3"><i class="fa fa-check  me-3"></i>Honestidad</h6>
+                        <h6 class="mb-3"><i class="fa fa-check  me-3"></i>Solidaridad</h6>
                     </div>
                     <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
-                        <h5 class="mb-3"><i class="fa fa-check  me-3"></i>Transparencia</h5>
-                        <h5 class="mb-3"><i class="fa fa-check  me-3"></i>Responsabilidad social</h5>
+                        <h6 class="mb-3"><i class="fa fa-check  me-3"></i>Transparencia</h6>
+                        <h6 class="mb-3"><i class="fa fa-check  me-3"></i>Responsabilidad social</h6>
                     </div>
                 </div>
+                <p class="mb-4">Somos un sindicato patronal apartidista y de afiliación voluntaria que reúne a empresarios de todos los tamaños y sectores, a quienes representamos en los ámbitos laboral, económico, social y político, dentro y fuera de México.</p>
+
                 <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
                     <div class="bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
                         <i class="fa fa-phone-alt text-white"></i>
