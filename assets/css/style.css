@@ -501,6 +501,10 @@ table tbody tr td {
   align-self: center;
 }
 
+img {
+  aspect-ratio: attr(width) / attr(height);
+}
+
 #directory-table tbody tr:nth-child(even) {
   background-color: #deebf6;
 }

@@ -18,6 +18,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
 <link href="assets/lib/animate/animate.min.css" rel="stylesheet">
-<link href="assets/css/bootstrap.min.css" rel="stylesheet" media="all">
+<link media="all" href="assets/css/bootstrap.min.css" rel="stylesheet">
 <link href="assets/css/style.css" rel="stylesheet">
+<link media="all" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&family=Rubik:wght@400;500;600;700&display=swap" rel="stylesheet">
 <script src="assets/js/app.js"></script>
