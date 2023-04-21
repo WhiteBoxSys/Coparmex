@@ -1,7 +1,5 @@
-<!-- TODO: En este apartado dentras que hacer la conexión a la base de datos y exportarlo para los diferentes controladores que vamos a usar -->
 <?php
-define("DB_HOST", "localhost");
-define("USER_DB", "root");
-define("PWD_DB", "");
+define("DB_HOST", "sql485.main-hosting.eu");
+define("USER_DB", "u335407339_coparmex");
+define("PWD_DB", "c2iTVDvH7>");
 define("DB_NAME", "u335407339_coparmex");
-?>
