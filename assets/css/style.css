@@ -652,3 +652,8 @@ table tbody tr td {
     margin-bottom: -75px;
   }
 }
+
+.imgLogo{
+  width: 250px;
+  height: 50px;
+}
