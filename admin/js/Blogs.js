@@ -1,4 +1,4 @@
-function eliminarBlog() {
+function eliminarBlog(id) {
   const swalWithBootstrapButtons = Swal.mixin({
     customClass: {
       confirmButton: "btn btn-success",
@@ -6,7 +6,6 @@ function eliminarBlog() {
     },
     buttonsStyling: false,
   });
-
   swalWithBootstrapButtons
     .fire({
       title: "Estas seguro que deseas eliminar el blog?",
@@ -21,8 +20,8 @@ function eliminarBlog() {
       if (result.isConfirmed) {
         let data = new FormData();
         data.append("id", id);
-        data.append("accion", "eliminar");
-        fetch("php/cliente_controller.php", {
+        data.append("caso", "eliminar");
+        fetch("../controllers/BlogGridController.php", {
           method: "POST",
           body: data,
         })
@@ -58,5 +57,28 @@ function eliminarBlog() {
           "error"
         );
       }
+    });
+}
+document.addEventListener("DOMContentLoaded", function () {
+  document
+    .getElementById("AltaDeBlogs")
+    .addEventListener("submit", crearCliente);
+});
+async function crearCliente(e) {
+  e.preventDefault();
+  var form = document.getElementById("AltaDeBlogs");
+  let data = new FormData(form);
+  data.append("caso", "agregar");
+  fetch("../controllers/BlogGridController.php", {
+    method: "POST",
+    body: data,
+  })
+    .then((result) => result.text())
+    .then((result) => {
+      document.getElementById("successmessage").style.display = "inherit";
+      setTimeout(function () {
+        location.reload();
+      }, 3000);
+      form.reset();
     });
 }

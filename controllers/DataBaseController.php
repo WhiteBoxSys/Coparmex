@@ -1,12 +1,11 @@
 <?php
-include '../config/Database.php';
 class database
 {
     public $que;
-    private $servername = 'DB_HOST';
-    private $username = 'USER_DB';
-    private $password = 'PWD_DB';
-    private $dbname = 'DB_NAME';
+    private $servername = 'sql485.main-hosting.eu';
+    private $username = 'u335407339_coparmex';
+    private $password = 'c2iTVDvH7>';
+    private $dbname = 'u335407339_coparmex';
     private $result = array();
     private $mysqli = '';
 
@@ -52,7 +51,6 @@ class database
         } else {
             $sql = "SELECT $rows FROM $table";
         }
-
         $this->sql = $result = $this->mysqli->query($sql);
     }
     public function __destruct()

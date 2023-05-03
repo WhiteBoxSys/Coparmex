@@ -2,6 +2,7 @@
 <?php
 session_start();
 include 'DataBaseController.php';
-
+$correo = $_POST['email'];
+$contra = sha1($_POST['contra']);
 
 ?>

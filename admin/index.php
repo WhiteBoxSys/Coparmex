@@ -9,9 +9,6 @@
   <?php include 'static/header.php'; ?>
   <?php include 'static/nav.php'; ?>
   <main id="main" class="main">
-
-
-
     <section class="section dashboard">
       <div class="row">
         <div class="col-lg-12">
@@ -25,7 +22,6 @@
     </section>
   </main>
   <?php include 'static/footer.php'; ?>
-
 </body>
 
 </html>

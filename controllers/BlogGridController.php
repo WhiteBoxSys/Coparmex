@@ -1,13 +1,18 @@
-<!-- TODO: En este apartado tendrás que hacer todas las acciones referentes a el tablero del blog ademas de las propiedades en el panel de administración que el administrador podra eliminar los blogs, sería un CRUD del tablero de blogs -->
 <?php
-switch ($caso) {
+include 'DataBaseController.php';
+$a = new database();
+switch ($_POST['caso']) {
     case 'agregar':
+        $a->insert('publicaciones', ['autor' => $_POST['autor'], 'titulo' => $_POST['titulo'], 'descripcion' => $_POST['descripcion'], 'id_categoria' => $_POST['categoria'], 'texto_blog' => $_POST['texto_blog']]);
+        $result = $a->sql;
+        echo 1;
         break;
     case 'editar':
         break;
-    case 'elinminar':
-        break;
-    case 'consultar':
+    case 'eliminar':
+        $id = $_POST['id'];
+        $a->delete('publicaciones', "id='$id'");
+        $result = $a->sql;
+        echo 1;
         break;
 }
-?>

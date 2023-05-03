@@ -1,7 +1,17 @@
 <?php
+include "DataBaseController.php";
 function obtenerBlogsPublicados()
 {
-    include "config/ConnectionDB.php";
-    $queryConsulta = $conexionDB->query("SELECT * FROM publicaciones");
-    return $queryConsulta;
+    $a = new database();
+    $a->select("publicaciones", "*");
+    $result = $a->sql;
+    return $result;
+}
+
+function obtenerCategorias()
+{
+    $b = new database();
+    $b->select("categorias", "*");
+    $result = $b->sql;
+    return $result;
 }

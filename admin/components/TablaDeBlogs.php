@@ -18,16 +18,23 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                        <th scope="row"><a href="#">#2457</a></th>
-                        <td>Brandon Jacob</td>
-                        <td><a href="#" class="text-primary">At praesentium minu</a></td>
-                        <td>$64</td>
-                        <td>
-                            <button type="button" class="btn btn-success"><i class="bi bi-pencil"></i></button>
-                            <button type="button" onclick="eliminarBlog()" class="btn btn-danger"><i class="bi bi-trash"></i></button>
-                        </td>
-                    </tr>
+                    <?php
+                    include "../controllers/Selects.php";
+                    foreach (obtenerBlogsPublicados() as $row) {
+                    ?>
+                        <tr>
+                            <th scope="row"><a href="#"><?php echo $row['id']  ?></a></th>
+                            <td><?php echo $row['autor']  ?></td>
+                            <td><a href="#" class="text-primary"><?php echo $row['titulo']  ?></a></td>
+                            <td><?php echo $row['id_categoria']  ?></td>
+                            <td>
+                                <button type="button" class="btn btn-success"><i class="bi bi-pencil"></i></button>
+                                <button type="button" onclick="eliminarBlog(<?php echo $row['id']  ?>)" class="btn btn-danger"><i class="bi bi-trash"></i></button>
+                            </td>
+                        </tr>
+                    <?php
+                    }
+                    ?>
                 </tbody>
             </table>
         </div>
