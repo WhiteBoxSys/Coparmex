@@ -3,48 +3,48 @@
         <div class="row g-5">
             <div class="col-lg-7">
                 <div class="section-title position-relative pb-3 mb-5">
-                    <h5 class="fw-bold text-primary text-uppercase">Tienes alguna duda</h5>
+                    <h5 class="fw-bold text-dark text-uppercase">Tienes alguna duda</h5>
                     <h1 class="mb-0">No dudes en contactar con nosotros para poder aclarar todas tus dudas!</h1>
                 </div>
                 <div class="row gx-3">
                     <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                        <h5 class="mb-4"><i class="fa fa-reply text-primary me-3"></i>Responder dentro de las 24 horas</h5>
+                        <h5 class="mb-4"><i class="fa fa-reply text-dark me-3"></i>Responder dentro de las 24 horas</h5>
                     </div>
                     <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
-                        <h5 class="mb-4"><i class="fa fa-phone-alt text-primary me-3"></i>Asistencia telefónica las 24 horas</h5>
+                        <h5 class="mb-4"><i class="fa fa-phone-alt text-dark me-3"></i>Asistencia telefónica las 24 horas</h5>
                     </div>
                 </div>
                 <p class="mb-4">En Coparmex Manzanillo nos interesa mucho escuchar sus comentarios, sugerencias y preguntas. Si tienen alguna duda o inquietud acerca de nuestros servicios, actividades o programas, no duden en escribirnos. Nuestro equipo estará encantado de responder a sus preguntas y brindarles la información que necesiten.</p>
                 <div class="d-flex align-items-center mt-2 wow zoomIn" data-wow-delay="0.6s">
-                    <div class="bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
+                    <div class="bg-dark d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
                         <i class="fa fa-phone-alt text-white"></i>
                     </div>
                     <div class="ps-4">
                         <h5 class="mb-2">Llamar para consultar cualquier duda</h5>
-                        <h4 class="text-primary mb-0"><a href="tel:+">314 33 42929</a></h4>
+                        <h4 class="text-dark mb-0"><a href="tel:+">314 33 42929</a></h4>
                     </div>
                 </div>
                 <div class="d-flex align-items-center mt-2 wow zoomIn" data-wow-delay="0.6s">
-                    <div class="bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
+                    <div class="bg-dark d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
                         <i class="fab fa-whatsapp" style="color: #ffffff;"></i>
                     </div>
                     <div class="ps-4">
                         <h5 class="mb-2">Contacto de Whatsapp</h5>
-                        <h4 class="text-primary mb-0"> <a href="https://wa.link/0om18r">314 121 7143</a></h4>
+                        <h4 class="text-dark mb-0"> <a href="https://wa.link/0om18r">314 121 7143</a></h4>
                     </div>
                 </div>
                 <div class="d-flex align-items-center mt-2 wow zoomIn" data-wow-delay="0.6s">
-                    <div class="bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
+                    <div class="bg-dark d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
                         <i class="fa fa-envelope text-white"></i>
                     </div>
                     <div class="ps-4">
                         <h5 class="mb-2">Correo</h5>
-                        <h4 class="text-primary mb-0"><a href="mailto:">contacto@coparmexmanzanillo.org</a></h4>
+                        <h4 class="text-dark mb-0"><a href="mailto:">contacto@coparmexmanzanillo.org</a></h4>
                     </div>
                 </div>
             </div>
             <div class="col-lg-5">
-                <div class="bg-primary rounded h-100 d-flex align-items-center p-5 wow zoomIn" data-wow-delay="0.9s">
+                <div class="bg-dark rounded h-100 d-flex align-items-center p-5 wow zoomIn" data-wow-delay="0.9s">
                     <form>
                         <div class="row g-3">
                             <div class="col-xl-12">

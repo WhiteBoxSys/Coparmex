@@ -3,26 +3,30 @@
         <div class="row g-5">
             <div class="col-lg-8">
                 <div class="row g-5">
-                    <!-- TODO: en este apartado vamos a tener que mostrar todos los blogs se han subido recorriendo un objeto de mysql mediante una consulta a una tabla que tendría la información de los articulos que se irán publicacando, de preferencia utilizar ciclo while o foreach para representar la información -->
-                    <div class="col-md-6 wow slideInUp" data-wow-delay="0.1s">
-                        <div class="blog-item bg-light rounded overflow-hidden">
-                            <div class="blog-img position-relative overflow-hidden">
-                                <!-- TODO: Aqui vas a mostrar una imagen que estará en la base de datos la cual la pondras en la variable del atributo src en este caso, en vez de estar "assets/img/blog-1.jpg", estaría algo tipo $mostrar_datos['ruta_imagen'] usando las propiedades de php con el objeto de mysql -->
-                                <img class="img-fluid" data-src="assets/img/blog-1.jpg" alt="">
-                                <!-- TODO: Aqui vas a poner el titulo dentro de la etiqueta a con la variable de la categoria del blog en su caso sería algo tipo así $mostrar_datos['id_categoria'], sería igual para las demás etiquetas que siguen el titulo, el resumen, la fecha y el autor -->
-                                <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Fiscal</a>
-                            </div>
-                            <div class="p-4">
-                                <div class="d-flex mb-3">
-                                    <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                    <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
+                    <?php
+                    include "controllers/Selects.php";
+                    foreach (obtenerBlogsPublicados() as $row) {
+                    ?>
+                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.1s">
+                            <div class="blog-item bg-light rounded overflow-hidden">
+                                <div class="blog-img position-relative overflow-hidden">
+                                    <img class="img-fluid" data-src="assets/img/blog-1.jpg" alt="">
+                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href=""><?php echo $row['id_categoria']  ?></a>
                                 </div>
-                                <h4 class="mb-3">Leyes Arancelares 2023</h4>
-                                <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                                <div class="p-4">
+                                    <div class="d-flex mb-3">
+                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i><?php echo $row['autor']  ?></small>
+                                        <small><i class="far fa-calendar-alt text-primary me-2"></i><?php echo $row['creado']  ?></small>
+                                    </div>
+                                    <h4 class="mb-3"><?php echo $row['titulo']  ?></h4>
+                                    <p><?php echo $row['descripcion']  ?></p>
+                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                                </div>
                             </div>
                         </div>
-                    </div>
+                    <?php
+                    }
+                    ?>
                 </div>
             </div>
             <div class="col-lg-4">

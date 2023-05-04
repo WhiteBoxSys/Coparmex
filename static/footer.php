@@ -4,7 +4,7 @@
             <div class="col-lg-4 col-md-6 footer-about">
                 <div class="d-flex flex-column align-items-center justify-content-center text-center h-100 bg-primary p-4">
                     <a href="index.php" class="navbar-brand">
-                        <img data-src="assets/img/LogoHorizontalBlanco.png" alt="Logo Coparmex Footer" width="300px" height="60px" >
+                        <img data-src="assets/img/LogoHorizontalBlanco.png" alt="Logo Coparmex Footer" width="300px" height="60px">
                         <img data-src="assets/img/LogoHorizontalBlanco.png" alt="Logo Coparmex Footer" width="300px" style="display:none">
                     </a>
                     <br>
@@ -62,15 +62,11 @@
     </div>
 </div>
 <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded back-to-top"><i class="bi bi-arrow-up"></i></a>
-<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-<script src="assets/lib/wow/wow.min.js"></script>
-<script src="assets/lib/easing/easing.min.js"></script>
-<script src="assets/lib/waypoints/waypoints.min.js"></script>
-<script src="assets/lib/counterup/counterup.min.js"></script>
-<script src="assets/lib/owlcarousel/owl.carousel.min.js"></script>
-<script src="assets/js/main.js"></script>
-
-<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&family=Rubik:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
-<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+<script defer  src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script defer  src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+<script defer  src="assets/lib/wow/wow.min.js"></script>
+<script defer  src="assets/lib/easing/easing.min.js"></script>
+<script defer  src="assets/lib/waypoints/waypoints.min.js"></script>
+<script defer  src="assets/lib/counterup/counterup.min.js"></script>
+<script defer  src="assets/lib/owlcarousel/owl.carousel.min.js"></script>
+<script defer  src="assets/js/main.js"></script>

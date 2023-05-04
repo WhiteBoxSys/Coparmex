@@ -130,11 +130,11 @@ exports.default = Parchment;
 "use strict";
 
 var __extends = (this && this.__extends) || (function () {
-    var extendstatic = Object.setPrototypeOf ||
+    var extendStatics = Object.setPrototypeOf ||
         ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
         function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
     return function (d, b) {
-        extendstatic(d, b);
+        extendStatics(d, b);
         function __() { this.constructor = d; }
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
@@ -999,7 +999,7 @@ function bubbleFormats(blot) {
   if (typeof blot.formats === 'function') {
     formats = (0, _extend2.default)(formats, blot.formats());
   }
-  if (blot.parent == null || blot.parent.blotName == 'scroll' || blot.parent.static.scope !== blot.static.scope) {
+  if (blot.parent == null || blot.parent.blotName == 'scroll' || blot.parent.statics.scope !== blot.statics.scope) {
     return formats;
   }
   return bubbleFormats(blot.parent, formats);
@@ -1787,7 +1787,7 @@ var Inline = function (_Parchment$Inline) {
   _createClass(Inline, [{
     key: 'formatAt',
     value: function formatAt(index, length, name, value) {
-      if (Inline.compare(this.static.blotName, name) < 0 && _parchment2.default.query(name, _parchment2.default.Scope.BLOT)) {
+      if (Inline.compare(this.statics.blotName, name) < 0 && _parchment2.default.query(name, _parchment2.default.Scope.BLOT)) {
         var blot = this.isolate(index, length);
         if (value) {
           blot.wrap(name, value);
@@ -1800,7 +1800,7 @@ var Inline = function (_Parchment$Inline) {
     key: 'optimize',
     value: function optimize(context) {
       _get(Inline.prototype.__proto__ || Object.getPrototypeOf(Inline.prototype), 'optimize', this).call(this, context);
-      if (this.parent instanceof Inline && Inline.compare(this.static.blotName, this.parent.static.blotName) > 0) {
+      if (this.parent instanceof Inline && Inline.compare(this.statics.blotName, this.parent.statics.blotName) > 0) {
         var parent = this.parent.isolate(this.offset(), this.length());
         this.moveChildren(parent);
         parent.wrap(this);
@@ -2301,7 +2301,7 @@ var CodeBlock = function (_Block) {
   }, {
     key: 'format',
     value: function format(name, value) {
-      if (name === this.static.blotName && value) return;
+      if (name === this.statics.blotName && value) return;
 
       var _descendant = this.descendant(_text2.default, this.length() - 1),
           _descendant2 = _slicedToArray(_descendant, 1),
@@ -2316,7 +2316,7 @@ var CodeBlock = function (_Block) {
     key: 'formatAt',
     value: function formatAt(index, length, name, value) {
       if (length === 0) return;
-      if (_parchment2.default.query(name, _parchment2.default.Scope.BLOCK) == null || name === this.static.blotName && value === this.static.formats(this.domNode)) {
+      if (_parchment2.default.query(name, _parchment2.default.Scope.BLOCK) == null || name === this.statics.blotName && value === this.statics.formats(this.domNode)) {
         return;
       }
       var nextNewline = this.newlineIndex(index);
@@ -2371,7 +2371,7 @@ var CodeBlock = function (_Block) {
       }
       _get(CodeBlock.prototype.__proto__ || Object.getPrototypeOf(CodeBlock.prototype), 'optimize', this).call(this, context);
       var next = this.next;
-      if (next != null && next.prev === this && next.static.blotName === this.static.blotName && this.static.formats(this.domNode) === next.static.formats(next.domNode)) {
+      if (next != null && next.prev === this && next.statics.blotName === this.statics.blotName && this.statics.formats(this.domNode) === next.statics.formats(next.domNode)) {
         next.optimize(context);
         next.moveChildren(this);
         next.remove();
@@ -2676,7 +2676,7 @@ var Editor = function () {
       if (this.scroll.children.length == 0) return true;
       if (this.scroll.children.length > 1) return false;
       var block = this.scroll.children.head;
-      if (block.static.blotName !== _block2.default.blotName) return false;
+      if (block.statics.blotName !== _block2.default.blotName) return false;
       if (block.children.length > 1) return false;
       return block.children.head instanceof _break2.default;
     }
@@ -3350,11 +3350,11 @@ exports.default = Break;
 "use strict";
 
 var __extends = (this && this.__extends) || (function () {
-    var extendstatic = Object.setPrototypeOf ||
+    var extendStatics = Object.setPrototypeOf ||
         ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
         function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
     return function (d, b) {
-        extendstatic(d, b);
+        extendStatics(d, b);
         function __() { this.constructor = d; }
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
@@ -3459,11 +3459,11 @@ var ContainerBlot = /** @class */ (function (_super) {
         }
     };
     ContainerBlot.prototype.insertBefore = function (childBlot, refBlot) {
-        if (this.static.allowedChildren != null &&
-            !this.static.allowedChildren.some(function (child) {
+        if (this.statics.allowedChildren != null &&
+            !this.statics.allowedChildren.some(function (child) {
                 return childBlot instanceof child;
             })) {
-            throw new Registry.ParchmentError("Cannot insert " + childBlot.static.blotName + " into " + this.static.blotName);
+            throw new Registry.ParchmentError("Cannot insert " + childBlot.statics.blotName + " into " + this.statics.blotName);
         }
         childBlot.insertInto(this, refBlot);
     };
@@ -3480,8 +3480,8 @@ var ContainerBlot = /** @class */ (function (_super) {
     ContainerBlot.prototype.optimize = function (context) {
         _super.prototype.optimize.call(this, context);
         if (this.children.length === 0) {
-            if (this.static.defaultChild != null) {
-                var child = Registry.create(this.static.defaultChild);
+            if (this.statics.defaultChild != null) {
+                var child = Registry.create(this.statics.defaultChild);
                 this.appendChild(child);
                 child.optimize(context);
             }
@@ -3616,11 +3616,11 @@ exports.default = ContainerBlot;
 "use strict";
 
 var __extends = (this && this.__extends) || (function () {
-    var extendstatic = Object.setPrototypeOf ||
+    var extendStatics = Object.setPrototypeOf ||
         ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
         function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
     return function (d, b) {
-        extendstatic(d, b);
+        extendStatics(d, b);
         function __() { this.constructor = d; }
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
@@ -3652,16 +3652,16 @@ var FormatBlot = /** @class */ (function (_super) {
             this.attributes.attribute(format, value);
         }
         else if (value) {
-            if (format != null && (name !== this.static.blotName || this.formats()[name] !== value)) {
+            if (format != null && (name !== this.statics.blotName || this.formats()[name] !== value)) {
                 this.replaceWith(name, value);
             }
         }
     };
     FormatBlot.prototype.formats = function () {
         var formats = this.attributes.values();
-        var format = this.static.formats(this.domNode);
+        var format = this.statics.formats(this.domNode);
         if (format != null) {
-            formats[this.static.blotName] = format;
+            formats[this.statics.blotName] = format;
         }
         return formats;
     };
@@ -3681,7 +3681,7 @@ var FormatBlot = /** @class */ (function (_super) {
     };
     FormatBlot.prototype.wrap = function (name, value) {
         var wrapper = _super.prototype.wrap.call(this, name, value);
-        if (wrapper instanceof FormatBlot && wrapper.static.scope === this.static.scope) {
+        if (wrapper instanceof FormatBlot && wrapper.statics.scope === this.statics.scope) {
             this.attributes.move(wrapper);
         }
         return wrapper;
@@ -3698,11 +3698,11 @@ exports.default = FormatBlot;
 "use strict";
 
 var __extends = (this && this.__extends) || (function () {
-    var extendstatic = Object.setPrototypeOf ||
+    var extendStatics = Object.setPrototypeOf ||
         ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
         function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
     return function (d, b) {
-        extendstatic(d, b);
+        extendStatics(d, b);
         function __() { this.constructor = d; }
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
@@ -3733,7 +3733,7 @@ var LeafBlot = /** @class */ (function (_super) {
     };
     LeafBlot.prototype.value = function () {
         var _a;
-        return _a = {}, _a[this.static.blotName] = this.static.value(this.domNode) || true, _a;
+        return _a = {}, _a[this.statics.blotName] = this.statics.value(this.domNode) || true, _a;
     };
     LeafBlot.scope = Registry.Scope.INLINE_BLOT;
     return LeafBlot;
@@ -4310,7 +4310,7 @@ var Scroll = function (_Parchment$Scroll) {
       if (def != null && this.whitelist != null && !this.whitelist[value]) return;
       if (index >= this.length()) {
         if (def == null || _parchment2.default.query(value, _parchment2.default.Scope.BLOCK) == null) {
-          var blot = _parchment2.default.create(this.static.defaultChild);
+          var blot = _parchment2.default.create(this.statics.defaultChild);
           this.appendChild(blot);
           if (def == null && value.endsWith('\n')) {
             value = value.slice(0, -1);
@@ -4328,8 +4328,8 @@ var Scroll = function (_Parchment$Scroll) {
   }, {
     key: 'insertBefore',
     value: function insertBefore(blot, ref) {
-      if (blot.static.scope === _parchment2.default.Scope.INLINE_BLOT) {
-        var wrapper = _parchment2.default.create(this.static.defaultChild);
+      if (blot.statics.scope === _parchment2.default.Scope.INLINE_BLOT) {
+        var wrapper = _parchment2.default.create(this.statics.defaultChild);
         wrapper.appendChild(blot);
         blot = wrapper;
       }
@@ -5093,7 +5093,7 @@ var Cursor = function (_Parchment$Embed) {
       }
       var target = this,
           index = 0;
-      while (target != null && target.static.scope !== _parchment2.default.Scope.BLOCK_BLOT) {
+      while (target != null && target.statics.scope !== _parchment2.default.Scope.BLOCK_BLOT) {
         index += target.offset(target.parent);
         target = target.parent;
       }
@@ -5414,7 +5414,7 @@ var ShadowBlot = /** @class */ (function () {
         // @ts-ignore
         this.domNode[Registry.DATA_KEY] = { blot: this };
     }
-    Object.defineProperty(ShadowBlot.prototype, "static", {
+    Object.defineProperty(ShadowBlot.prototype, "statics", {
         // Hack for accessing inherited static methods
         get: function () {
             return this.constructor;
@@ -5477,7 +5477,7 @@ var ShadowBlot = /** @class */ (function () {
             blot.wrap(name, value);
         }
         else if (Registry.query(name, Registry.Scope.ATTRIBUTE) != null) {
-            var parent = Registry.create(this.static.scope);
+            var parent = Registry.create(this.statics.scope);
             blot.wrap(parent);
             parent.format(name, value);
         }
@@ -5647,11 +5647,11 @@ exports.default = AttributorStore;
 "use strict";
 
 var __extends = (this && this.__extends) || (function () {
-    var extendstatic = Object.setPrototypeOf ||
+    var extendStatics = Object.setPrototypeOf ||
         ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
         function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
     return function (d, b) {
-        extendstatic(d, b);
+        extendStatics(d, b);
         function __() { this.constructor = d; }
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
@@ -5710,11 +5710,11 @@ exports.default = ClassAttributor;
 "use strict";
 
 var __extends = (this && this.__extends) || (function () {
-    var extendstatic = Object.setPrototypeOf ||
+    var extendStatics = Object.setPrototypeOf ||
         ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
         function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
     return function (d, b) {
-        extendstatic(d, b);
+        extendStatics(d, b);
         function __() { this.constructor = d; }
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
@@ -6442,11 +6442,11 @@ exports.default = LinkedList;
 "use strict";
 
 var __extends = (this && this.__extends) || (function () {
-    var extendstatic = Object.setPrototypeOf ||
+    var extendStatics = Object.setPrototypeOf ||
         ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
         function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
     return function (d, b) {
-        extendstatic(d, b);
+        extendStatics(d, b);
         function __() { this.constructor = d; }
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
@@ -6626,11 +6626,11 @@ exports.default = ScrollBlot;
 "use strict";
 
 var __extends = (this && this.__extends) || (function () {
-    var extendstatic = Object.setPrototypeOf ||
+    var extendStatics = Object.setPrototypeOf ||
         ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
         function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
     return function (d, b) {
-        extendstatic(d, b);
+        extendStatics(d, b);
         function __() { this.constructor = d; }
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
@@ -6662,7 +6662,7 @@ var InlineBlot = /** @class */ (function (_super) {
     };
     InlineBlot.prototype.format = function (name, value) {
         var _this = this;
-        if (name === this.static.blotName && !value) {
+        if (name === this.statics.blotName && !value) {
             this.children.forEach(function (child) {
                 if (!(child instanceof format_1.default)) {
                     child = child.wrap(InlineBlot.blotName, true);
@@ -6711,11 +6711,11 @@ exports.default = InlineBlot;
 "use strict";
 
 var __extends = (this && this.__extends) || (function () {
-    var extendstatic = Object.setPrototypeOf ||
+    var extendStatics = Object.setPrototypeOf ||
         ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
         function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
     return function (d, b) {
-        extendstatic(d, b);
+        extendStatics(d, b);
         function __() { this.constructor = d; }
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
@@ -6738,7 +6738,7 @@ var BlockBlot = /** @class */ (function (_super) {
         if (Registry.query(name, Registry.Scope.BLOCK) == null) {
             return;
         }
-        else if (name === this.static.blotName && !value) {
+        else if (name === this.statics.blotName && !value) {
             this.replaceWith(BlockBlot.blotName);
         }
         else {
@@ -6787,11 +6787,11 @@ exports.default = BlockBlot;
 "use strict";
 
 var __extends = (this && this.__extends) || (function () {
-    var extendstatic = Object.setPrototypeOf ||
+    var extendStatics = Object.setPrototypeOf ||
         ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
         function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
     return function (d, b) {
-        extendstatic(d, b);
+        extendStatics(d, b);
         function __() { this.constructor = d; }
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
@@ -6821,7 +6821,7 @@ var EmbedBlot = /** @class */ (function (_super) {
         }
     };
     EmbedBlot.prototype.formats = function () {
-        return this.static.formats(this.domNode);
+        return this.statics.formats(this.domNode);
     };
     return EmbedBlot;
 }(leaf_1.default));
@@ -6835,11 +6835,11 @@ exports.default = EmbedBlot;
 "use strict";
 
 var __extends = (this && this.__extends) || (function () {
-    var extendstatic = Object.setPrototypeOf ||
+    var extendStatics = Object.setPrototypeOf ||
         ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
         function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
     return function (d, b) {
-        extendstatic(d, b);
+        extendStatics(d, b);
         function __() { this.constructor = d; }
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
@@ -6851,7 +6851,7 @@ var TextBlot = /** @class */ (function (_super) {
     __extends(TextBlot, _super);
     function TextBlot(node) {
         var _this = _super.call(this, node) || this;
-        _this.text = _this.static.value(_this.domNode);
+        _this.text = _this.statics.value(_this.domNode);
         return _this;
     }
     TextBlot.create = function (value) {
@@ -6887,7 +6887,7 @@ var TextBlot = /** @class */ (function (_super) {
     };
     TextBlot.prototype.optimize = function (context) {
         _super.prototype.optimize.call(this, context);
-        this.text = this.static.value(this.domNode);
+        this.text = this.statics.value(this.domNode);
         if (this.text.length === 0) {
             this.remove();
         }
@@ -6910,7 +6910,7 @@ var TextBlot = /** @class */ (function (_super) {
         }
         var after = Registry.create(this.domNode.splitText(index));
         this.parent.insertBefore(after, this.next);
-        this.text = this.static.value(this.domNode);
+        this.text = this.statics.value(this.domNode);
         return after;
     };
     TextBlot.prototype.update = function (mutations, context) {
@@ -6918,7 +6918,7 @@ var TextBlot = /** @class */ (function (_super) {
         if (mutations.some(function (mutation) {
             return mutation.type === 'characterData' && mutation.target === _this.domNode;
         })) {
-            this.text = this.static.value(this.domNode);
+            this.text = this.statics.value(this.domNode);
         }
     };
     TextBlot.prototype.value = function () {
