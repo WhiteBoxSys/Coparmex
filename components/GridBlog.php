@@ -20,7 +20,7 @@
                                     </div>
                                     <h4 class="mb-3"><?php echo $row['titulo']  ?></h4>
                                     <p><?php echo $row['descripcion']  ?></p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                                    <a class="text-uppercase" href="./detail.php?id_blog=<?php echo $row['id'] ?>">Ver más <i class="bi bi-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>

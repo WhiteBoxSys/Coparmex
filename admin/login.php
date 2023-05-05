@@ -13,12 +13,10 @@
       <section class="section register min-vh-100 d-flex flex-column align-items-center justify-content-center py-4">
         <div class="container">
           <div class="row justify-content-center">
-            <div class="col-lg-4 col-md-6 d-flex flex-column align-items-center justify-content-center">
-
+            <div class="col-lg-6 col-md-8 d-flex flex-column align-items-center justify-content-center">
               <div class="d-flex justify-content-center py-4">
                 <a href="index.html" class="logo d-flex align-items-center w-auto">
                   <img src="../assets/img/LogoHorizontal.png" alt="Logo">
-
                 </a>
               </div>
               <div class="card mb-3">
@@ -27,7 +25,15 @@
                     <h5 class="card-title text-center pb-0 fs-4">Para ingresar al sistemas</h5>
                     <p class="text-center small">Por favor de ingresar tu correo y contraseña</p>
                   </div>
-                  <form class="row g-3 needs-validation" action="../controllers/LoginUser.php" method="POST">
+                  <div class="alert alert-success alert-dismissible fade show" role="alert" style="display: none;" id="success">
+                    Bienvenido de nuevo administrador revisa todos los pendientes de la semana !
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                  </div>
+                  <div class="alert alert-danger alert-dismissible fade show" role="alert" style="display: none;" id="wrong">
+                    Oops, credenciales incorrectas intenta de nuevo con las credeciales correctas !
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                  </div>
+                  <form class="row g-3 needs-validation" id="FormLogin">
                     <div class="col-12">
                       <label for="yourUsername" class="form-label">Correo</label>
                       <div class="input-group has-validation">
@@ -65,6 +71,7 @@
   <script src="assets/vendor/tinymce/tinymce.min.js"></script>
   <script src="assets/vendor/php-email-form/validate.js"></script>
   <script src="assets/js/main.js"></script>
+  <script src="js/Login.js"></script>
 
 </body>
 

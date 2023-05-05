@@ -60,11 +60,9 @@ function eliminarBlog(id) {
     });
 }
 document.addEventListener("DOMContentLoaded", function () {
-  document
-    .getElementById("AltaDeBlogs")
-    .addEventListener("submit", crearCliente);
+  document.getElementById("AltaDeBlogs").addEventListener("submit", crearBlog);
 });
-async function crearCliente(e) {
+async function crearBlog(e) {
   e.preventDefault();
   var form = document.getElementById("AltaDeBlogs");
   let data = new FormData(form);

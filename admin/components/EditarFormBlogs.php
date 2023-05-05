@@ -1,23 +1,28 @@
-<div class="modal fade" id="noticeModal" tabindex="-1">
+<div class="modal fade" id="EditarBlog<?php echo $row['id'] ?>" tabindex="-1">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title">Agregar Evento</h5>
+                <h5 class="modal-title">Agregar Publicación</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <div class="alert alert-success alert-dismissible fade show" role="alert" id="successmessage_event" style="display: none;">
-                    Felicidades has agreagado tu primer evento con éxito!
+                <div class="alert alert-success alert-dismissible fade show" role="alert" id="successmessage" style="display: none;">
+                    Felicidades has agreagado tu primer blog con éxito!
                     <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                 </div>
-                <form class="row g-3" id="AltaDeNoticias">
+                <form class="row g-3" action="../controllers/BlogGridController.php" method="POST">
+                    <input type="hidden" name="id" value="<?php echo $row['id'] ?>">
                     <div class="col-md-12">
                         <label for="inputName5" class="form-label">Titulo</label>
-                        <input type="text" class="form-control" id="inputName5" name="titulo" required>
+                        <input type="text" class="form-control" id="inputName5" name="titulo" value="<?php echo $row['titulo'] ?>" required>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="inputEmail5" class="form-label">Autor</label>
+                        <input type="text" class="form-control" name="autor" value="<?php echo $row['autor'] ?>" required>
                     </div>
                     <div class="col-md-4">
                         <label for="inputPassword5" class="form-label">Descripción</label>
-                        <input type="text" class="form-control" name="descripcion" required>
+                        <input type="text" class="form-control" name="descripcion" value="<?php echo $row['descripcion'] ?>" required>
                     </div>
                     <div class="col-md-4">
                         <label for="inputState" class="form-label">Categoria</label>
@@ -34,7 +39,7 @@
                     </div> -->
                     <div class="col-12">
                         <label for="inputAddress2" class="form-label">Texto</label>
-                        <textarea class="form-control" rows="9" name="texto"></textarea>
+                        <textarea class="form-control" rows="9" name="texto_blog"><?php echo $row['texto_blog'] ?></textarea>
                     </div>
             </div>
             <div class="modal-footer">

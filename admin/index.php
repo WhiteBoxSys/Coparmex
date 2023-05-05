@@ -1,10 +1,9 @@
 <?php
 session_start();
-if (!isset($_SESSION['usuario'])){
-  echo'
+if (!isset($_SESSION['usuario'])) {
+  echo '
   <script>
-    alert("Debes iniciar sesion para continuar")
-    window.location = "login.php" 
+    window.location = "AccesoDenegado.php" 
   </script>
   ';
   session_destroy();

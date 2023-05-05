@@ -28,10 +28,11 @@
                             <td><a href="#" class="text-primary"><?php echo $row['titulo']  ?></a></td>
                             <td><?php echo $row['id_categoria']  ?></td>
                             <td>
-                                <button type="button" class="btn btn-success"><i class="bi bi-pencil"></i></button>
-                                <button type="button" onclick="eliminarBlog(<?php echo $row['id']  ?>)" class="btn btn-danger"><i class="bi bi-trash"></i></button>
+                                <button type="button" class="btn btn-success" title="Editar" data-bs-toggle="modal" data-bs-target="#EditarBlog<?php echo $row['id'] ?>"><i class="bi bi-pencil"></i></button>
+                                <button type="button" onclick="eliminarBlog(<?php echo $row['id']  ?>)" class="btn btn-danger" title="Eliminar"><i class="bi bi-trash"></i></button>
                             </td>
                         </tr>
+                        <?php include 'EditarFormBlogs.php' ?>
                     <?php
                     }
                     ?>
@@ -40,3 +41,4 @@
         </div>
     </div>
 </div>
+<script src="js/Blogs.js"></script>

@@ -62,9 +62,9 @@ function eliminarEvento(id) {
 document.addEventListener("DOMContentLoaded", function () {
   document
     .getElementById("AltaDeNoticias")
-    .addEventListener("submit", crearCliente);
+    .addEventListener("submit", crearEvento);
 });
-async function crearCliente(e) {
+async function crearEvento(e) {
   e.preventDefault();
   var form = document.getElementById("AltaDeNoticias");
   let data = new FormData(form);
@@ -75,7 +75,7 @@ async function crearCliente(e) {
   })
     .then((result) => result.text())
     .then((result) => {
-      document.getElementById("successmessage").style.display = "inherit";
+      document.getElementById("successmessage_event").style.display = "inherit";
       setTimeout(function () {
         location.reload();
       }, 3000);
