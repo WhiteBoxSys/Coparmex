@@ -74,31 +74,9 @@ async function crearBlog(e) {
     .then((result) => result.text())
     .then((result) => {
       document.getElementById("successmessage").style.display = "inherit";
-      setTimeout(function () {
-        location.reload();
-      }, 3000);
-      form.reset();
-    });
-}
-
-document.addEventListener("DOMContentLoaded", function () {
-  document.getElementById("EdicionDeBlogs").addEventListener("submit", crearBlog);
-});
-async function crearBlog(e) {
-  e.preventDefault();
-  var form = document.getElementById("EdicionDeBlogs");
-  let data = new FormData(form);
-  data.append("caso", "editar");
-  fetch("../controllers/BlogGridController.php", {
-    method: "POST",
-    body: data,
-  })
-    .then((result) => result.text())
-    .then((result) => {
-      document.getElementById("successmessage").style.display = "inherit";
-      setTimeout(function () {
-        location.reload();
-      }, 3000);
-      form.reset();
+      // setTimeout(function () {
+      //   location.reload();
+      // }, 3000);
+      // form.reset();
     });
 }

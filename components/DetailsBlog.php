@@ -19,7 +19,7 @@ function  detallesBlog($id)
             <div class="row g-5">
                 <div class="col-lg-12">
                     <div class="mb-5">
-                        <img class="img-fluid w-100 rounded mb-5" data-src="assets/img/blog-1.jpg" alt="' . $row['titulo'] . '">
+                        <img class="img-fluid w-100 rounded mb-5" data-src="assets/blog/' . $row['titulo'] . '/' . $row['foto'] . '" alt="' . $row['titulo'] . '">
                         <h1 class="mb-4">' . $row['titulo'] . '</h1>
                         <div style="display:flex; margin-top:30px; flexdirection:row; justify-content:space-between">
                             <h4 class="mb-4">Autor:  <strong>' . $row['autor'] . '</strong></h4>

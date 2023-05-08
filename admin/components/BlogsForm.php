@@ -10,7 +10,7 @@
                     Felicidades has agreagado tu primer blog con éxito!
                     <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                 </div>
-                <form class="row g-3" id="AltaDeBlogs">
+                <form class="row g-3" id="AltaDeBlogs" enctype="multipart/form-data">
                     <div class="col-md-12">
                         <label for="inputName5" class="form-label">Titulo</label>
                         <input type="text" class="form-control" id="inputName5" name="titulo" required>
@@ -32,10 +32,10 @@
                             <option value="3">Test 3</option>
                         </select>
                     </div>
-                    <!-- <div class="col-md-6">
+                    <div class="col-md-6">
                         <label for="inputState" class="form-label">Subir Imagen</label>
-                        <input type="file" class="btn btn-primary" accept="image/png, .jpeg, .jpg, image/gif" />
-                    </div> -->
+                        <input type="file" accept="image/png, .jpeg, .jpg, image/gif" name="image" multiple />
+                    </div>
                     <div class="col-12">
                         <label for="inputAddress2" class="form-label">Texto</label>
                         <textarea class="form-control" rows="9" name="texto_blog"></textarea>

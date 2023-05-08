@@ -10,7 +10,7 @@
                         <div class="col-md-6 wow slideInUp" data-wow-delay="0.1s">
                             <div class="blog-item bg-light rounded overflow-hidden">
                                 <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" data-src="assets/img/blog-1.jpg" alt="">
+                                    <img class="img-fluid" data-src="assets/blog/<?php echo $row['titulo'] . '/' . $row['foto']  ?>" alt="BlogGrids">
                                     <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href=""><?php echo $row['id_categoria']  ?></a>
                                 </div>
                                 <div class="p-4">
