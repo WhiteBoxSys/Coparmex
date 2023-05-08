@@ -74,9 +74,9 @@ async function crearBlog(e) {
     .then((result) => result.text())
     .then((result) => {
       document.getElementById("successmessage").style.display = "inherit";
-      // setTimeout(function () {
-      //   location.reload();
-      // }, 3000);
-      // form.reset();
+      setTimeout(function () {
+        location.reload();
+      }, 3000);
+      form.reset();
     });
 }

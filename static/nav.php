@@ -11,6 +11,7 @@
             <a href="about.php" class="nav-item nav-link" style="color:#232F5D">Conócenos</a>
             <a href="comisiones.php" class="nav-item nav-link" style="color:#232F5D">Comisiones</a>
             <a href="blog.php" class="nav-item nav-link" style="color:#232F5D">Blog</a>
+            <a href="notices.php" class="nav-item nav-link" style="color:#232F5D">Noticias</a>
             <a href="directorio.php" class="nav-item nav-link" style="color:#232F5D">Directorio</a>
             <a href="contact.php" class="nav-item nav-link" style="color:#232F5D">Contacto</a>
         </div>
