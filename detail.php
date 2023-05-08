@@ -6,7 +6,7 @@
 </head>
 
 <body>
-   
+
     <?php include 'static/topbar.php' ?>
     <div class="container-fluid position-relative p-0">
         <?php include 'static/nav.php' ?>
