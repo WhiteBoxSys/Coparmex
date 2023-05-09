@@ -40,7 +40,7 @@
                 <!-- TODO: al hacer click a cualquier de las categorías solo se tengan que mostrar las categorias relacionadas con la que se le dio click -->
                 <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
                     <div class="section-title section-title-sm position-relative pb-3 mb-4">
-                        <h3 class="mb-0">Categories</h3>
+                        <h3 class="mb-0">Categorias</h3>
                     </div>
                     <div class="link-animated d-flex flex-column justify-content-start">
                         <?php foreach (obtenerCategorias() as $row) { ?>
