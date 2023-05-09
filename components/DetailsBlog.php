@@ -1,18 +1,8 @@
 <?php
 function  detallesBlog($id)
 {
-    include 'controllers/DataBaseController.php';
-    $a = new database();
-    $a->select("publicaciones", "*", "id='$id'");
-    $result = $a->sql;
-    $row = mysqli_fetch_assoc($result);
-    $categoria = "";
-    if ($row["id_categoria"] == 1) {
-        $categoria = "Fiscal";
-    } else {
-        $categoria = "Laboral";
-    }
-    $fecha = date("d-m-y", strtotime($row["creado"]));
+    include 'controllers/Selects.php';
+    $row = obtenerBlogPublicado($id);
     echo '
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
@@ -23,10 +13,10 @@ function  detallesBlog($id)
                         <h1 class="mb-4">' . $row['titulo'] . '</h1>
                         <div style="display:flex; margin-top:30px; flexdirection:row; justify-content:space-between">
                             <h4 class="mb-4">Autor:  <strong>' . $row['autor'] . '</strong></h4>
-                            <h4 class="mb-4">Categoria:  <strong>' . $categoria . '</strong></h4>
-                            <h4 class="mb-4">Fecha: <strong>' . $fecha . '</strong> </h4>
+                            <h4 class="mb-4">Categoria:  <strong>' . obtenerCategoriaNombre($row['id_categoria']) . '</strong></h4>
+                            <h4 class="mb-4">Fecha: <strong>' . $row['creado'] . '</strong> </h4>
                         </div>
-                        <h2 class="mb-4">' . $row['descripcion'] . '</h1>
+                        <h2 class="mb-4">' . $row['descripcion'] . '</h2>
                         <p>' . $row['texto_blog'] . '</p>  
                     </div>
                 </div>

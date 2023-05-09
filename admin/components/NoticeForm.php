@@ -10,7 +10,7 @@
                     Felicidades has agreagado tu primer evento con éxito!
                     <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                 </div>
-                <form class="row g-3" id="AltaDeNoticias">
+                <form class="row g-3" id="AltaDeNoticias" enctype="multipart/form-data">
                     <div class="col-md-12">
                         <label for="inputName5" class="form-label">Titulo</label>
                         <input type="text" class="form-control" id="inputName5" name="titulo" required>
@@ -23,15 +23,15 @@
                         <label for="inputState" class="form-label">Categoria</label>
                         <select id="inputState" class="form-select" required name="categoria">
                             <option selected>Selecciona una opción</option>
-                            <option value="1">Test</option>
-                            <option value="2">Test 2</option>
-                            <option value="3">Test 3</option>
+                            <?php foreach (obtenerCategorias() as $row) {  ?>
+                                <option value="<?php echo $row['id']; ?>"><?php echo $row['nombre']; ?></option>
+                            <?php } ?>
                         </select>
                     </div>
-                    <!-- <div class="col-md-6">
+                    <div class="col-md-6">
                         <label for="inputState" class="form-label">Subir Imagen</label>
-                        <input type="file" class="btn btn-primary" accept="image/png, .jpeg, .jpg, image/gif" />
-                    </div> -->
+                        <input type="file" accept="image/png, .jpeg, .jpg, image/gif" name="image" multiple />
+                    </div>
                     <div class="col-12">
                         <label for="inputAddress2" class="form-label">Texto</label>
                         <textarea class="form-control" rows="9" name="texto"></textarea>

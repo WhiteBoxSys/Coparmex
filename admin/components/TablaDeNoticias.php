@@ -18,14 +18,13 @@
                 </thead>
                 <tbody>
                     <?php
-                    include "../controllers/SelectsE.php";
                     foreach (obtenerEventos() as $row2) {
                     ?>
                         <tr>
                             <td><?php echo $row2['id']  ?></td>
                             <td><?php echo $row2['titulo']  ?></td>
                             <td><?php echo $row2['descripcion']  ?></td>
-                            <td><?php echo $row2['id_categoria']  ?></td>
+                            <td><?php echo obtenerCategoriaNombre($row2['id_categoria'])  ?></td>
                             <td>
                                 <button type="button" class="btn btn-success"><i class="bi bi-pencil"></i></button>
                                 <button type="button" onclick="eliminarEvento(<?php echo $row2['id']  ?>)" class="btn btn-danger"><i class="bi bi-trash"></i></button>

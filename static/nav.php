@@ -7,7 +7,7 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto py-0">
-            <a href="index.php" class="nav-item nav-link active" style="color:#232F5D">Inicio</a>
+            <a href="index.php" class="nav-item nav-link" style="color:#232F5D">Inicio</a>
             <a href="about.php" class="nav-item nav-link" style="color:#232F5D">Conócenos</a>
             <a href="comisiones.php" class="nav-item nav-link" style="color:#232F5D">Comisiones</a>
             <a href="blog.php" class="nav-item nav-link" style="color:#232F5D">Blog</a>

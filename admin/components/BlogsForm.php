@@ -27,9 +27,9 @@
                         <label for="inputState" class="form-label">Categoria</label>
                         <select id="inputState" class="form-select" required name="categoria">
                             <option selected>Selecciona una opción</option>
-                            <option value="1">Test</option>
-                            <option value="2">Test 2</option>
-                            <option value="3">Test 3</option>
+                            <?php foreach (obtenerCategorias() as $row) {  ?>
+                                <option value="<?php echo $row['id']; ?>"><?php echo $row['nombre']; ?></option>
+                            <?php } ?>
                         </select>
                     </div>
                     <div class="col-md-6">
