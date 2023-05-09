@@ -49,3 +49,38 @@ function obtenerCategoriaNombre($id)
     $datos = $result->fetch_assoc();
     return $datos['nombre'];
 }
+function obtenerNumeroUsarios()
+{
+    $a = new database();
+    $a->select("admin", "COUNT(*) as numero");
+    $result = $a->sql;
+    $datos = $result->fetch_assoc();
+    return $datos['numero'];
+}
+
+function obtenerNumeroBlogs()
+{
+    $a = new database();
+    $a->select("publicaciones", "COUNT(*) as numero");
+    $result = $a->sql;
+    $datos = $result->fetch_assoc();
+    return $datos['numero'];
+}
+
+function obtenerNumeroNoticias()
+{
+    $a = new database();
+    $a->select("eventos", "COUNT(*) as numero");
+    $result = $a->sql;
+    $datos = $result->fetch_assoc();
+    return $datos['numero'];
+}
+
+function obtenerNumeroCategorias()
+{
+    $a = new database();
+    $a->select("categorias", "COUNT(*) as numero");
+    $result = $a->sql;
+    $datos = $result->fetch_assoc();
+    return $datos['numero'];
+}
