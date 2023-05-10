@@ -8,6 +8,11 @@ switch ($_POST['caso']) {
         agregar_imagen($_POST['titulo'], $_FILES['image']['name']);
         break;
     case 'editar':
+        $id = $_POST['id'];
+        $a->update("eventos", ['titulo' => $_POST['titulo'], 'descripcion' => $_POST['descripcion'], 'id_categoria' => $_POST['categoria'],  'imagen_evento' => $_FILES['image']['name'], 'texto' => $_POST['texto']], "id='$id'");
+        $result = $a->sql;
+        agregar_imagen($_POST['titulo'], $_FILES['image']['name']);
+        header("Location: ../admin/index.php");
         break;
     case 'eliminar':
         $id = $_POST['id'];

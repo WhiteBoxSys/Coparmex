@@ -9,8 +9,10 @@ switch ($_POST['caso']) {
         break;
     case 'editar':
         $id = $_POST['id'];
-        $a->update("publicaciones", ['autor' => $_POST['autor'], 'titulo' => $_POST['titulo'], 'descripcion' => $_POST['descripcion'], 'id_categoria' => $_POST['categoria'], 'texto_blog' => $_POST['texto_blog']], "id='$id'");
-        echo 1;
+        $a->update("publicaciones", ['autor' => $_POST['autor'], 'titulo' => $_POST['titulo'], 'foto' => $_FILES['image']['name'], 'descripcion' => $_POST['descripcion'], 'id_categoria' => $_POST['categoria'], 'texto_blog' => $_POST['texto_blog']], "id='$id'");
+        $result = $a->sql;
+        agregar_imagen($_POST['titulo'], $_FILES['image']['name']);
+        header("Location: ../admin/index.php");
         break;
     case 'eliminar':
         $id = $_POST['id'];

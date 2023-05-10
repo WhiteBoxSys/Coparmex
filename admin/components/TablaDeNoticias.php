@@ -26,10 +26,11 @@
                             <td><?php echo $row2['descripcion']  ?></td>
                             <td><?php echo obtenerCategoriaNombre($row2['id_categoria'])  ?></td>
                             <td>
-                                <button type="button" class="btn btn-success"><i class="bi bi-pencil"></i></button>
+                                <button type="button" class="btn btn-success" title="Editar" data-bs-toggle="modal" data-bs-target="#EditarEvent<?php echo $row2['id'] ?>"><i class="bi bi-pencil"></i></button>
                                 <button type="button" onclick="eliminarEvento(<?php echo $row2['id']  ?>)" class="btn btn-danger"><i class="bi bi-trash"></i></button>
                             </td>
                         </tr>
+                        <?php include 'EditarFormEvents.php' ?>
                     <?php
                     }
                     ?>
