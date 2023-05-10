@@ -20,6 +20,10 @@
                         <input type="text" class="form-control" name="descripcion" required>
                     </div>
                     <div class="col-md-4">
+                        <label for="inputPassword5" class="form-label">Fecha del evento</label>
+                        <input type="date" class="form-control" name="fecha" required>
+                    </div>
+                    <div class="col-md-4">
                         <label for="inputState" class="form-label">Categoria</label>
                         <select id="inputState" class="form-select" required name="categoria">
                             <option selected>Selecciona una opción</option>

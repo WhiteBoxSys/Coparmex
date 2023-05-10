@@ -3,7 +3,7 @@ include 'DataBaseController.php';
 $a = new database();
 switch ($_POST['caso']) {
     case 'agregar':
-        $a->insert('eventos', ['titulo' => $_POST['titulo'], 'descripcion' => $_POST['descripcion'], 'texto' => $_POST['texto'], 'id_categoria' => $_POST['categoria'], 'imagen_evento' => $_FILES['image']['name']]);
+        $a->insert('eventos', ['titulo' => $_POST['titulo'], 'fecha_evento' => $_POST['fecha'], 'descripcion' => $_POST['descripcion'], 'texto' => $_POST['texto'], 'id_categoria' => $_POST['categoria'], 'imagen_evento' => $_FILES['image']['name']]);
         $result = $a->sql;
         agregar_imagen($_POST['titulo'], $_FILES['image']['name']);
         break;
