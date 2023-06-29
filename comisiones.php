@@ -17,7 +17,10 @@
     </div>
     <?php include './components/ComisionesExplicacion.php' ?>
     <?php include './components/ComisionesTexto.php' ?>
+    <?php include './components/ComiteExplicacion.php' ?>
+    <?php include './components/ComitesDescrip.php' ?>
     <?php include './static/footer.php'; ?>
 </body>
 <script src="assets/js/imagesLoad.js"></script>
+
 </html>

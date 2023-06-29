@@ -4,14 +4,15 @@
             <div class="col-lg-7">
                 <div class="section-title position-relative pb-3 mb-5">
                     <h5 class="fw-bold text-dark text-uppercase">Tienes alguna duda</h5>
-                    <h1 class="mb-0">No dudes en contactar con nosotros para poder aclarar todas tus dudas!</h1>
+                    <h1 class="mb-0">Nadie es mejor que todos juntos,
+                        Afíliate a Coparmex Manzanillo!</h1>
                 </div>
                 <div class="row gx-3">
                     <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                        <h5 class="mb-4"><i class="fa fa-reply text-dark me-3"></i>Responder dentro de las 24 horas</h5>
+                        <h5 class="mb-4"><i class="fa fa-reply text-dark me-3"></i>Horarios de atención: Lunes - Viernes 09:00 - 14:00</h5>
                     </div>
-                    <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
-                        <h5 class="mb-4"><i class="fa fa-phone-alt text-dark me-3"></i>Asistencia telefónica las 24 horas</h5>
+                    <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
+                        <h5 class="mb-4"><i class="fa fa-reply text-dark me-3"></i>Horarios de atención: Lunes - Viernes 16:00 - 19:00</h5>
                     </div>
                 </div>
                 <p class="mb-4">En Coparmex Manzanillo nos interesa mucho escuchar sus comentarios, sugerencias y preguntas. Si tienen alguna duda o inquietud acerca de nuestros servicios, actividades o programas, no duden en escribirnos. Nuestro equipo estará encantado de responder a sus preguntas y brindarles la información que necesiten.</p>

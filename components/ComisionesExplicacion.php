@@ -4,10 +4,11 @@
             <div class="col-lg-7">
                 <div class="section-title position-relative pb-3 mb-5">
                     <h5 class="fw-bold text-primary text-uppercase">Comisiones</h5>
-                    <h1 class="mb-0">Que es una comisión?</h1>
+                    <h1 class="mb-0">¿QUÉ ES UNA COMISIÓN DE
+                        TRABAJO?</h1>
                 </div>
-                <p class="mb-4">Una comisión de trabajo es un órgano de estudio y consulta especializada que integra el talento de socios voluntarios, funcionarios y en su caso expertos externos para formulación de los posicionamientos de COPARMEX.</p>
-                <p class="mb-4">
+                <p class="mb-4" style="text-align: justify;">Una comisión de trabajo es un órgano de estudio y consulta especializada que integra el talento de socios voluntarios, funcionarios y en su caso expertos externos para formulación de los posicionamientos de COPARMEX.</p>
+                <p class="mb-4" style="text-align: justify;">
                     Las comisiones son el espacio natural para que los socios de los centros empresariales participen de manera libre y activa en el análisis, reflexión, propuesta y acción en torno a determinados temas. </p>
                 <a href="quote.html" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Afíaliate</a>
             </div>
