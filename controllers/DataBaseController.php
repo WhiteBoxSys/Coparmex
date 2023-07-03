@@ -2,10 +2,10 @@
 class database
 {
     public $que;
-    private $servername = 'sql485.main-hosting.eu';
-    private $username = 'u335407339_coparmex';
-    private $password = 'c2iTVDvH7>';
-    private $dbname = 'u335407339_coparmex';
+    private $servername = 'localhost';
+    private $username = 'root';
+    private $password = '';
+    private $dbname = 'coparmex';
     private $result = array();
     private $mysqli = '';
 
@@ -53,17 +53,16 @@ class database
         }
         $this->sql = $result = $this->mysqli->query($sql);
     }
-    public function getUser($correo,$contra)
+    public function getUser($correo, $contra)
     {
         $sql = "SELECT * FROM admin WHERE email= '$correo' AND contra='$contra'";
-        $this->sql = $result = $this ->mysqli->query($sql);
+        $this->sql = $result = $this->mysqli->query($sql);
         $numRows = $result->num_rows;
-        if($numRows == 1){
+        if ($numRows == 1) {
             return true;
         }
-        
+
         return false;
-        
     }
     public function __destruct()
     {
