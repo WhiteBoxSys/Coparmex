@@ -18,6 +18,7 @@
     <?php include './components/NuestraHistoria.php' ?>
     <?php include './components/Presidentes.php' ?>
     <?php include './components/NuestrasFunciones.php' ?>
+    <?php include './components/Beneficios.php' ?>
     <?php include './components/NuestroEquipo.php' ?>
     <?php include './static/footer.php'; ?>
 </body>
