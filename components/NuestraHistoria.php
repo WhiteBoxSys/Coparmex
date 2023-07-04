@@ -23,7 +23,8 @@
             </div>
             <div class="col-lg-5" style="min-height: 500px;">
                 <div class="position-relative h-100">
-                    <img class="position-absolute w-100  rounded wow" data-wow-delay="0.9s" data-src="assets/img/collage.jpg" style="object-fit: cover;" alt="NuestraHistoria_Image">
+                    <img class="position-absolute w-100      rounded wow" data-wow-delay="0.9s"
+                        data-src="assets/img/collage.jpg" style="object-fit: cover;" alt="NuestraHistoria_Image">
                 </div>
             </div>
         </div>
