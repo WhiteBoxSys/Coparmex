@@ -9,7 +9,7 @@
         <div class="navbar-nav ms-auto py-0">
             <a href="index.php" class="nav-item nav-link" style="color:#232F5D">Inicio</a>
             <div class="nav-item dropdown">
-                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Conócenos</a>
+                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" style="color:#232F5D">Conócenos</a>
                 <div class="dropdown-menu m-0">
                     <a href="about.phpl" class="dropdown-item">Acerca de</a>
                     <a href="comisiones.php" class="dropdown-item">Comisiones</a>
@@ -17,7 +17,7 @@
                 </div>
             </div>
             <div class="nav-item dropdown">
-                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blog</a>
+                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" style="color:#232F5D">Blog</a>
                 <div class="dropdown-menu m-0">
                     <a href="blog.php" class="dropdown-item">Fiscal</a>
                     <a href="blog.php" class="dropdown-item">Laboral</a>
