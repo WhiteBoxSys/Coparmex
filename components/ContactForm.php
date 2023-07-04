@@ -12,7 +12,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="mb-2">Llamar para consultar</h5>
-                        <h4 class="text-primary mb-0"><a href="tel:+3143342929"></a> 314 33 42929</h4>
+                        <h4 class="text-primary mb-0"><a href="tel:+3143394292"></a> 314 339 4292</h4>
                     </div>
                 </div>
             </div>

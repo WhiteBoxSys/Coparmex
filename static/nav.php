@@ -8,11 +8,23 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto py-0">
             <a href="index.php" class="nav-item nav-link" style="color:#232F5D">Inicio</a>
-            <a href="about.php" class="nav-item nav-link" style="color:#232F5D">Conócenos</a>
-            <a href="comisiones.php" class="nav-item nav-link" style="color:#232F5D">Comisiones</a>
-            <a href="blog.php" class="nav-item nav-link" style="color:#232F5D">Blog</a>
+            <div class="nav-item dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Conócenos</a>
+                <div class="dropdown-menu m-0">
+                    <a href="about.phpl" class="dropdown-item">Acerca de</a>
+                    <a href="comisiones.php" class="dropdown-item">Comisiones</a>
+                    <a href="directorio.php" class="dropdown-item">Directorio</a>
+                </div>
+            </div>
+            <div class="nav-item dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blog</a>
+                <div class="dropdown-menu m-0">
+                    <a href="blog.php" class="dropdown-item">Fiscal</a>
+                    <a href="blog.php" class="dropdown-item">Laboral</a>
+                    <a href="blog.php" class="dropdown-item">Juntas o Asambleas</a>
+                </div>
+            </div>
             <a href="notices.php" class="nav-item nav-link" style="color:#232F5D">Noticias</a>
-            <a href="directorio.php" class="nav-item nav-link" style="color:#232F5D">Directorio</a>
             <a href="contact.php" class="nav-item nav-link" style="color:#232F5D">Contacto</a>
-        </div>
+            <a href="contact.php" class="nav-item nav-link" style="color:#232F5D">Aviso de privacidad</a>
 </nav>

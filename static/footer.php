@@ -34,7 +34,7 @@
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-telephone text-primary me-2"></i>
-                            <p class="mb-0">314 33 42929</p>
+                            <p class="mb-0">314 339 4292</p>
                         </div>
                         <div class="d-flex mt-4">
                             <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-twitter fw-normal"></i></a>
@@ -62,11 +62,11 @@
     </div>
 </div>
 <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded back-to-top"><i class="bi bi-arrow-up"></i></a>
-<script defer  src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-<script defer  src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-<script defer  src="assets/lib/wow/wow.min.js"></script>
-<script defer  src="assets/lib/easing/easing.min.js"></script>
-<script defer  src="assets/lib/waypoints/waypoints.min.js"></script>
-<script defer  src="assets/lib/counterup/counterup.min.js"></script>
-<script defer  src="assets/lib/owlcarousel/owl.carousel.min.js"></script>
-<script defer  src="assets/js/main.js"></script>
+<script defer src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+<script defer src="assets/lib/wow/wow.min.js"></script>
+<script defer src="assets/lib/easing/easing.min.js"></script>
+<script defer src="assets/lib/waypoints/waypoints.min.js"></script>
+<script defer src="assets/lib/counterup/counterup.min.js"></script>
+<script defer src="assets/lib/owlcarousel/owl.carousel.min.js"></script>
+<script defer src="assets/js/main.js"></script>
