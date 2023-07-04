@@ -34,12 +34,13 @@
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-telephone text-primary me-2"></i>
-                            <p class="mb-0">314 339 4292</p>
+                            <p class="mb-0">314 334 2929</p>
                         </div>
                         <div class="d-flex mt-4">
-                            <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-twitter fw-normal"></i></a>
-                            <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
-                            <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-linkedin-in fw-normal"></i></a>
+                            <a class="btn btn-primary btn-square me-2" href="https://twitter.com/Coparmex_mzo"><i class="fab fa-twitter fw-normal"></i></a>
+                            <a class="btn btn-primary btn-square me-2" href="https://www.facebook.com/coparmexmzo"><i class="fab fa-facebook-f fw-normal"></i></a>
+                            <a class="btn btn-primary btn-square me-2" href="https://www.youtube.com/@coparmexmanzanillo"><i class="fab fa-youtube fw-normal"></i></a>
+                            <a class="btn btn-primary btn-square" href="https://twitter.com/Coparmex_mzo"><i class="fab fa-instagram fw-normal"></i></a>
                         </div>
                     </div>
                 </div>

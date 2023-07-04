@@ -12,10 +12,10 @@
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
-                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Lic. Jonathan Torres De La Mora</small>
+                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Ing. Luis Alonso Hernández Román</small> <br>
                         </div>
                         <h4 class="mb-3"><strong>Atención a Socios</strong> </h4>
-                        <p>Atención a socios, visitas, seguimiento a los intereses y necesidad de los agremiados.</p> <br><br> <br> <br>
+                        <p>Generar la vinculación entre los socios del CEM que permita conocer y apoyar a solucionar las necesidades de estos y encausarlas a las comisiones correspondientes para generar acciones que les aporten valor, además de implementar y dar seguimiento a la campaña de atracción para nuevos socios.</p>
                     </div>
                 </div>
             </div>
@@ -26,39 +26,39 @@
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
-                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Lic. Oscar Hernández Méndez </small>
+                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Lic. Adriana Chacón Sánchez </small>
 
                         </div>
                         <h4 class="mb-3">Comercio</h4>
-                        <p>Promover el mercado interno y la participación de los empresarios COPARMEX en las actividades que puedan hacer crecer sus empresas, así como la atracción de nuevas empresas para fortalecer nuestro mercado interno.</p>
+                        <p>Promover la interrelación de los socios de COPARMEX Manzanillo, e incentivar su participación en actividades que aporten al desarrollo, crecimiento y fortalecimiento de sus empresas.</p> <br> <br>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="assets/img/blog-3.jpg" alt="">
+                        <img class="img-fluid" data-src="assets/img/vivienda.png" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
                             <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Lic. Magdalena Montiel Solís</small>
                         </div>
-                        <h4 class="mb-3">Cultura</h4>
-                        <p>Promover la cultura en el municipio de Manzanillo, Colima a través de actividades culturales que sean incluyentes y equitativas para un desarrollo sustentable de las comunidades.</p> <br>
+                        <h4 class="mb-3">Vivienda</h4>
+                        <p>Generar conciencia mediante la representación empresarial, buscando coadyuvar esfuerzos con la industria de la vivienda y el desarrollo urbano, para promover un desarrollo territorial ordenado y sustentable que permita un crecimiento regional competitivo.</p> <br>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="assets/img/blog-1.jpg" alt="">
+                        <img class="img-fluid" data-src="assets/img/comision de innovacion-1.png" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
-                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Ing. Miguel Ángel Castro Palomino</small>
+                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Ing. José Pompeyo Tovar</small>
                         </div>
-                        <h4 class="mb-3"><strong>Desarrollo Empresarial</strong> </h4>
-                        <p>Promover y difundir la cultura fiscal, así como asesorar en materia tributaria a todo el sector empresarial, con la finalidad de mantener sus negocios dentro de la legalidad y con ello garantizar la tranquilidad y seguridad tributaria de las y los empresarios manzanillenses.</p>
+                        <h4 class="mb-3"><strong>Innovación y Desarrollo Empresarial</strong> </h4>
+                        <p>Promover entre los socios las buenas prácticas empresariales, el emprendimiento, la innovación y la inversión, con la finalidad de desarrollar empresas altamente productivas, competitivas y con responsabilidad social que se sumen a garantizar un desarrollo local eficiente que genere relaciones exitosas y duraderas.</p>
                     </div>
                 </div>
             </div>
@@ -69,24 +69,24 @@
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
-                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: M.E. Ahuitzotl Zárate Flores</small>
+                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Alejandra Caldera Saldívar</small>
                         </div>
-                        <h4 class="mb-3"><strong>Educación y Capacitación</strong> </h4>
-                        <p>Formar integralmente el talento humano del emprendedor y empresario, creando un enfoque de competitividad y responsabilidad social.</p> <br> <br> <br> <br>
+                        <h4 class="mb-3"><strong>Educación y Talento Humano</strong> </h4>
+                        <p>Promover la participación entre colaboradores, emprendedores y empresarios en proyectos de mejora del talento humano, con la finalidad de lograr su transformación, mejorando la competitividad e impulsando a la Sociedad para disminuir la pobreza y la desigualdad mediante una educación inclusiva y de calidad.</p> <br> <br> <br> <br>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="assets/img/blog-1.jpg" alt="">
+                        <img class="img-fluid" data-src="assets/img/fiscal.png" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
-                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: C.P. Rafael García Trejo</small>
+                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: C.P. Marco Antonio Flores Santos</small>
                         </div>
                         <h4 class="mb-3"><strong>Fiscal</strong> </h4>
-                        <p>Promover y difundir la cultura fiscal, así como asesorar en materia tributaria a todo el sector empresarial, con la finalidad de mantener sus negocios dentro de la legalidad y con ello garantizar la tranquilidad y seguridad tributaria de las y los empresarios manzanillenses.</p> <br>
+                        <p>Asesorar a los socios y darles a conocer de manera constante temas relevantes mediante actividades que favorezcan el estudio para el cumplimiento en materia Fiscal, y representarlos en todos los niveles de gobierno en el ámbito Fiscal.</p> <br>
                     </div>
                 </div>
             </div>
@@ -97,11 +97,11 @@
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
-                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Lic. Carlos Olivar Pérez
+                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Ing. Arturo Villaseñor Sánchez
                             </small>
                         </div>
                         <h4 class="mb-3"><strong>Grandes Empresas</strong></h4>
-                        <p>Definir e implementar un plan estratégico y un programa de trabajo que permita incrementar la oferta de valor, los servicios y los beneficios que actualmente genera el CEM para las grandes empresas.</p>
+                        <p>Fomentar a que las grandes empresas sean un motor de crecimiento regional, generando relaciones y fortaleciendo a las empresas de diversos tamaños del estado que permita mejorar el bienestar de las familias. Asi mismo, generar sinergia entre las grandes empresas que les permita lograr sus objetivos dentro de un marco de responsabilidad social.</p>
                     </div>
                 </div>
             </div>
@@ -115,22 +115,22 @@
                             <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Lic. Uriel Moreno Flores</small>
                         </div>
                         <h4 class="mb-3"><strong>Laboral</strong> </h4>
-                        <p>Asesoría a los socios en materia laboral y dar a conocer de manera constante temas relevantes.</p> <br>
+                        <p>Asesorar a los socios y darles a conocer de manera constante temas relevantes mediante actividades que favorezcan el estudio para el cumplimiento en materia laboral, y representarlos en todos los niveles de gobierno en el ámbito laboral.</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="assets/img/blog-1.jpg" alt="">
+                        <img class="img-fluid" data-src="assets/img/COMISION RS 2.png" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
-                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Arq. Oscar Nevárez Vergara
+                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Fabiola Polo Melgarejo
                             </small>
                         </div>
-                        <h4 class="mb-3"><strong>Responsabilidad Social</strong> </h4>
-                        <p>Tener un impacto positivo y favorable para la comunidad.</p> <br><br>
+                        <h4 class="mb-3"><strong>Responsabilidad Social Y Desarrollo Sustentable</strong> </h4>
+                        <p>Contribuir al Desarrollo Sostenible en sus tres dimensiones social, ambiental y económico, en el Puerto de Manzanillo, promoviendo una gestión Socialmente Responsable en el sector empresarial a través de procesos de vinculación, comunicación, desarrollo de competencias, alianzas estratégicas, comprometidos con el bien común.</p> <br><br>
 
                     </div>
                 </div>
@@ -138,15 +138,15 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="assets/img/blog-1.jpg" alt="">
+                        <img class="img-fluid" data-src="assets/img/puerto.png" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
                             <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Lic. Mariana Reyes
                             </small>
                         </div>
-                        <h4 class="mb-3"><strong>Salud</strong> </h4>
-                        <p>Se consolida la nueva Comisión de Salud, con el objetivo de Coordinación de la estrategia del Plan de salud Coparmex para hacer frente a la fase III del Covid-19.</p> <br><br> <br>
+                        <h4 class="mb-3"><strong>Puerto y Logística</strong> </h4>
+                        <p>Generar planes y estrategias que permitan facilitar la implementación de acciones enfocadas a generar un desarrollo puerto – ciudad, que favorezca al crecimiento económico y social en la región.</p> <br><br> <br>
                     </div>
                 </div>
             </div>
@@ -157,26 +157,41 @@
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
-                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Lic. Juan Carlo Rincones
+                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Lic. Héctor Sandoval Fierros
                             </small>
                         </div>
                         <h4 class="mb-3"><strong>Turismo</strong> </h4>
-                        <p>Representaren las diferentes asociaciones promoviendo el destino y proyectos turísticos en el Estado, así como la organización de eventos y actividades en este rubro.</p> <br><br> <br>
+                        <p>Representar en las diferentes asociaciones y dependencias gubernamentales los intereses turísticos, coadyubando esfuerzos para promover los destino y proyectos en el Estado, así como la organización de eventos y actividades en este rubro.</p> <br>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="assets/img/comisiones/vivienda.png" alt="Comercio">
+                        <img class="img-fluid" data-src="assets/img/comisiones/comision de jovenes-1.png" alt="Comercio">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
-                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Lic. Magdalena Montiel Solís
+                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Gerasimos Digenis Kremastoulis Victoria
                             </small>
                         </div>
-                        <h4 class="mb-3"><strong>Vivienda</strong> </h4>
-                        <p>Tener presencia en el Infonavit, toda vez que es un referente de créditos hipotecarios entre nuestros colaboradores. Defender al Infonavit en su autonomía y tripartismo, ya que sus recursos son de los trabajadores formales, patrones.</p>
+                        <h4 class="mb-3"><strong>Empresarios Jóvenes</strong> </h4>
+                        <p>Impulsar el desarrollo de los jóvenes en el Puerto de Manzanillo como futuros empresarios, líderes y ciudadanos a través de proyectos de innovación e inclusión en un modelo socialmente responsable.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
+                <div class="blog-item bg-light rounded overflow-hidden">
+                    <div class="blog-img position-relative overflow-hidden">
+                        <img class="img-fluid" data-src="assets/img/comisiones/IMG_3362.png" alt="Comercio">
+                    </div>
+                    <div class="p-4">
+                        <div class="d-flex mb-3">
+                            <small class="me-3"><i class="far fa-user text-primary me-2"></i>Presidente: Lic. Alejandro Gaitán Sánchez
+                            </small>
+                        </div>
+                        <h4 class="mb-3"><strong>Anticorrupción Y Seguridad</strong> </h4>
+                        <p>Promover una cultura de integridad dentro de las empresas generando conciencia que contribuya a reducir la corrupción. Además, promover y difundir el ejercicio de la transparencia y la rendición de cuentas de las entidades públicas del nivel municipal y estatal.</p>
                     </div>
                 </div>
             </div>

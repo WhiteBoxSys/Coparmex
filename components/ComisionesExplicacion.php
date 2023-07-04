@@ -10,7 +10,6 @@
                 <p class="mb-4" style="text-align: justify;">Una comisión de trabajo es un órgano de estudio y consulta especializada que integra el talento de socios voluntarios, funcionarios y en su caso expertos externos para formulación de los posicionamientos de COPARMEX.</p>
                 <p class="mb-4" style="text-align: justify;">
                     Las comisiones son el espacio natural para que los socios de los centros empresariales participen de manera libre y activa en el análisis, reflexión, propuesta y acción en torno a determinados temas. </p>
-                <a href="quote.html" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Afíaliate</a>
             </div>
             <div class="col-lg-5" style="min-height: 500px;">
                 <div class="position-relative h-100">

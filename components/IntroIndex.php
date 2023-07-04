@@ -34,7 +34,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="mb-2">Llamar para consultar cualquier duda</h5>
-                        <h4 class="mb-0"><a style="color: #091E3E;" href="tel:+ 3143394292"> 314 339 4292</a></h4>
+                        <h4 class="mb-0"><a style="color: #091E3E;" href="tel:+ 3143342929">314 334 2929</a></h4>
                     </div>
                 </div>
             </div>

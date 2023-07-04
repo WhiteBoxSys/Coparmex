@@ -3,13 +3,13 @@
         <div class="row g-5">
             <div class="col-lg-7">
                 <div class="section-title position-relative pb-3 mb-5">
-                    <h5 class="fw-bold text-dark text-uppercase">Tienes alguna duda</h5>
+                    <h5 class="fw-bold text-dark text-uppercase">¿Tienes alguna duda?</h5>
                     <h1 class="mb-0">Nadie es mejor que todos juntos,
-                        Afíliate a Coparmex Manzanillo!</h1>
+                        Afíliate a Coparmex Manzanillo</h1>
                 </div>
                 <div class="row gx-3">
                     <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                        <h5 class="mb-4"><i class="fa fa-reply text-dark me-3"></i>Horarios de atención: Lunes - Viernes 09:00 - 14:00</h5>
+                        <h5 class="mb-4"><i class="fa fa-reply text-dark me-3"></i>Horarios de atención: Lunes - Viernes 09:00 - 14:00 </h5>
                     </div>
                     <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
                         <h5 class="mb-4"><i class="fa fa-reply text-dark me-3"></i>Horarios de atención: Lunes - Viernes 16:00 - 19:00</h5>
@@ -22,7 +22,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="mb-2">Llamar para consultar cualquier duda</h5>
-                        <h4 class="text-dark mb-0"><a href="tel:+">314 33 42929</a></h4>
+                        <h4 class="text-dark mb-0"><a href="tel:+3143342929">314 334 2929</a></h4>
                     </div>
                 </div>
                 <div class="d-flex align-items-center mt-2 wow zoomIn" data-wow-delay="0.6s">
@@ -40,7 +40,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="mb-2">Correo</h5>
-                        <h4 class="text-dark mb-0"><a href="mailto:">contacto@coparmexmanzanillo.org</a></h4>
+                        <h4 class="text-dark mb-0"><a href="mailto:contacto@coparmexmanzanillo.org">contacto@coparmexmanzanillo.org</a></h4>
                     </div>
                 </div>
             </div>
