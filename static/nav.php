@@ -11,7 +11,7 @@
             <div class="nav-item dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" style="color:#232F5D">Conócenos</a>
                 <div class="dropdown-menu m-0">
-                    <a href="about.phpl" class="dropdown-item">Acerca de</a>
+                    <a href="about.php" class="dropdown-item">Acerca de</a>
                     <a href="comisiones.php" class="dropdown-item">Comisiones</a>
                     <a href="directorio.php" class="dropdown-item">Directorio</a>
                 </div>
