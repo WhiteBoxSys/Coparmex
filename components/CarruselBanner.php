@@ -8,7 +8,7 @@
                 </div>
             </div>
             <div class="carousel-item active">
-                <img class="w-100" data-src="assets/img/TOMA DE COMPROMISO 1.jpg" alt="Image">
+                <img class="w-100" data-src="assets/img/banner inicio.jpg" alt="Image">
                 <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                 </div>
             </div>
