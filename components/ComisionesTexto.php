@@ -8,7 +8,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="assets/img/comisiones/usuarios.png" alt="Atencion a socios">
+                        <img class="img-fluid" data-src="assets/img/comisiones/Atencion-a-Socios.png" alt="Atencion a socios">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -37,7 +37,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="assets/img/vivienda.png" alt="">
+                        <img class="img-fluid" data-src="assets/img/comisiones/vivienda.png" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -51,7 +51,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="assets/img/comision de innovacion-1.png" alt="">
+                        <img class="img-fluid" data-src="assets/img/comisiones/innovacion.png" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -93,7 +93,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="assets/img/comisiones/empresas.png" alt="Comercio">
+                        <img class="img-fluid" data-src="assets/img/comisiones/GrandesEmpresas.png" alt="Comercio">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
