@@ -65,7 +65,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="https://coparmex.whiteboxsystems.tech/assets/img/comisiones/Educacion.pngg" alt="Comercio">
+                        <img class="img-fluid" data-src="https://coparmex.whiteboxsystems.tech/assets/img/comisiones/Educacion.png" alt="Comercio">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -108,7 +108,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="assets/img/comisiones/laboral.png" alt="Comercio">
+                        <img class="img-fluid" data-src="https://coparmex.whiteboxsystems.tech/assets/img/comisiones/Laboral.png" alt="Comercio">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -153,7 +153,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="assets/img/comisiones/turismo.png" alt="Comercio">
+                        <img class="img-fluid" data-src="https://coparmex.whiteboxsystems.tech/assets/img/comisiones/Turismo.png" alt="Comercio">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -168,7 +168,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="assets/img/comisiones/jovenes.png" alt="Comercio">
+                        <img class="img-fluid" data-src="https://coparmex.whiteboxsystems.tech/assets/img/comisiones/Jovenes.png" alt="Comercio">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -183,7 +183,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="assets/img/comisiones/corrupcion.png" alt="Comercio">
+                        <img class="img-fluid" data-src="https://coparmex.whiteboxsystems.tech/assets/img/comisiones/Seguridad.png" alt="Comercio">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
