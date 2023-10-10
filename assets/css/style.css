@@ -635,7 +635,7 @@ img {
 
 .bg-header {
   background: linear-gradient(rgba(9, 30, 62, 0.7), rgba(9, 30, 62, 0.7)),
-    url(../img/banner_conocenos.png) center center no-repeat;
+    url(../img/banner.jpg) center center no-repeat;
   background-size: cover;
 }
 

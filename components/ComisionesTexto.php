@@ -79,7 +79,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="assets/img/fiscal.png" alt="">
+                        <img class="img-fluid" data-src="assets/img/Comisiones/Fiscal.png" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -122,7 +122,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="assets/img/COMISION RS 2.png" alt="">
+                        <img class="img-fluid" data-src="assets/img/Comisiones/Responsabilidad Social y Desarrollo Sustentable.png" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -138,7 +138,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
-                        <img class="img-fluid" data-src="assets/img/puerto.png" alt="">
+                        <img class="img-fluid" data-src="assets/img/Comisiones/Puerto.png" alt="">
                     </div>
                     <div class="p-4">
                         <div class="d-flex mb-3">
@@ -149,7 +149,7 @@
                         <p>Generar planes y estrategias que permitan facilitar la implementación de acciones enfocadas a generar un desarrollo puerto – ciudad, que favorezca al crecimiento económico y social en la región.</p> <br><br> <br>
                     </div>
                 </div>
-            </div>
+            </div>k
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">

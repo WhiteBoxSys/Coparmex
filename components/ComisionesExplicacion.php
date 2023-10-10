@@ -13,7 +13,7 @@
             </div>
             <div class="col-lg-5" style="min-height: 500px;">
                 <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" data-src="assets/img/about.jpg" style="object-fit: cover;" alt="Comisiones_Explicacion">
+                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" data-src="assets/img/Comisiones.jpg" style="object-fit: cover; animation-delay:09.s; animation-name: zoomIn;" alt="Comisiones_Explicacion">
                 </div>
             </div>
         </div>

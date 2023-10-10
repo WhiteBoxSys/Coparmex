@@ -7,7 +7,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="team-item bg-light rounded overflow-hidden">
                     <div class="team-img position-relative overflow-hidden">
-                        <img class="img-fluid w-100" data-src="assets/img/presidente.jpg" alt="">
+                        <img class="img-fluid w-100" data-src="assets/img/team/Ing. Miguel Ángel Castro Palomino.jpg" alt="">
                     </div>
                     <div class="text-center py-4">
                         <h4 class="text-primary">Ing. Miguel Ángel Castro Palomino</h4>
@@ -18,7 +18,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
                 <div class="team-item bg-light rounded overflow-hidden">
                     <div class="team-img position-relative overflow-hidden">
-                        <img class="img-fluid w-100" data-src="assets/img/mesa_dir.jpg" alt="">
+                        <img class="img-fluid w-100" data-src="assets/img/team/Lic. Jonathan Torres de la Mora.jpg" alt="">
                     </div>
                     <div class="text-center py-4">
                         <h4 class="text-primary">Lic. Jonathan Torres de la Mora</h4>
@@ -29,7 +29,7 @@
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                 <div class="team-item bg-light rounded overflow-hidden">
                     <div class="team-img position-relative overflow-hidden">
-                        <img class="img-fluid w-100" data-src="assets/img/tesorero.jpg" alt="">
+                        <img class="img-fluid w-100" data-src="assets/img/team/Ing. Abdon Rodríguez Ramos.jpg" alt="">
                     </div>
                     <div class="text-center py-4">
                         <h4 class="text-primary">Ing. Abdon Rodríguez Ramos </h4>
@@ -37,24 +37,18 @@
                     </div>
                 </div>
             </div>
-            <!-- <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
+            <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
                 <div class="team-item bg-light rounded overflow-hidden">
                     <div class="team-img position-relative overflow-hidden">
-                        <img class="img-fluid w-100" data-src="assets/img/tesorero.jpg" alt="">
-                        <div class="team-social">
-                            <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a>
-                            <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
-                            <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-instagram fw-normal"></i></a>
-                            <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
-                        </div>
+                        <img class="img-fluid w-100" data-src="assets/img/team/Lic. Cinthia Xipatly Pacheco Soto.jpg" alt="">
                     </div>
                     <div class="text-center py-4">
                         <h4 class="text-primary">Lic. Cinthia Xipatly Pacheco Soto
                         </h4>
-                        <p class="text-uppercase m-0">Designation</p>
+                        <p class="text-uppercase m-0">Directora del CEM</p>
                     </div>
                 </div>
-            </div> -->
+            </div>
         </div>
     </div>
 </div>

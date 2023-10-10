@@ -10,11 +10,7 @@
                     socios voluntarios, que se organiza con la encomienda de realizar tareas propias del
                     funcionamiento del Sindicato patronal de manera interna..</p>
             </div>
-            <div class="col-lg-5" style="min-height: 500px;">
-                <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" data-src="assets/img/about.jpg" style="object-fit: cover;" alt="Comisiones_Explicacion">
-                </div>
-            </div>
+          
         </div>
     </div>
 </div>

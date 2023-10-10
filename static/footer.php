@@ -9,7 +9,8 @@
                     </a>
                     <br>
                     <p class="mt-3 mb-4">
-                        Quieres conocer mas sobre nosotros y sobre todas nuestras noticias y proximos eventos suscribete a nuestro portal.</p>
+                    ¿Quieres conocer más sobre nosotros y sobre todas nuestras noticias y próximos eventos? <br>
+¡Suscríbete a nuestro portal!</p>
                     <form action="">
                         <div class="input-group">
                             <input type="text" class="form-control border-white p-3" placeholder="Email">

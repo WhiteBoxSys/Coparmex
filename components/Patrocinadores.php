@@ -2,15 +2,20 @@
         <div class="container py-5 mb-5">
             <div class="bg-white">
                 <div class="owl-carousel vendor-carousel">
-                    <img src="assets/img/patrocinadores/1. LogisticaWoodward.png" alt="">
-                    <img src="img/vendor-2.jpg" alt="">
-                    <img src="img/vendor-3.jpg" alt="">
-                    <img src="img/vendor-4.jpg" alt="">
-                    <img src="img/vendor-5.jpg" alt="">
-                    <img src="img/vendor-6.jpg" alt="">
-                    <img src="img/vendor-7.jpg" alt="">
-                    <img src="img/vendor-8.jpg" alt="">
-                    <img src="img/vendor-9.jpg" alt="">
+                    <img data- data-src="https://coparmex.whiteboxsystems.tech/assets/img/patrocinadores/1.%20LogisticaWoodward.png" alt="">
+                    <img data-src="assets/img/patrocinadores/2. Monex.png" alt="">
+                    <img data-src="assets/img/patrocinadores/3. Bakertilly.png" alt="">
+                    <img data-src="assets/img/patrocinadores/4. Indesca.png" alt="">
+                    <img data-src="assets/img/patrocinadores/5. PeñaColorada.png" alt="">
+                    <img data-src="assets/img/patrocinadores/6. RICOH.jpeg" alt="">
+                    <img data-src="assets/img/patrocinadores/7. Marbella.png" alt="">
+                    <img data-src="assets/img/patrocinadores/8. Cima.png" alt="">
+                    <img data-src="assets/img/patrocinadores/9. Intercargo.JPG" alt="">
+                    <img data-src="assets/img/patrocinadores/10. Gcb.png" alt="">
+                    <img data-src="assets/img/patrocinadores/11. SitPe.png" alt="">
+                    <img data-src="assets/img/patrocinadores/12. ELA.png" alt="">
+                    <img data-src="assets/img/patrocinadores/13. IMPALA.png" alt="">
+                    <img data-src="assets/img/patrocinadores/14. GrupoLogistico.png" alt="">
                 </div>
             </div>
         </div>
