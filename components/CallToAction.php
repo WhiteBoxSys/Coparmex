@@ -9,11 +9,10 @@
                 </div>
                 <div class="row gx-3">
                     <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                        <h5 class="mb-4"><i class="fa fa-reply text-dark me-3"></i>Horarios de atención: Lunes - Viernes 09:00 - 14:00 </h5>
+                        <h5 class="mb-4"><i class="fa fa-reply text-dark me-3"></i>Horarios de atención <br> Lunes - Viernes  <br> 
+                        09:00 - 14:00 <br>  16:00 - 14:00 </h5>
                     </div>
-                    <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                        <h5 class="mb-4"><i class="fa fa-reply text-dark me-3"></i>Horarios de atención: Lunes - Viernes 16:00 - 19:00</h5>
-                    </div>
+                    
                 </div>
                 <p class="mb-4">En Coparmex Manzanillo nos interesa mucho escuchar sus comentarios, sugerencias y preguntas. Si tienen alguna duda o inquietud acerca de nuestros servicios, actividades o programas, no duden en escribirnos. Nuestro equipo estará encantado de responder a sus preguntas y brindarles la información que necesiten.</p>
                 <div class="d-flex align-items-center mt-2 wow zoomIn" data-wow-delay="0.6s">
@@ -23,6 +22,7 @@
                     <div class="ps-4">
                         <h5 class="mb-2">Llamar para consultar cualquier duda</h5>
                         <h4 class="text-dark mb-0"><a href="tel:+3143342929">314 334 2929</a></h4>
+                        <h4 class="text-dark mb-0"><a href="tel:+3143333670">314 333 3670</a></h4>
                     </div>
                 </div>
                 <div class="d-flex align-items-center mt-2 wow zoomIn" data-wow-delay="0.6s">
@@ -40,7 +40,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="mb-2">Correo</h5>
-                        <h4 class="text-dark mb-0"><a href="mailto:contacto@coparmexmanzanillo.org">contacto@coparmexmanzanillo.org</a></h4>
+                        <h4 class="text-dark mb-0"><a href="mailto:atencionsocios@coparmexmanzanillo.org">atencionsocios@coparmexmanzanillo.org</a></h4>
                     </div>
                 </div>
             </div>
@@ -55,18 +55,13 @@
                                 <input type="email" class="form-control bg-light border-0" placeholder="Email" style="height: 55px;">
                             </div>
                             <div class="col-12">
-                                <select class="form-select bg-light border-0" style="height: 55px;">
-                                    <option selected>-Sector Empresarial-</option>
-                                    <option value="1">Service 1</option>
-                                    <option value="2">Service 2</option>
-                                    <option value="3">Service 3</option>
-                                </select>
+                                <input type="email" class="form-control bg-light border-0" placeholder="Sector Empresarial" style="height: 55px;">
                             </div>
                             <div class="col-12">
                                 <textarea class="form-control bg-light border-0" rows="3" placeholder="Mensaje"></textarea>
                             </div>
                             <div class="col-12">
-                                <button class="btn btn-dark w-100 py-3" type="submit">Más información</button>
+                                <button class="btn btn-primary w-100 py-3" type="submit">Enviar Mensaje</button>
                             </div>
                         </div>
                     </form>

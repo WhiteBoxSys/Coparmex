@@ -40,8 +40,7 @@
             </div>
             <div class="col-lg-5" style="min-height: 500px;">
                 <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" data-src="assets/img/about.jpg" style="object-fit: cover;" alt="IntroIndex_Image">
-                </div>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/b-iwZglVK7Y?si=uDUlBWs--8F0ARET" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                </div>
             </div>
         </div>
     </div>

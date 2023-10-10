@@ -5,7 +5,7 @@
 <meta content="Somos un sindicato patronal apartidista y de afiliación voluntaria que reúne a empresarios de todos los tamaños" name="description">
 <meta content="WhiteBox Systems" name="author">
 <link rel="manifest" href="manifest.json" />
-<link href="assets/img/LogoVertical.png" rel="icon">
+<link href="assets/img/coparmex_icon.png" rel="icon">
 <link rel="apple-touch-icon" href="assets/img/icons/logo_72x72.png" />
 <link rel="apple-touch-icon" href="assets/img/icons/logo_96x96.png" />
 <link rel="apple-touch-icon" href="assets/img/icons/logo_128x128.png" />

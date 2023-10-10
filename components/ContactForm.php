@@ -23,7 +23,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="mb-2">Envianos un correo</h5>
-                        <h4 class="text-primary mb-0"><a href="mailto:contacto@coparmexmanzanillo.org<">contacto@coparmexmanzanillo.org</a></h4>
+                        <h4 class="text-primary mb-0"><a href="mailto:atencionsocios@coparmexmanzanillo.org<">atencionsocios@coparmexmanzanillo.org</a></h4>
                     </div>
                 </div>
             </div>

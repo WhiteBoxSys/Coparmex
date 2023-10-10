@@ -15,6 +15,7 @@
     <?php include './components/IntroIndex.php' ?>
     <?php include './components/FeaturesSection.php' ?>
     <?php include './components/CallToAction.php' ?>
+    <?php include './components/Patrocinadores.php' ?>
     <?php include 'static/footer.php'; ?>
 </body>
 <script src="assets/js/imagesLoad.js"></script>

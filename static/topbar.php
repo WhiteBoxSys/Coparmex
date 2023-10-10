@@ -3,8 +3,8 @@
         <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
             <div class="d-inline-flex align-items-center" style="height: 45px;">
                 <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>Av Elías Zamora 3009-planta alta, Manzanillo, Col.</small>
-                <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i> <a href="tel:+314334929">314 334 2929</a></small>
-                <small class="text-light"><i class="fa fa-envelope-open me-2"></i><a href="mailto:">contacto@coparmexmanzanillo.org</a></small>
+                <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i> <a href="tel:+3143333670">314 333 3670</a></small>
+                <small class="text-light"><i class="fa fa-envelope-open me-2"></i><a href="mailto:">atencionsocios@coparmexmanzanillo.org</a></small>
             </div>
         </div>
         <div class="col-lg-4 text-center text-lg-end">
