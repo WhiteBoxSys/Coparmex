@@ -149,7 +149,7 @@
                         <p>Generar planes y estrategias que permitan facilitar la implementación de acciones enfocadas a generar un desarrollo puerto – ciudad, que favorezca al crecimiento económico y social en la región.</p> <br><br> <br>
                     </div>
                 </div>
-            </div>k
+            </div>
             <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                 <div class="blog-item bg-light rounded overflow-hidden">
                     <div class="blog-img position-relative overflow-hidden">
