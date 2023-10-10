@@ -3,22 +3,22 @@
     <table id="directory-table">
         <thead>
             <tr>
-                <th>LOGO</th>
-                <th>NOMBRE</th>
-                <th>DOMICILIO</th>
-                <th>CORREO</th>
-                <th>TELÉFONO</th>
+                <th>EMPRESA</th>
+                <th>DATOS DE LA EMPRESA</th>
+               
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td><img class="directoryImg" data-src="assets/img/Directorio/Hugo_Herrera_Logo.jpg" class="directoryImg" alt="agencia aduanal"></td>
-                <td>AGENCIA ADUANAL HUGO HERRERA</td>
-                <td>Carretera Manzanillo-Minatitlán
-                    Km 1.6, Tapeixtles, Manzanillo, Col.
+                <td>
+                    AGENCIA ADUANAL HUGO HERRERA <br>
+                    Carretera Manzanillo-Minatitlán
+                    Km 1.6, Tapeixtles, Manzanillo, Col. <br>
+                    karina_jimenez@integrace.mx <br>
+                    314 331 1600
                 </td>
-                <td>karina_jimenez@integrace.mx</td>
-                <td>314 331 1600</td>
+                
             </tr>
             <tr>
                 <td><img class="directoryImg" data-src="assets/img/Directorio/Alianza_Logo.jpg" alt="agencia aduanal"></td>
