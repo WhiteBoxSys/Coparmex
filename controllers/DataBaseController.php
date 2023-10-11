@@ -2,10 +2,10 @@
 class database
 {
     public $que;
-    private $servername = 'srv485.hstgr.io';
-    private $username = 'u335407339_coparmex';
-    private $password = '0kv$Jn>F';
-    private $dbname = 'u335407339_coparmex';
+    private $servername = 'localhost';
+    private $username = 'root';
+    private $password = '';
+    private $dbname = 'coparmex';
     private $result = array();
     private $mysqli = '';
 

@@ -22,7 +22,7 @@ if (!isset($_SESSION['usuario'])) {
 <body>
   <?php include 'static/header.php'; ?>
   <?php
-  include 'static/nav.php';
+ 
   include "../controllers/Selects.php";
   ?>
 

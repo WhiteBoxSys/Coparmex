@@ -26,5 +26,5 @@
             </div>
             <a href="notices.php" class="nav-item nav-link" style="color:#232F5D">Noticias</a>
             <a href="contact.php" class="nav-item nav-link" style="color:#232F5D">Contacto</a>
-            <a href="contact.php" class="nav-item nav-link" style="color:#232F5D">Aviso de privacidad</a>
+    
 </nav>

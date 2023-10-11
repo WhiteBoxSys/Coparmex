@@ -21,136 +21,130 @@
                 
             </tr>
             <tr>
-                <td><img class="directoryImg" data-src="assets/img/Directorio/Alianza_Logo.jpg" alt="agencia aduanal"></td>
-                <td>ALIANZA ESTRATEGICA PORTUARIA S.A. DE C.V.</td>
-                <td>Carretera Manzanillo-Minatitlán
-                    Km 1.0, No.52, Tapeixtles, Manzanillo, Col
-
+                <td>
+                    <img class="directoryImg" data-src="assets/img/Directorio/Alianza_Logo.jpg" alt="agencia aduanal"> <br>
                 </td>
-                <td>www.alianza.com.mx</td>
-                <td>314 331 0404</td>
+                <td>
+                    ALIANZA ESTRATEGICA PORTUARIA S.A. DE C.V. <br>
+                    Carretera Manzanillo-Minatitlán Km 1.0, No.52, Tapeixtles, Manzanillo, Col <br>
+                    www.alianza.com.mx <br>
+                    314 331 0404 
+                </td>
+               
             </tr>
 
             <tr>
                 <td><img class="directoryImg" data-src="assets/img/Directorio/CYE_logo.png" alt="agencia aduanal"></td>
-                <td>C&E AGENTES ADUANALES S.A. DE C.V.</td>
-                <td>Blvd. Miguel De La Madrid Hurtado No.426 Int. 27D, Manzanillo, Col
+                <td>
+                    C&E AGENTES ADUANALES S.A. DE C.V.
+                    Blvd. Miguel De La Madrid Hurtado No.426 Int. 27D, Manzanillo, Col <br>
+                    recepcionmzo@aace.mx <br>
+                    314 335 4215
                 </td>
-                <td>recepcionmzo@aace.mx</td>
-                <td>314 335 4215</td>
             </tr>
             <tr>
                 <td><img class="directoryImg" data-src="assets/img/Directorio/GCB_Logo.jpg" alt="agencia aduanal"></td>
-                <td>GCB LOGISTICA ADUANAL S.C.</td>
-                <td>Manuel Bonilla Valle No.484, Manzanillo, Col.
+                <td>
+                    GCB LOGISTICA ADUANAL S.C. <br>
+                    Manuel Bonilla Valle No.484, Manzanillo, Col. <br>
+                    www.gcb.mx <br>
+                    314 333 6564
                 </td>
-                <td>www.gcb.mx</td>
-                <td>314 333 6564</td>
             </tr>
 
             <tr>
                 <td><img class="directoryImg" data-src="assets/img/Directorio/HP_Logo.jpg" alt="agencia aduanal"></td>
-                <td>HP ENTERPRISES</td>
-                <td>Av. Dolores Hidalgo No.49, 16 De Septiembre, Manzanillo, Col.
-
+                <td>
+                    HP ENTERPRISES
+                    Av. Dolores Hidalgo No.49, 16 De Septiembre, Manzanillo, Col. <br>
+                    hp-enterprises.com <br>
+                    314 332 0014 <br>
                 </td>
-                <td>hp-enterprises.com</td>
-                <td>314 332 0014</td>
             </tr>
             <tr>
                 <td><img class="directoryImg" data-src="assets/img/Directorio/LME_Logo.jpg" alt="agencia aduanal"></td>
-                <td>LME AGENT SC</td>
-                <td>Calle de la Laguna No. 9 Valle de las Garzas, Manzanillo, Col. C.P. 28219
-
+                <td>
+                    LME AGENT SC <br>
+                    Calle de la Laguna No. 9 Valle de las Garzas, Manzanillo, Col. C.P. 28219 <br>
+                    eduardo.bolivar@logisticamultimodal.com <br>
+                    comercializacion@logisticamultimodal.com  <br>
+                    www.logisticamultimodal.com.mx <br>
+                    314 145 1309 <br>
                 </td>
-                <td>eduardo.bolivar@logisticamultimodal.com
-                    comercializacion@logisticamultimodal.com
-                    www.logisticamultimodal.com.mx
-                </td>
-                <td>314 145 1309</td>
             </tr>
 
             <tr>
                 <td><img class="directoryImg" data-src="assets/img/Directorio/SILCA_Logo.png" alt="agencia aduanal"></td>
-                <td>SILCA LOGISTICA AGENCIA ADUANAL S.C.</td>
-                <td>Av. Manzanillo, No.57, Local 2, Colonia Guadalupe Victoria, Manzanillo, Col.
-                </td>
-                <td>rvalenzuela@grupo-sce.com</td>
-                <td>314 336 7700
+                <td>
+                    SILCA LOGISTICA AGENCIA ADUANAL S.C. <br>
+                    Av. Manzanillo, No.57, Local 2, Colonia Guadalupe Victoria, Manzanillo, Col. <br>
+                    rvalenzuela@grupo-sce.com <br>
+                    314 336 7700 <br>
                     314 336 7733
                 </td>
+               
             </tr>
             <tr>
                 <td><img class="directoryImg" data-src="assets/img/Directorio/SOLUCIONES_Logo.png" alt="agencia aduanal"></td>
-                <td>SOLUCIONES EN COMERCIO EXTERIOR DEL PACIFICO</td>
-                <td>Av. Manzanillo, No.57, Local 2, Colonia Guadalupe Victoria, Manzanillo, Col.
-                </td>
-                <td>rvalenzuela@grupo-sce.com
-                </td>
-                <td>314 336 7700
+                <td>
+                    SOLUCIONES EN COMERCIO EXTERIOR DEL PACIFICO <br>
+                    Av. Manzanillo, No.57, Local 2, Colonia Guadalupe Victoria, Manzanillo, Col. <br>
+                    rvalenzuela@grupo-sce.com <br>
+                    314 336 7700 <br>
                     314 336 7733
                 </td>
+                
             </tr>
 
             <tr>
                 <td><img class="directoryImg" data-src="assets/img/Directorio/VILLANUEVA_Logo.jpg" alt="agencia aduanal"></td>
-                <td>VILLANUEVA CERVANTES Y ASOCIADOS S.C</td>
-                <td>Carretera Manzanillo-Minatitlán l-16 m.2, Colonia Tapeixtles, Manzanillo, Col.
-
+                <td>
+                    VILLANUEVA CERVANTES Y ASOCIADOS S.C <br>
+                    Carretera Manzanillo-Minatitlán l-16 m.2, Colonia Tapeixtles, Manzanillo, Col. <br>
+                    carlos.cervantes@vca.mx <br>
+                    314 331 3660 <br>
                 </td>
-                <td>carlos.cervantes@vca.mx
-                </td>
-                <td>314 331 3660
-                </td>
+                
             </tr>
             <tr>
                 <td><img class="directoryImg" data-src="assets/img/Directorio/CORPORATIVO_Logo.png" alt="agencia aduanal"></td>
-                <td>CORPORATIVO ADUANAL RALI</td>
-                <td>Blvd. Miguel de Madrid Hurtado No.426 Tapeixtles 23-A
-
-                </td>
-                <td>www.aarali.com
-                </td>
-                <td>800 011 7254
+                <td>
+                    CORPORATIVO ADUANAL RALI <br>
+                    Blvd. Miguel de Madrid Hurtado No.426 Tapeixtles 23-A <br>
+                    www.aarali.com <br>
+                    800 011 7254
                 </td>
             </tr>
 
             <tr>
                 <td><img class="directoryImg" data-src="assets/img/Directorio/GRUPO_Logo.png" alt="agencia aduanal"></td>
-                <td>GRUPO ADONAI S.C.</td>
-                <td>Calle Nogal No.40 Barrio I, Colonia los Pinos
-
+                <td>
+                    GRUPO ADONAI S.C. <br>
+                    Calle Nogal No.40 Barrio I, Colonia los Pinos <br>
+                    www.adonaisc.com <br>
+                    blanca.rojas@adonaisc.com <br>
+                    314 138 2330
                 </td>
-                <td>www.adonaisc.com
-                    blanca.rojas@adonaisc.com
-                </td>
-                <td>314 138 2330
-                </td>
+                
             </tr>
             <tr>
                 <td><img class="directoryImg" data-src="assets/img/Directorio/DACIS_Logo.png" alt="agencia aduanal"></td>
-                <td>DACIS AGENCIA ADUANAL</td>
-                <td>Av. Paseo de las Gaviotas No. 47 Int 4 Barrio V, Manzanillo, Colima
-
-                </td>
-                <td>javier.ramirez@dacis.mx
-                    www.dacis.mx
-
-                </td>
-                <td>551 502 1253
+                <td>
+                    DACIS AGENCIA ADUANAL <br>
+                    Av. Paseo de las Gaviotas No. 47 Int 4 Barrio V, Manzanillo, Colima <br>
+                    javier.ramirez@dacis.mx <br>
+                    www.dacis.mx <br>
+                    551 502 1253
                 </td>
             </tr>
 
             <tr>
                 <td><img class="directoryImg" data-src="assets/img/Directorio/DUEÑO_Logo.png" alt="agencia aduanal"></td>
-                <td>DUEÑO DEL MAR WOODWARD GROUP INTERNATIONAL LOGISTIC SERVICES THINK GLOBAL SA DE CV</td>
-                <td>Av. Teniente Azueta No.25-1, Burócratas, Manzanillo, Col
-
-                </td>
-                <td>mcosio@woodward.com.mx
-
-                </td>
-                <td>314 331 1243
+                <td>
+                    DUEÑO DEL MAR WOODWARD GROUP INTERNATIONAL LOGISTIC SERVICES THINK GLOBAL SA DE CV <br>
+                    Av. Teniente Azueta No.25-1, Burócratas, Manzanillo, Col <br>
+                    mcosio@woodward.com.mx <br>
+                    314 331 1243
                 </td>
             </tr>
 
@@ -162,32 +156,28 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE LA EMPRESA</th>
+                    
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/UNION_Logo.jpg" alt="agencia agricola"></td>
-                    <td>UNIÓN REGIONAL DE PRODUCTORES DE PLÁTANO PACÍFICO CENTRO</td>
-                    <td>López Mateos No.80, La Playita, El Colomo, Manzanillo, Col.
-
-                    </td>
-                    <td>unionpacificocentro@gmail.com
-
-                    </td>
-                    <td>314 337 6806
+                    <td>
+                        UNIÓN REGIONAL DE PRODUCTORES DE PLÁTANO PACÍFICO CENTRO <br>
+                        López Mateos No.80, La Playita, El Colomo, Manzanillo, Col. <br>
+                        unionpacificocentro@gmail.com <br>
+                        314 337 6806
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/VIVEPLANTS_Logo.jpg" alt="agencia agricola"></td>
-                    <td>VIVEPLANTS ORCHIDS & EXOTICS</td>
-                    <td>Prolongación Rio Santiago S/N, Ejido La Central, Manzanillo Col.
+                    <td> 
+                        VIVEPLANTS ORCHIDS & EXOTICS <br>
+                        Prolongación Rio Santiago S/N, Ejido La Central, Manzanillo Col. <br>
+                        ventas@viveplants.com.mx <br>
+                        314 103 0138 <br>
                     </td>
-                    <td>ventas@viveplants.com.mx</td>
-                    <td>314 103 0138</td>
                 </tr>
             </tbody>
         </table>
@@ -198,134 +188,112 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE LA EMPRESA</th>
+                   
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/COACH_Logo.png" alt="agencia asesoria"></td>
-                    <td>COACH EJECUTIVA WENDY SIBAJA</td>
-                    <td>Calle Orquideas No 42, Barrio 3 Valle de las Garzas Manzanillo, Col.
-
-                    </td>
-                    <td>wendy89sib@gmail.com
-
-                    </td>
-                    <td>314 107 4434
+                    <td>
+                        COACH EJECUTIVA WENDY SIBAJA <br>
+                        Calle Orquideas No 42, Barrio 3 Valle de las Garzas Manzanillo, Col. <br>
+                        wendy89sib@gmail.com <br>
+                        314 107 4434
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/GRUPO VERUM Logo.jpg" alt="agencia asesoria"></td>
-                    <td>GRUPO VERUM</td>
-                    <td>Blvd. Miguel de la Madrid No.4996 Local B, Playa Azul, Manzanillo, Col.
-
-                    </td>
-                    <td>ceo@verumres.com
-
-                    </td>
-                    <td>314 334 8726
+                    <td>
+                        GRUPO VERUM <br>
+                        Blvd. Miguel de la Madrid No.4996 Local B, Playa Azul, Manzanillo, Col. <br>
+                        ceo@verumres.com <br>
+                        314 334 8726 
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/OPENKENEN_Logo.png" alt="agencia asesoria"></td>
-                    <td>OPENKENEN</td>
-                    <td>Av. Elías Zamora Verduzco No.2176 Manzanillo, Col
-                    </td>
-                    <td>ventas@openkenen.com.mx
-
-                    </td>
-                    <td>314 336 5900
+                    <td>
+                        OPENKENEN <br>
+                        Av. Elías Zamora Verduzco No.2176 Manzanillo, Col <br>
+                        ventas@openkenen.com.mx <br>
+                        314 336 5900
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/PRODUCTIVIDAD_Logo.png" alt="agencia asesoria"></td>
-                    <td>PRODUCTIVIDAD UDE</td>
-                    <td>Plaza San Jacinto, No.8, int.C, San Ángel, CDMX.
-
-                    </td>
-                    <td>eduardo@undiaextra.com
-
-                    </td>
-                    <td>55 2255 8631
+                    <td>
+                        PRODUCTIVIDAD UDE <br>
+                        Plaza San Jacinto, No.8, int.C, San Ángel, CDMX. <br>
+                        eduardo@undiaextra.com <br>
+                        55 2255 8631
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/SINERGIA_Logo.png" alt="agencia asesoria"></td>
-                    <td>SINERGIA CONSULTORIA Y CAPACITACION EN CALIDAD S.C./td>
-                    <td>Av. Constitución No.1599 Planta Int.7 Colima, Col.
-                    </td>
-                    <td>sinergiaconsutoria@prodigy.net.mx
-
-                    </td>
-                    <td>312 312 9698
-                        314 102 8952
+                    <td> 
+                        SINERGIA CONSULTORIA Y CAPACITACION EN CALIDAD S.C.  <br>
+                        Av. Constitución No.1599 Planta Int.7 Colima, Col. <br>
+                        sinergiaconsutoria@prodigy.net.mx <br>
+                        312 312 9698 <br>
+                        314 102 8952 <br>
                         314 331 1420
-
                     </td>
+                   
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/TANATOLOGIA_Logo.jpg" alt="agencia asesoria"></td>
-                    <td>TANATOLOGÍA</td>
-                    <td>C. Aniceto Madrueño, no. 632 Col. Salagua, Manzanillo, Col.
-
+                    <td>
+                        TANATOLOGÍA <br>
+                        C. Aniceto Madrueño, no. 632 Col. Salagua, Manzanillo, Col. <br>
+                        miguel.tanatologo@gmail.com <br>
+                        312 152 2385 
                     </td>
-                    <td>miguel.tanatologo@gmail.com
-
-                    </td>
-                    <td>312 152 2385
-                    </td>
+                  
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/WORKEN_Logo.png" alt="agencia asesoria"></td>
-                    <td>WORKEN MANZANILLO</td>
-                    <td>Blvd. Miguel De La Madrid No.426, Torre Puerto Piso 2 Int.22-A, Manzanillo, Col.
+                    <td>
+                        WORKEN MANZANILLO <br>
+                        Blvd. Miguel De La Madrid No.426, Torre Puerto Piso 2 Int.22-A, Manzanillo, Col. <br>
+                        anovoa@integrat-innovacion.com <br>
+                        314 121 8787
                     </td>
-                    <td>anovoa@integrat-innovacion.com
-
-                    </td>
-                    <td>314 121 8787
-                    </td>
+                  
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/PRODUCTIVIDAD_Logo.png" alt="agencia asesoria"></td>
-                    <td>PRODUCTIVIDAD LABORAL 24/7</td>
-                    <td>Av. Rey Coliman 329 D103, Colonia Centro, Colima, Col.
+                    <td>
+                        PRODUCTIVIDAD LABORAL 24/7 <br>
+                        Av. Rey Coliman 329 D103, Colonia Centro, Colima, Col. <br>
+                        Productividadlaboral24.7@gmail.com <br>
+                        312 224 1800 <br>
+                        312 133 1183 
                     </td>
-                    <td>Productividadlaboral24.7@gmail.com
-
-                    </td>
-                    <td>312 224 1800
-                        312 133 1183
-                    </td>
+                   
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/GRUPO CORSEC Logo.jpg" alt="agencia asesoria"></td>
-                    <td>GRUPO CORSEC</td>
-                    <td>Blvd, Miguel de la Madrid 426 Piso 3 Planta Peletizadora C.P. 28239
-                    </td>
-                    <td>www.corsec.com.mx
-
-                    </td>
-                    <td>558 854 838
+                    <td>
+                        GRUPO CORSEC <br>
+                        Blvd, Miguel de la Madrid 426 Piso 3 Planta Peletizadora C.P. 28239 <br>
+                        www.corsec.com.mx <br>
+                        558 854 838 <br>
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/DOMIND_Logo.png" alt="agencia asesoria"></td>
-                    <td>DOMIND DESARROLLO ORGANIZACIONAL</td>
-                    <td>Av. Constitución 2132-5 C.P. 28017 Col. Puerta del Sol. Colima, Colima
-                    </td>
-                    <td>https://domind.com.mx
-                        joseluis.calderon@domind.com.mx
-                    </td>
-                    <td>312 156 599
+                    <td>
+                        DOMIND DESARROLLO ORGANIZACIONAL <br>
+                        Av. Constitución 2132-5 C.P. 28017 Col. Puerta del Sol. Colima, Colima
+                        https://domind.com.mx <br>
+                        joseluis.calderon@domind.com.mx <br>
+                        312 156 599
                     </td>
                 </tr>
             </tbody>
@@ -337,34 +305,28 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE LA EMPRESA</th>
+                   
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/GAITAN.jpg" alt="agencia legal"></td>
-                    <td>GAITAN GUDIÑO Y ASOCIADOS S.C.</td>
-                    <td>Blvd. Miguel De La Madrid No.1513 Las Perlas 2, Playa Azul, Manzanillo, Col.
-                    </td>
-                    <td>www.notaria6manzanillo.com
-
-                    </td>
-                    <td>314 334 1590
+                    <td>
+                        GAITAN GUDIÑO Y ASOCIADOS S.C. <br>
+                        Blvd. Miguel De La Madrid No.1513 Las Perlas 2, Playa Azul, Manzanillo, Col. <br>
+                        www.notaria6manzanillo.com <br>
+                        314 334 1590 <br>
                         314 334 1591
-
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" data-src="../assets/img/Directorio/NOTARIA.jpg" alt="agencia legal"></td>
-                    <td>NOTARIA 1</td>
-                    <td>Guarnición De La Plaza No.7, Salagua, El Pacífico, Manzanillo, Col.
-                    </td>
-                    <td>notario@notaria1manzanillo.com.mx
-                    </td>
-                    <td>314 332 1611
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/NOTARIA.jpg" alt="agencia legal"></td>
+                    <td>
+                        NOTARIA 1
+                        Guarnición De La Plaza No.7, Salagua, El Pacífico, Manzanillo, Col. <br>
+                        notario@notaria1manzanillo.com.mx <br>
+                        314 332 1611
                     </td>
                 </tr>
             </tbody>
@@ -376,58 +338,46 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE LA EMPRESA</th>
+                   
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/AUTOMOTORES.jpg" alt="agencia automotriz"></td>
-                    <td>AUTOMOTORES FLOVA</td>
-                    <td>Blvd. Miguel De La Madrid No. 1104, Solares, Manzanillo, Col.
-                    </td>
-                    <td>mercadotecniamzo@autosflova.com
-
-                    </td>
-                    <td>314 334 8049
-
+                    <td>
+                        AUTOMOTORES FLOVA <br>
+                        Blvd. Miguel De La Madrid No. 1104, Solares, Manzanillo, Col. <br>
+                        mercadotecniamzo@autosflova.com <br>
+                        314 334 8049
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/CAVSA.jpg" alt="agencia automotriz"></td>
-                    <td>CAVSA COLIMA AUTOMOTRIZ (SUC. MANZANILLO)</td>
-                    <td>Blvd. Miguel De La Madrid Hurtado No.12148, Salagua, Manzanillo, Col.
-                    </td>
-                    <td>mnuno@cavsacolima.mx
-                    </td>
-                    <td>314 333 1111
+                    <td>
+                        CAVSA COLIMA AUTOMOTRIZ (SUC. MANZANILLO) <br>
+                        Blvd. Miguel De La Madrid Hurtado No.12148, Salagua, Manzanillo, Col. <br>
+                        314 333 1111
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/LLANTIFRIO.jpg" alt="agencia automotriz"></td>
-                    <td>LLANTIFRIOS.A. DE C.V.</td>
-                    <td>Lib. Tapeixtles El Colomo, No.400, Loma Alta Tapeixtles, Manzanillo, Col.
-                    </td>
-                    <td>ventasllantifrio@gmail.com
-
-                    </td>
-                    <td>314 138 2053
-
-                    </td>
+                    <td>
+                        LLANTIFRIOS.A. DE C.V. <br>
+                        Lib. Tapeixtles El Colomo, No.400, Loma Alta Tapeixtles, Manzanillo, Col. <br>
+                        ventasllantifrio@gmail.com <br>
+                        314 138 2053
+                    </td> 
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/NISSAN.png" alt="agencia automotriz"></td>
-                    <td>NISSAN RANCAGUA MANZANILLO</td>
-                    <td>Blvd. Miguel de la Madrid Km 2, Parque Industrial Fondeport, Manzanillo, Col.
-                    </td>
-                    <td>www.nissanmanzanillo.com.mx
-                    </td>
-                    <td>314 331 1900
+                    <td>
+                        NISSAN RANCAGUA MANZANILLO <br>
+                        Blvd. Miguel de la Madrid Km 2, Parque Industrial Fondeport, Manzanillo, Col. <br>
+                        www.nissanmanzanillo.com.mx <br>
+                        314 331 1900
                     </td>
                 </tr>
-
             </tbody>
         </table>
     </div>
@@ -437,108 +387,87 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE LA EMPRESA</th>
+                  
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/BTM.png" alt="agencia consultoria"></td>
-                    <td>BTM DEL PUERTO, S.C./td>
-                    <td>Av. La audiencia no 148 Int B14 Col Las Palmas C.P. 28869
+                    <td>
+                        BTM DEL PUERTO, S.C. <br>
+                        Av. La audiencia no 148 Int B14 Col Las Palmas C.P. 28869 <br>
+                        manzanillo@kaketilly.mx <br>
+                        314 335 32110
                     </td>
-                    <td>manzanillo@kaketilly.mx
-
-                    </td>
-                    <td>314 335 3211
-
-                    </td>
+                   
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/CONSORCIO POMPA.jpg" alt="agencia consultoria"></td>
-                    <td>CONSORCIO POMPA Y ASOCIADOS S.C.</td>
-                    <td>Av. Audiencia 48 Local 25 Fracc. Península De Santiago, Manzanillo, Col
-                    </td>
-                    <td>pompayasoc@prodigy.net.mx
-                    </td>
-                    <td>314 333 0387
-                    </td>
-                </tr>
-
-                <tr>
-                    <td><img class="directoryImg" data-src="assets/img/Directorio/CORPORATIVO_Logo.png" alt="agencia consultoria"></td>
-                    <td>CORPORATIVO GARCÍA TREJO CONSULTORES FISCALES S.C.
-                    <td>Lázaro Cárdenas No.175, Manzanillo, Col.
-                    </td>
-                    <td>contacto@garciatrejo.com.mx
-                        recepción@garciatrejo.com.mx
-
-
-                    </td>
-                    <td>314 333 9005
-
+                    <td>
+                        CONSORCIO POMPA Y ASOCIADOS S.C. <br>
+                        Av. Audiencia 48 Local 25 Fracc. Península De Santiago, Manzanillo, Col <br>
+                        pompayasoc@prodigy.net.mx <br>
+                        314 333 0387
                     </td>
                 </tr>
+
+               
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/DESPACHO DE ASESORÍA FISCO.jpg" alt="agencia consultoria"></td>
-                    <td>DESPACHO DE ASESORÍA FISCO ADUANERA INTEGRAL S.C.</td>
-                    <td>Obras Marítimas No.30, Colonia el Pacífico, Manzanillo, Col.
-                    </td>
-                    <td>interno@dafai.com.mx
-                    </td>
-                    <td>314 332 1204
+                    <td>
+                        DESPACHO DE ASESORÍA FISCO ADUANERA INTEGRAL S.C. <br>
+                        Obras Marítimas No.30, Colonia el Pacífico, Manzanillo, Col. <br>
+                        interno@dafai.com.mx <br>
+                        314 332 1204
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/DESPACHO Y CONSULTORIA CADENA.jpg" alt="agencia consultoria"></td>
-                    <td>DESPACHO Y CONSULTORIA CADENA S.A. DE C.V.
-                    <td>Calle 10 De Mayo No.14 Int. 9, Centro, Manzanillo, Col.
-                    </td>
-                    <td>grupocadena@hotmail.com</td>
-                    <td>314 332 8401</td>
+                    <td>
+                        DESPACHO Y CONSULTORIA CADENA S.A. DE C.V. <br>
+                        Calle 10 De Mayo No.14 Int. 9, Centro, Manzanillo, Col. <br>
+                        grupocadena@hotmail.com <br>
+                        314 332 8401
+                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/FLORES SANTOS Y ASOCIADOS.png" alt="agencia consultoria"></td>
-                    <td>FLORES SANTOS Y ASOCIADOS SC</td>
-                    <td>Laguna De Carrizalillos No.712, Las Víboras, Colima, Col.
+                    <td>
+                        FLORES SANTOS Y ASOCIADOS SC <br> 
+                        Laguna De Carrizalillos No.712, Las Víboras, Colima, Col. <br>
+                        asistentedireccion@floresantos.com <br>
+                        3123170510
                     </td>
-                    <td>asistentedireccion@floresantos.com
-                    </td>
-                    <td>3123170510
-                    </td>
+                   
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/PLANEACIÓN Y ESTRATEGIA.jpg" alt="agencia consultoria"></td>
-                    <td>PLANEACIÓN Y ESTRATEGIA EMPRESARIAL</td>
-                    <td>Los Pinos 344, Jardines De La Corregidora, Colima, Col.
-                    </td>
-                    <td>facturacion@pee.mx
-                    </td>
-                    <td>312 330 6999
+                    <td>
+                        PLANEACIÓN Y ESTRATEGIA EMPRESARIAL <br>
+                        Los Pinos 344, Jardines De La Corregidora, Colima, Col. <br>
+                        facturacion@pee.mx <br>
+                        312 330 6999
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/TLC.png" alt="agencia consultoria"></td>
-                    <td>TLC ASOCIADOS
-                    <td>Luis Cabrera #2089, Zona Urbana Rio Tijuana, Tijuana, B.C.
-                    </td>
-                    <td>tlc@tlcasociados.com.mx</td>
-                    <td>664 634 0189</td>
+                    <td>
+                        TLC ASOCIADOS <br>
+                        Luis Cabrera #2089, Zona Urbana Rio Tijuana, Tijuana, B.C. <br>
+                        tlc@tlcasociados.com.mx <br>
+                        664 634 0189 <br>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/URIAS HIGAREDA.jpg" alt="agencia consultoria"></td>
-                    <td>URIAS HIGAREDA Y ASOCIADOS SC</td>
-                    <td>Compostela No.1958, Chapultepec Country, Guadalajara, Jal.
-                    </td>
-                    <td>administración@uriashigareda.com
-                    </td>
-                    <td>3854 6243
-                        3854 6240
-
+                    <td>
+                        URIAS HIGAREDA Y ASOCIADOS SC <br>
+                        Compostela No.1958, Chapultepec Country, Guadalajara, Jal. <br>
+                        administración@uriashigareda.com <br>
+                        3854 6243 <br>
+                        3854 6240 <br>
                     </td>
                 </tr>
             </tbody>
@@ -551,127 +480,101 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE LA EMRPESA</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/ARTEK.jpg" alt="agencia comercio"></td>
-                    <td>ARTEK BORDADOS
-                    <td>Blvd. Miguel de la Madrid Km 11.5, Manzanillo, Col.
-                    </td>
-                    <td>admin@bay.net.mx
-
-                    </td>
-                    <td>314 334 2555
+                    <td>
+                        ARTEK BORDADOS <br>
+                        Blvd. Miguel de la Madrid Km 11.5, Manzanillo, Col. <br>
+                        admin@bay.net.mx <br>
+                        314 334 2555 <br>
                         314 333 1637
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/BEEF.png" alt="agencia comercio"></td>
-                    <td>BEEF MARKET TIF S.A. DE C.V.</td>
-                    <td>Océano Atlántico No.2, Colonia Del Mar, Manzanillo, Col.
-                    </td>
-                    <td>jorge@beefmarket.com.mx
-                    </td>
-                    <td>314 334 1974
+                    <td>
+                        BEEF MARKET TIF S.A. DE C.V. <br>
+                        Océano Atlántico No.2, Colonia Del Mar, Manzanillo, Col. <br>
+                        jorge@beefmarket.com.mx <br>
+                        314 334 1974
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/KAVA.jpg" alt="agencia comercio"></td>
-                    <td>KAVA DETALLES
-                    <td>Av. Elías Zamora Verduzco #17 Salagua, Manzanillo, Col
-                    </td>
-                    <td>sus.y.karen@hotmail.com
-
-                    </td>
-                    <td>314 144 9067
+                    <td> 
+                        KAVA DETALLES <br>
+                        Av. Elías Zamora Verduzco #17 Salagua, Manzanillo, Col <br>
+                        sus.y.karen@hotmail.com <br>
+                        314 144 9067
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/LA CASA DEL SOLDADOR.jpg" alt="agencia comercio"></td>
-                    <td>LA CASA DEL SOLDADOR</td>
-                    <td>Libramiento El Colomo, No. 13 C, Indeco, Tapeixtles, Manzanillo, Col
-                    </td>
-                    <td>lacasadelsoldadorgerencia@gmail.com
-                    </td>
-                    <td>314 353 2507
+                    <td>
+                        LA CASA DEL SOLDADOR <br>
+                        Libramiento El Colomo, No. 13 C, Indeco, Tapeixtles, Manzanillo, Col <br>
+                        lacasadelsoldadorgerencia@gmail.com <br>
+                        314 353 2507 <br>
                         314 113 0146
-
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/MAYOREO DE COPIADORAS.jpg" alt="agencia comercio"></td>
-                    <td>MAYOREO DE COPIADORAS S.A. DE C.V.
-
-                    <td>Blvd. Miguel De La Madrid No.384 Pb, Tapeixtles, Manzanillo, Col.
+                    <td>
+                        MAYOREO DE COPIADORAS S.A. DE C.V. <br>
+                        Blvd. Miguel De La Madrid No.384 Pb, Tapeixtles, Manzanillo, Col. <br>
+                        ventas@copisistemas.com.mx <br>
+                        314 332 4540 <br>
                     </td>
-                    <td>ventas@copisistemas.com.mx
-
-                    </td>
-                    <td>314 332 4540
-                    </td>
+                    
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/PAKET.jpg" alt="agencia comercio"></td>
-                    <td>PAKET</td>
-                    <td>Av. La Joya No.105, La Joya 1, Manzanillo, Col.
-
-                    </td>
-                    <td>info@paket.com.mx
-                    </td>
-                    <td>314 333 5146
-
+                    <td>
+                        PAKET <br>
+                        Av. La Joya No.105, La Joya 1, Manzanillo, Col. <br>
+                        info@paket.com.mx <br>
+                        314 333 5146
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/SEÑOR LED.png" alt="agencia comercio"></td>
-                    <td>SEÑOR LED
-
-                    <td>Blvd. Miguel de la Madrid No.4996 Local A, Playa Azul, Manzanillo, Col.
-                    </td>
-                    <td>ventas2@senorled.com
-
-                    </td>
-                    <td>314 334 8726
+                    <td>
+                        SEÑOR LED <br>
+                        Blvd. Miguel de la Madrid No.4996 Local A, Playa Azul, Manzanillo, Col. <br> 
+                        ventas2@senorled.com <br>
+                        314 334 8726 <br>
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/UNIFORMES.jpg" alt="agencia comercio"></td>
                     <td>UNIFORMES Y
                         BORDADOS
-                        MANZANILLO
-                    </td>
-                    <td>Av. Vista Hermosa S/N, Península de Santiago, Manzanillo, Col
-
-                    </td>
-                    <td>uniformesybordadosmzo@gmail.com
-                    </td>
-                    <td>314 139 7092
+                        MANZANILLO <br>
+                        Av. Vista Hermosa S/N, Península de Santiago, Manzanillo, Col <br>
+                        uniformesybordadosmzo@gmail.com <br>
+                        314 139 7092 <br>
                         314 102 4817
-
-
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Comercio/AUTOGENA.png" alt="agencia comercio"></td>
-                    <td>AUTOGENA MANZANILLO
-                    </td>
-                    <td>Blvd. Miguel De La Madrid No.580, Valle De Las Garzas, Barrio 1, Manzanillo, Col.
-
-                    </td>
-                    <td>autogenamanzanillo@gmail.com
-                    </td>
-                    <td>314 138 2077
-                        314 218 6015
+                    <td>
+                        AUTOGENA MANZANILLO <br>
+                        Blvd. Miguel De La Madrid No.580, Valle De Las Garzas, Barrio 1, Manzanillo, Col. <br>
+                        autogenamanzanillo@gmail.com <br>
+                        314 138 2077 <br>
+                        314 218 6015 <br>
                         314 141 2305
                     </td>
+                  
                 </tr>
             </tbody>
         </table>
@@ -682,97 +585,88 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE LA EMPRESA</th>
+                    
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Construccion/ALTHO.jpg" alt="agencia construccion"></td>
-                    <td>ALTHO PROYECTO Y CONSTRUCCIÓN S.A. DE C.V.</td>
-                    <td>Revolución No.3B, Santiago, Manzanillo Col.
-                    </td>
-                    <td>althoproyecto@hotmail.com
-
-                    </td>
-                    <td>314 334 1610
+                    <td>
+                        ALTHO PROYECTO Y CONSTRUCCIÓN S.A. DE C.V. <br>
+                        Revolución No.3B, Santiago, Manzanillo Col. <br>
+                        althoproyecto@hotmail.com <br>
+                        314 334 1610 
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Construccion/Azulejos.jpg" alt="agencia construccion"></td>
-                    <td>AZULEJOS LAS GARZAS</td>
-
-                    <td>Av. Elías Zamora Verduzco No.38, Valle De Las Garzas, Manzanillo, Col.
-                    </td>
-                    <td>ventas@azulejoslasgarzas.com.mx
-
-                    </td>
-                    <td>314 336 8240
-                        314 336 8250
+                    <td>
+                        AZULEJOS LAS GARZAS <br>
+                        Av. Elías Zamora Verduzco No.38, Valle De Las Garzas, Manzanillo, Col. <br>
+                        ventas@azulejoslasgarzas.com.mx <br>
+                        314 336 8240 <br>
+                        314 336 8250 <br>
                         314 336 8270
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Construccion/BB.jpg" alt="agencia construccion"></td>
-                    <td>BB CONSTRUCTORA HMNOS</td>
-                    <td>Narcizo Mendoza, No.1, Santiago, Manzanillo, Col.
-                    </td>
-                    <td>jnbf64@gmail.com
+                    <td>
+                        BB CONSTRUCTORA HMNOS <br>
+                        Narcizo Mendoza, No.1, Santiago, Manzanillo, Col. <br>
+                        jnbf64@gmail.com <br>
+                        314 135 1417
 
-                    </td>
-                    <td>314 135 1417
-                    </td>
+                    </td> 
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Construccion/INGENIERIA.jpg" alt="agencia construccion"></td>
-                    <td>INGENIERIA INDESCA</td>
+                    <td>
+                        INGENIERIA INDESCA <br>
+                        Calle Circuito del Prado 2001 No Ext 10, Col. Brisas de Chapala <br>
+                        ingenieria2indesca@gmail.com <br>
+                        331 757 6947
+                    </td>
 
-                    <td>Calle Circuito del Prado 2001 No Ext 10, Col. Brisas de Chapala
-                    </td>
-                    <td>ingenieria2indesca@gmail.com
-
-                    </td>
-                    <td>331 757 6947
-                    </td>
+                   
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Construccion/MADERERIA.png" alt="agencia construccion"></td>
-                    <td>MADERERIA VARALOSO</td>
-                    <td>Av. Manzanillo No.20, Manzanillo, Col.
-                    </td>
-                    <td>atencionaclientes.mzo@varaloso.co
+                    <td>MADERERIA VARALOSO <br>
+                    Av. Manzanillo No.20, Manzanillo, Col. <br>
+                
+                    atencionaclientes.mzo@varaloso.co <br>
 
-                    </td>
-                    <td>314 333 3555
+                
+                    314 333 3555
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src=" assets/img/Directorio/Construccion/PINFRA.jpg" alt="agencia construccion"></td>
-                    <td>PINFRA</td>
+                    <td>PINFRA
 
-                    <td>Bosques De Radiatas S/N, Bosques De Las Lomas, Cdmx.
-                    </td>
-                    <td>cotizaciones@pinfra.com.mx
+                  Bosques De Radiatas S/N, Bosques De Las Lomas, Cdmx. <br>
+                      
+                  cotizaciones@pinfra.com.mx <br>
 
-                    </td>
-                    <td>552 789 0200
+                    
+                  552 789 0200 <br>
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Construccion/MATERIALES.png" alt="agencia construccion"></td>
-                    <td>MATERIALES MONTERREY</td>
+                    <td>MATERIALES MONTERREY
 
-                    <td>Blvd. Miguel De La Madrid Hurtado No.13, Salagua, Manzanillo, Col.
-                    </td>
-                    <td>mat.monterrey@hotmail.com
+                    Blvd. Miguel De La Madrid Hurtado No.13, Salagua, Manzanillo, Col. <br>
+                     
+                    mat.monterrey@hotmail.com <br>
 
-                    </td>
-                    <td>314 334 0935
-                        314 333 0899
+                    
+                    314 334 0935 <br>
+                        314 333 0899 
                     </td>
                 </tr>
 
@@ -785,58 +679,56 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE LA EMPRESA</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Deportivo/DESARROLLADORA.png" alt="agencia deportiva"></td>
-                    <td>DESARROLLADORA RESIDENCIAL MANZANILLO COUNTRY CLUB, S.A. DE C.V.</td>
-                    <td>Antiguo camino a Chandiablo Km.2, Colonia Abelardo L. Rodríguez, Manzanillo, Col.
-                    </td>
-                    <td>yeshica77@gmail.com
+                    <td>DESARROLLADORA RESIDENCIAL MANZANILLO COUNTRY CLUB, S.A. DE C.V. <br>
+                   Antiguo camino a Chandiablo Km.2, Colonia Abelardo L. Rodríguez, Manzanillo, Col. <br>
+                     
+                   yeshica77@gmail.com <br>
 
-                    </td>
-                    <td>314 333 3155
+                    
+                   314 333 3155 <br>
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Deportivo/PACIFIC.jpg" alt="agencia deportiva"></td>
-                    <td>PACIFIC AQUA ESCUELA DE NADO</td>
-                    <td>Av. Las Palmas, Fracc. la Higuera Local 1-A, Frente a Campo Verde., Manzanillo, Col.
-                    </td>
-                    <td>pacificswim20@gmail.com
+                    <td>PACIFIC AQUA ESCUELA DE NADO <br>
+                    Av. Las Palmas, Fracc. la Higuera Local 1-A, Frente a Campo Verde., Manzanillo, Col. <br>
+                    
+                    pacificswim20@gmail.com <br>
 
-                    </td>
-                    <td>314 376 5920
+                    
+                    314 376 5920 <br>
                     </td>
                 </tr>
 
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Deportivo/CAPITAL.PNG" alt="agencia deportiva"></td>
-                    <td>CAPITAL FITNESS</td>
-                    <td>Blvd. Miguel de la Madrid No.3175, Plaza Punto Bahía Local C2, Manzanillo, Col
-                    </td>
-                    <td>admon.cfgym@gmail.com
+                    <td>CAPITAL FITNESS <br>
+                   Blvd. Miguel de la Madrid No.3175, Plaza Punto Bahía Local C2, Manzanillo, Col <br>
+                    
+                   admon.cfgym@gmail.com <br>
 
-                    </td>
-                    <td>314 165 9651
+                    
+                   314 165 9651 <br>
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Deportivo/PULSE.PNG" alt="agencia deportiva"></td>
-                    <td>PULSE LIFE CLUB</td>
-                    <td>Blvd. Miguel de la Madrid Hurtado #8, Playa Azul,Manzanillo, Col.
+                    <td>PULSE LIFE CLUB <br>
 
-                    </td>
-                    <td>gerenciageneral@pulselifeclub.co
+                   Blvd. Miguel de la Madrid Hurtado #8, Playa Azul,Manzanillo, Col. <br>
+  
+                    
+                   gerenciageneral@pulselifeclub.co <br>
 
-                    </td>
-                    <td>314688782
+                    
+                   314688782
                     </td>
                 </tr>
             </tbody>
@@ -848,56 +740,55 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE LA EMPRESA</th>
+                   
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Educativo/COLEGIO.jpg" alt="agencia educativa"></td>
-                    <td>COLEGIO TERRANOVA</td>
-                    <td>Arturo Castro Guízar No.21, Las Brisas, Manzanillo, Col.
-                    </td>
-                    <td>contacto@colegioterranova.edu.mx
+                    <td>COLEGIO TERRANOVA <br>
+                    Arturo Castro Guízar No.21, Las Brisas, Manzanillo, Col. <br>
+                    
+                    contacto@colegioterranova.edu.mx  <br>
 
-                    </td>
-                    <td>314 333 1675
+                    
+                    314 333 1675  <br>
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Educativo/PATRONATO.png" alt="agencia educativa"></td>
-                    <td>PATRONATO CULTURAL VIZCAYA, A.C.</td>
-                    <td>Blvd. Miguel De La Madrid No.1088, Salagua, Manzanillo, Col.
-                    </td>
-                    <td>admisiones_mzo@uva.edu.mx
+                    <td>PATRONATO CULTURAL VIZCAYA, A.C. <br>
+                    Blvd. Miguel De La Madrid No.1088, Salagua, Manzanillo, Col. <br>
+                    
+                    admisiones_mzo@uva.edu.mx <br>
 
-                    </td>
-                    <td>314 376 5857
+                    
+                    314 376 5857 <br>
                         314 336 8766
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Educativo/COII.png" alt="agencia educativa"></td>
-                    <td>COII (CENTRO DE ORIENTACION DE INTERVENCION INFANTIL)</td>
-                    <td>José María Flores 100, Fracc. Los Mangos, Salagua
-                    </td>
-                    <td>www.coii.com.mx
+                    <td>COII (CENTRO DE ORIENTACION DE INTERVENCION INFANTIL) <br>
+                    José María Flores 100, Fracc. Los Mangos, Salagua <br>
+                     
+                    www.coii.com.mx <br>
 
-                    </td>
-                    <td>314 113 1232 314 305 4017</td>
+                    
+                    314 113 1232  <br>
+                    314 305 4017</td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Educativo/INSTITUTO.png" alt="agencia educativa"></td>
-                    <td>INSTITUTO DE EDUCACION Y CULTURA DE OCCIDENTE S.A. DE C.V.</td>
-                    <td>Boulevard Miguel de la Madrid No. 14540 Int 7
-                    </td>
-                    <td>manzanillo@colegioanahuac.mx
+                    <td>INSTITUTO DE EDUCACION Y CULTURA DE OCCIDENTE S.A. DE C.V. <br>
+                    Boulevard Miguel de la Madrid No. 14540 Int 7 <br>
+                    
+                    manzanillo@colegioanahuac.mx <br>
 
-                    </td>
-                    <td>312 314 0020</td>
+                    
+                    312 314 0020</td>
                 </tr>
             </tbody>
         </table>
@@ -908,53 +799,51 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE LA EMPRESA</th>
+                  
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Energetico/DISTRIBUIDOR.jpg" alt="agencia energetica"></td>
-                    <td>DISTRIBUIDOR A PORTUARIA DE COMBUSTIBLE S.A. DE C.V. </td>
-                    <td>Av. Central Sur, Lote 1, Mza. H, Fondeport, Manzanillo, Col.
-                    </td>
-                    <td>atencionaclientesdpc@hotmail.com
-                    </td>
-                    <td>314 334 6511
+                    <td>DISTRIBUIDOR A PORTUARIA DE COMBUSTIBLE S.A. DE C.V. <br>
+                    Av. Central Sur, Lote 1, Mza. H, Fondeport, Manzanillo, Col. <br>
+                    
+                    atencionaclientesdpc@hotmail.com <br>
+                    
+                    314 334 6511
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Energetico/GAS.png" alt="agencia energetica"></td>
-                    <td>GAS MENGUC,S.A. DE C.V. </td>
-                    <td>Carretera Manzanillo Cuyutlan km 5 , campos, Manzanillo, Colima
-                    </td>
-                    <td>gm.mz.admon@globalgasmx.com
+                    <td>GAS MENGUC,S.A. DE C.V.  <br>
+                   Carretera Manzanillo Cuyutlan km 5 , campos, Manzanillo, Colima <br>
+                    
+                   gm.mz.admon@globalgasmx.com <br>
 
-                    </td>
-                    <td>314 332 327
+                    
+                   314 332 327
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Energetico/HOREB.png" alt="agencia energetica"></td>
-                    <td>HOREB ENERGY</td>
-                    <td>Av. Elias Zamora Verduzco No.2124F, Manzanillo, Col
-                    </td>
-                    <td>www.horebenergy.com
-                    </td>
-                    <td>314 119 877
+                    <td>HOREB ENERGY <br>
+                    Av. Elias Zamora Verduzco No.2124F, Manzanillo, Col <br>
+                    
+                    www.horebenergy.com <br>
+                      
+                    314 119 877
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Energetico/GRUPO.jpg" alt="agencia energetica"></td>
-                    <td>GRUPO JOVALDI S.A. DE C.V.</td>
-                    <td>Blvd. Miguel De La Madrid No.302, Tapeixtles, Manzanillo, Col.
-                    </td>
-                    <td>grupojovaldi@hotmail.com jovaldi7@hotmail.com
-                    </td>
-                    <td>314 335 5590
+                    <td>GRUPO JOVALDI S.A. DE C.V. <br>
+                    Blvd. Miguel De La Madrid No.302, Tapeixtles, Manzanillo, Col. <br>
+                    
+                    grupojovaldi@hotmail.com jovaldi7@hotmail.com <br>
+                    
+                    314 335 5590
                     </td>
                 </tr>
             </tbody>
@@ -966,52 +855,51 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE LA EMPRESA</th>
+                   
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Financiera/BANCO.png" alt="agencia financiera"></td>
-                    <td>BANCO MONEX S.A.</td>
-                    <td>Blvd. Miguel De La Madrid Hurtado No.256 Int 1, Tapeixtles, Manzanillo, Col.
-                    </td>
-                    <td>www.monex.com.mx gkremastoulis@monex.com.mx
-                    </td>
-                    <td>314 190 0904
+                    <td>BANCO MONEX S.A. <br>
+                   Blvd. Miguel De La Madrid Hurtado No.256 Int 1, Tapeixtles, Manzanillo, Col. <br>
+                    
+                   www.monex.com.mx gkremastoulis@monex.com.mx <br>
+                    
+                   314 190 0904
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Financiera/CAJA.png" alt="agencia financiera"></td>
-                    <td>CAJA POPULAR MANZANILLO, S.C. DE A.P. DE R.L. DE C.V. </td>
-                    <td>Av. México No. 386 Col. Centro, Manzanillo, Col.
-                    </td>
-                    <td>cajamanzanillo@cajapopularmanzanillo.com.mx
-                    </td>
-                    <td>314 33 367 79 Ext. 5931
+                    <td>CAJA POPULAR MANZANILLO, S.C. DE A.P. DE R.L. DE C.V.  <br>
+                    Av. México No. 386 Col. Centro, Manzanillo, Col. <br>
+                    
+                    cajamanzanillo@cajapopularmanzanillo.com.mx <br>
+                    
+                    314 33 367 79 Ext. 5931
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Financiera/INTERCAM.png" alt="agencia financiera"></td>
-                    <td>INTERCAM BANCO</td>
-                    <td>Blvd Miguel de la Madrid No. 874 Local 1, Playa Azul Manzanillo Colima
-                    </td>
-                    <td>www.intercam.com.mx jmorales@intercam.com.mx
-                    </td>
-                    <td>314 33 367 79 Ext. 5931
+                    <td>INTERCAM BANCO <br>
+                   Blvd Miguel de la Madrid No. 874 Local 1, Playa Azul Manzanillo Colima <br>
+                    
+                   www.intercam.com.mx jmorales@intercam.com.mx <br>
+                     
+                   314 33 367 79 Ext. 5931
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Financiera/SOC.png" alt="agencia financiera"></td>
-                    <td>SOC 12 OPCIONES PARA TI</td>
-                    <td>Prol. Acueducto No. 32, Fracc. Almendros III, Manzanillo, Col.
-                    </td>
-                    <td>http://www.socasesores.com/micrositio/12_opciones_para_ti
-                    </td>
-                    <td>314 116 2843 312 311 9471</td>
+                    <td>SOC 12 OPCIONES PARA TI <br>
+                    Prol. Acueducto No. 32, Fracc. Almendros III, Manzanillo, Col. <br>
+                    
+                    http://www.socasesores.com/micrositio/12_opciones_para_ti <br>
+                    
+                    314 116 2843 <br> 
+                    312 311 9471</td>
                 </tr>
             </tbody>
         </table>
@@ -1022,107 +910,105 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE EMPRESA</th>
+                    
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/" alt="agencia hotelera"></td>
-                    <td>EL CORAZON DE MANZANILLO</td>
-                    <td>El Naranjo, Manzanillo, Col.
-                    </td>
-                    <td>elcorazongolfclub@gmail.com
-                    </td>
-                    <td>314 133 7940
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/El.jpg" alt="agencia hotelera"></td>
+                    <td>EL CORAZON DE MANZANILLO <br>
+El Naranjo, Manzanillo, Col. <br>
+                    
+elcorazongolfclub@gmail.com <br>
+                    
+314 133 7940
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/El.jpg" alt="agencia hotelera"></td>
-                    <td>HECTOURS</td>
-                    <td>Blvd. Miguel de la Madrid No.3147, Playa Azul, Manzanillo, Col.
-                    </td>
-                    <td>director@hectours.com
-                        ventas@hectours.com
-                        www.hectours.com
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/HECTOURS.jpg" alt="agencia hotelera"></td>
+                    <td>HECTOURS <br>
+                   Blvd. Miguel de la Madrid No.3147, Playa Azul, Manzanillo, Col. <br>
+                    
+                   director@hectours.com <br>
+                        ventas@hectours.com <br>
+                        www.hectours.com <br>
 
-                    </td>
-                    <td>314 357 1410
+                    
+                   314 357 1410 <br>
                         314 333 1707
                     </td>
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/HECTOURS.jpg" alt="agencia hotelera"></td>
-                    <td>HOLIDAY INN EXPRESS MANZANILLO</td>
-                    <td>Blvd. Miguel De La Madrid No.424, Zona Industrial Tapeixtles, Manzanillo, Col
-                    </td>
-                    <td>reserva@grupoxama.com
-                        www.hiexpress.com-manzanillo
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/HOLIDAY.jpg" alt="agencia hotelera"></td>
+                    <td>HOLIDAY INN EXPRESS MANZANILLO <br>
+                    Blvd. Miguel De La Madrid No.424, Zona Industrial Tapeixtles, Manzanillo, Col <br>
+                     
+                    reserva@grupoxama.com <br>
+                        www.hiexpress.com-manzanillo <br>
 
-                    </td>
-                    <td>314 331 2330
+                    
+                    314 331 2330
                     </td>
                 </tr>
                 <tr>
-                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/HOLIDAY.jpg" alt="agencia hotelera"></td>
-                    <td>HOTEL GRAN ISLA NAVIDAD</td>
-                    <td>Circuito De Los Marinos S/N, Fraccionamiento Isla Navidad, Manzanillo Col.
-                    </td>
-                    <td>reservaciones@islaresort.com.mx
-                        www.islanavidad.com.mx
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/HOTEL.jpg" alt="agencia hotelera"></td>
+                    <td>HOTEL GRAN ISLA NAVIDAD <br>
+                    Circuito De Los Marinos S/N, Fraccionamiento Isla Navidad, Manzanillo Col. <br>
+                    
+                    reservaciones@islaresort.com.mx <br>
+                        www.islanavidad.com.mx <br>
 
-                    </td>
-                    <td>314 331 0500
+                    
+                    314 331 0500 <br>
                         01 800 849 2373
                     </td>
                 </tr>
 
                 <tr>
-                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/HOTEL.jpg" alt="agencia hotelera"></td>
-                    <td>LA PERGOLA</td>
-                    <td>Blvd. Miguel De La Madrid No.1309, Salagua, Manzanillo, Col.
-                    </td>
-                    <td>reservaciones@lapergola.com.m
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/LA.png" alt="agencia hotelera"></td>
+                    <td>LA PERGOLA <br>
+                    Blvd. Miguel De La Madrid No.1309, Salagua, Manzanillo, Col. <br>
+                    
+                    reservaciones@lapergola.com.mx <br>
 
-                    </td>
-                    <td>314 333 2265
+                    
+                    314 333 2265
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/RESTAURANT.JPG" alt="agencia hotelera"></td>
-                    <td>RESTAURANT BIGOTES 1</td>
-                    <td>Blvd. Miguel de la Madrid No. 3157, Playa Azul, Manzanillo, Col.C.P. 28218 </td>
-                    <td>elbigotei@hotmail.com
+                    <td>RESTAURANT BIGOTES 1 <br>
+                    Blvd. Miguel de la Madrid No. 3157, Playa Azul, Manzanillo, Col.C.P. 28218  <br>
+                    elbigotei@hotmail.com <br>
 
-                    </td>
-                    <td>314 334 0831
+                    
+                    314 334 0831
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/CORPORATIVO.JPG" alt="agencia hotelera"></td>
-                    <td>CORPORATIVO MARBELLA</td>
-                    <td>Blvd. Miguel De La Madrid No.1077, Esquina Calle Marbella No.7, Playa Azul, Manzanillo, Col.
-                    </td>
-                    <td>reservaciones@hotelmarbella.com.mx
-                        www.hotelmarbella.com.mx
+                    <td>CORPORATIVO MARBELLA <br>
+                    Blvd. Miguel De La Madrid No.1077, Esquina Calle Marbella No.7, Playa Azul, Manzanillo, Col. <br>
+                    
+                    reservaciones@hotelmarbella.com.mx <br>
+                        www.hotelmarbella.com.mx <br>
 
 
-                    </td>
-                    <td>314 333 1102
+                    
+                    314 333 1102
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Hoteleria/TLALOC.JPG" alt="agencia hotelera"></td>
-                    <td>TLALOC TOURS S.A DE C.V.</td>
-                    <td>Blvd. Miguel De La Madrid Km 14, Santiago, Manzanillo, Col. </td>
-                    <td>elbigotei@hotmail.com
+                    <td>TLALOC TOURS S.A DE C.V. <br>
+                   Blvd. Miguel De La Madrid Km 14, Santiago, Manzanillo, Col. <br>
+                   elbigotei@hotmail.com <br>
 
-                    </td>
-                    <td>tlaloczlo@gmail.com
+                    
+                   tlaloczlo@gmail.com
                     </td>
                 </tr>
             </tbody>
@@ -1134,56 +1020,56 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE EMPRESA</th>
+                   
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Inmobiliaria/AM.PNG" alt="agencia inmobiliaria"></td>
-                    <td>AM ESPACIOS</td>
-                    <td>Plaza Miramar. Blvd. Miguel de la Madrid No.14550 Int. 10 Col. Colinas de Santiago C.P.28860 Manzanillo, Colima
-                    </td>
-                    <td>info@amespacios.mx
-                    </td>
-                    <td>314 115 0456 314 353 4557
+                    <td>AM ESPACIOS <br>
+                    Plaza Miramar. Blvd. Miguel de la Madrid No.14550 Int. 10 Col. Colinas de Santiago C.P.28860 Manzanillo, Colima <br>
+                    
+                    info@amespacios.mx <br>
+                    
+                    314 115 0456  <br>
+                    314 353 4557
 
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Inmobiliaria/CENTURY.JPG" alt="agencia inmobiliaria"></td>
-                    <td>CENTURY 21 GOLDEN PROPERTIES</td>
-                    <td>Blvd. Miguel De La Madrid No.1337 Int. A8, Salagua, Manzanillo Col.
-                    </td>
-                    <td>direccion@c21goldenproperties.com
-                    </td>
-                    <td>314 333 0277 314 358 0389
+                    <td>CENTURY 21 GOLDEN PROPERTIES
+                    Blvd. Miguel De La Madrid No.1337 Int. A8, Salagua, Manzanillo Col. <br>
+                    
+                    direccion@c21goldenproperties.com <br>
+                    
+                    314 333 0277  <br>
+                    314 358 0389
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Inmobiliaria/REMAX.JPG" alt="agencia inmobiliaria"></td>
-                    <td>REMAX PERLA PACIFICO</td>
-                    <td>Blvd. Miguel De La Madrid No.14485, Santiago, Manzanillo, Col.
-                    </td>
-                    <td>remaxmanzanillo@gmail.com
-                    </td>
-                    <td>314 334 0424
+                    <td>REMAX PERLA PACIFICO <br>
+                    Blvd. Miguel De La Madrid No.14485, Santiago, Manzanillo, Col. <br>
+                    
+                    remaxmanzanillo@gmail.com <br>
+                    
+                    314 334 0424
 
                     </td>
                 </tr>
-                <tr>
-                    <td><img class="directoryImg" data-src="" alt="agencia inmobiliaria"></td>
-                    <td>LLACA CORP</td>
-                    <td>Juan Escutia 179
+                <!-- <tr>
+                    <td><img class="directoryImg" data-src="assets/img/Directorio/Inmobiliaria/REMAX.JPG" alt="agencia inmobiliaria"></td>
+                    <td>LLACA CORP <br>
+                    Juan Escutia 179 <br>
+                    
+                    llaca.luis@gmail.com <br>
+                    
+                    312 210 2552
                     </td>
-                    <td>llaca.luis@gmail.com
-                    </td>
-                    <td>312 210 2552
-                    </td>
-                </tr>
+                </tr> -->
             </tbody>
         </table>
     </div>
@@ -1193,217 +1079,217 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE EMPRESA</th>
+                   
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/ALTA.JPG" alt="agencia logistica"></td>
-                    <td>ALTA STOCKMAN</td>
-                    <td>Av. Lázaro Cárdenas #1248 Int. 2da planta, colonia Morelos en las Brisas. C.P. 28217 Manzanillo, Colima.
-                    </td>
-                    <td>www.altastockman.com
-                    </td>
-                    <td>314 331 1140
+                    <td>ALTA STOCKMAN <br>
+                    Av. Lázaro Cárdenas #1248 Int. 2da planta, colonia Morelos en las Brisas. C.P. 28217 Manzanillo, Colima. <br>
+                    
+                    www.altastockman.com <br>
+                    
+                    314 331 1140
 
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/CIMA.JPG" alt="agencia logistica"></td>
-                    <td>CIMA GROUP</td>
-                    <td>Carretera Manzanillo-Minatitlán Km 4.5, Manzanillo, Col.
-                    </td>
-                    <td>cesar.romero@cimagroup.com.mx
-                    </td>
-                    <td>314 336 7244
+                    <td>CIMA GROUP <br>
+                    Carretera Manzanillo-Minatitlán Km 4.5, Manzanillo, Col. <br>
+                    
+                    cesar.romero@cimagroup.com.mx <br>
+                    
+                    314 336 7244
 
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/EXCELENCIA.PNG" alt="agencia logistica"></td>
-                    <td>EXCELENCIA EN LOGISTICA ADUANAL S.C.</td>
-                    <td>Carretera Manzanillo- Minatitlán No.1003, Tapeixtles, Manzanillo, Col.
-                    </td>
-                    <td>comercializacion@ela.com.mx
-                    </td>
-                    <td>314 331 2430
+                    <td>EXCELENCIA EN LOGISTICA ADUANAL S.C. <br>
+                    Carretera Manzanillo- Minatitlán No.1003, Tapeixtles, Manzanillo, Col. <br>
+                    
+                    comercializacion@ela.com.mx <br>
+                    
+                    314 331 2430
 
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/GRUPO.JPG" alt="agencia logistica"></td>
-                    <td>GRUPO EMPRESARIAL CUADRANTE I</td>
-                    <td>Pájaro de Fuego 5, Salagua, Manzanillo, Colima C.P. 28869
-                    </td>
-                    <td>arturo@alianza.com.mx
-                        grace@cuadrantei.com.mx
+                    <td>GRUPO EMPRESARIAL CUADRANTE I <br>
+                   Pájaro de Fuego 5, Salagua, Manzanillo, Colima C.P. 28869 <br>
+                    
+                   arturo@alianza.com.mx <br>
+                        grace@cuadrantei.com.mx <br>
 
-                    </td>
-                    <td>314 113 4053
+                    
+                   314 113 4053
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/GRUPO GALVAN.PNG" alt="agencia logistica"></td>
-                    <td>GRUPO GALVAN</td>
-                    <td>Av. Dos Oriente No.13, Parque Industrial Fondeport, Manzanillo, Col.
-                    </td>
-                    <td>www.galvan.com
-                    </td>
-                    <td>314 332 2565
+                    <td>GRUPO GALVAN <br>
+                    Av. Dos Oriente No.13, Parque Industrial Fondeport, Manzanillo, Col. <br>
+                    
+                    www.galvan.com <br>
+                    
+                    314 332 2565
 
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/IMPALA.PNG" alt="agencia logistica"></td>
-                    <td>IMPALA TERMINALS MÉXICO</td>
-                    <td>Carretera Manzanillo- Minatitlán Km 1.5, Tapeixtles, Manzanillo, Colima C.P. 28239
-                    </td>
-                    <td>www.impalaterminals.com
-                    </td>
-                    <td>314 331 5500
+                    <td>IMPALA TERMINALS MÉXICO <br>
+                    Carretera Manzanillo- Minatitlán Km 1.5, Tapeixtles, Manzanillo, Colima C.P. 28239 <br>
+                    
+                    www.impalaterminals.com <br>
+                    
+                    314 331 5500
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/LOGÍSTICA.JPG" alt="agencia logistica"></td>
-                    <td>LOGISTICA Y MANIOBRAS MELPAG, S.A DE C.V.</td>
-                    <td>Km 1 Carretera Manzanillo Minatitlan No.50, Tapeixtles, Manzanillo, Col.
-                    </td>
-                    <td>
-                    </td>
-                    <td>314 331 0404
+                    <td>LOGISTICA Y MANIOBRAS MELPAG, S.A DE C.V. <br>
+                    Km 1 Carretera Manzanillo Minatitlan No.50, Tapeixtles, Manzanillo, Col. <br>
+                    
+                    
+                    
+                    314 331 0404
 
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/LOGISTICA.JPG" alt="agencia logistica"></td>
-                    <td>LOGÍSTICA WOODWARD</td>
-                    <td>Av. Lázaro Cárdenas No.1248 Col. Morelos C.P.28217
+                    <td>LOGÍSTICA WOODWARD <br>
+                    Av. Lázaro Cárdenas No.1248 Col. Morelos C.P.28217 <br>
 
-                    </td>
-                    <td>recursos.humanos@woodward.mx guillermo@woodward.mx
-                    </td>
-                    <td>33 793 888
+                    
+                    recursos.humanos@woodward.mx <br>
+                     guillermo@woodward.mx <br>
+                    
+                    33 793 888
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/MANIOBRAS.PNG" alt="agencia logistica"></td>
-                    <td>MANIOBRAS ESTRATEGICAS DEL PACIFICO</td>
-                    <td>Acámbaro No.444, Tapeixtles, Manzanillo, Col.
-                    </td>
-                    <td>capitalhumano@mepacsa.com
-                    </td>
-                    <td>314 336 7289 314 336 6218
+                    <td>MANIOBRAS ESTRATEGICAS DEL PACIFICO <br>
+                    Acámbaro No.444, Tapeixtles, Manzanillo, Col. <br>
+                     
+                    capitalhumano@mepacsa.com <br>
+                    
+                    314 336 7289 <br>
+                    314 336 6218
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/MCT.JPG" alt="agencia logistica"></td>
-                    <td>MCT</td>
-                    <td>Carretera Manzanillo-Minatitlán Km 2, Tapeixtles, Manzanillo, Col.
+                    <td>MCT <br>
+                    Carretera Manzanillo-Minatitlán Km 2, Tapeixtles, Manzanillo, Col. <br>
 
-                    </td>
-                    <td>g_suarez@mctsacv.com
-                    </td>
-                    <td>314 336 5224
+                    
+                    g_suarez@mctsacv.com <br>
+                    
+                    314 336 5224
                     </td>
                 </tr>
 
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/OPERADORA.PNG" alt="agencia logistica"></td>
-                    <td>OPERADORA DE ENLACES LOGISTICOS S.A. DE C.V. </td>
-                    <td>Dolores Hidalgo No.25, Colonia 16 De Septiembre, Manzanillo, Col.
-                    </td>
-                    <td>comercial@mxhotel.com
-                    </td>
-                    <td>314 332 0146
+                    <td>OPERADORA DE ENLACES LOGISTICOS S.A. DE C.V.  <br>
+                    Dolores Hidalgo No.25, Colonia 16 De Septiembre, Manzanillo, Col. <br>
+                    
+                    comercial@mxhotel.com <br>
+                    
+                    314 332 0146
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/SOLUCIONES.PNG" alt="agencia logistica"></td>
-                    <td>SOLUCIONES Y PUNTO S.A DE C.V</td>
-                    <td>Av. La Audiencia No. 40 Int. 48B, Península De Santiago, Manzanillo, Col.
+                    <td>SOLUCIONES Y PUNTO S.A DE C.V <br>
+                    Av. La Audiencia No. 40 Int. 48B, Península De Santiago, Manzanillo, Col. <br>
 
-                    </td>
-                    <td>www.silca.com.mx
-                    </td>
-                    <td>314 333 6342
+                    
+                    www.silca.com.mx <br>
+                    
+                    314 333 6342
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/TES.JPG" alt="agencia logistica"></td>
-                    <td>TES OPERADOR LOGISTICO INTEGRAL</td>
-                    <td>Blvd. Miguel De La Madrid No. 618, Valle De Las Garzas, Manzanillo, Col.
-                    </td>
-                    <td>pompeyo.tovar@teds.com.mx
-                    </td>
-                    <td>314 336 7173 333 808 5451
+                    <td>TES OPERADOR LOGISTICO INTEGRAL <br>
+                    Blvd. Miguel De La Madrid No. 618, Valle De Las Garzas, Manzanillo, Col. <br>
+                    
+                    pompeyo.tovar@teds.com.mx <br>
+                    
+                    314 336 7173 <br> 333 808 5451
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/WORLD.JPG" alt="agencia logistica"></td>
-                    <td>WORLD SERVICE LOGISTIC SC.</td>
-                    <td>Blvd. Miguel De La Madrid No.1303, Brisas Del Mar, Manzanillo, Col.
+                    <td>WORLD SERVICE LOGISTIC SC. <br>
+                    Blvd. Miguel De La Madrid No.1303, Brisas Del Mar, Manzanillo, Col. <br>
 
-                    </td>
-                    <td>www.aduanas.com.mx
-                    </td>
-                    <td>314 332 6698 314 332 6699
+                    
+                    www.aduanas.com.mx <br>
+                    
+                    314 332 6698 <br> 314 332 6699
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/VAFA.JPG" alt="agencia logistica"></td>
-                    <td>VAFA LOGÍSTICA Y TRANSPORTACIÓN</td>
-                    <td>Blvd. Miguel de la Madrid, No.618, Int.5, Valle de las Garzas, Manzanillo, Col.
-                    </td>
-                    <td>www.vafalogistica.com
-                    </td>
-                    <td>314 333 4780
+                    <td>VAFA LOGÍSTICA Y TRANSPORTACIÓN <br>
+                   Blvd. Miguel de la Madrid, No.618, Int.5, Valle de las Garzas, Manzanillo, Col. <br>
+                    
+                   www.vafalogistica.com <br>
+                    
+                   314 333 4780
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/KOSTEN.JPG" alt="agencia logistica"></td>
-                    <td>KOSTEN LOGISTICS</td>
-                    <td>Av.Palma S/N Fracc. La Higuera, Manzanillo, Col.
+                    <td>KOSTEN LOGISTICS <br>
+                    Av.Palma S/N Fracc. La Higuera, Manzanillo, Col. <br>
 
-                    </td>
-                    <td>www.kosten.com.mx
-                    </td>
-                    <td>833 246 0669
+                    
+                    www.kosten.com.mx <br>
+                    
+                    833 246 0669
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/LOGÍSTICAa.PNG" alt="agencia logistica"></td>
-                    <td>LOGÍSTICA TRAE</td>
-                    <td>Av. Parotas, No. 119, Barrio 1, Valle de las Garzas, Manzanillo, Col
-                    </td>
-                    <td>calidad@logisticatrae.com
-                        comercializacion@logisticatrae.com
+                    <td>LOGÍSTICA TRAE <br>
+                    Av. Parotas, No. 119, Barrio 1, Valle de las Garzas, Manzanillo, Col <br>
+                    
+                    calidad@logisticatrae.com <br>
+                        comercializacion@logisticatrae.com <br>
 
-                    </td>
-                    <td>314 688 2866
+                    
+                    314 688 2866
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Logistica/INTERCARGO.JPG" alt="agencia logistica"></td>
-                    <td>INTERCARGO SOLUTIONS MEXICO SA DE CV</td>
-                    <td>Blvd. Miguel de la Madrid No. 1017 Int. 4, Playa Azul, Manzanillo, Co
+                    <td>INTERCARGO SOLUTIONS MEXICO SA DE CV <br>
+                    Blvd. Miguel de la Madrid No. 1017 Int. 4, Playa Azul, Manzanillo, Co <br>
 
-                    </td>
-                    <td>oaguilar@intercargo.com.mx
-                        https://intercargo.com.mx
+                    
+                    oaguilar@intercargo.com.mx <br>
+                        https://intercargo.com.mx <br>
 
-                    </td>
-                    <td>314 333 7682
+                    
+                    314 333 7682 <br>
                         314 333 7729
                     </td>
                 </tr>
@@ -1416,22 +1302,20 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE EMPRESA</th>
+                   
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Medios/Manzanillo.jpg" alt="agencia medios de comuniacion"></td>
-                    <td>MANZANILLO. TV</td>
-                    <td>Prolongación 28 De Agosto No.57ª, Col. Deportiva, Manzanillo, Col.
-                    </td>
-                    <td>carmenmaldonadoeudave@gmail.com
+                    <td>MANZANILLO. TV <br>
+                   Prolongación 28 De Agosto No.57ª, Col. Deportiva, Manzanillo, Col. <br>
+                    
+                   carmenmaldonadoeudave@gmail.com <br>
 
-                    </td>
-                    <td>314 335 3926
+                    
+                   314 335 3926
 
                     </td>
                 </tr>
@@ -1444,21 +1328,19 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE EMPRESAS</th>
+                    
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Minero/Peña.jpg" alt="agencia minera"></td>
-                    <td>PEÑA COLORADA</td>
-                    <td>Av. Del Trabajo No.1000, Tapeixtles, Manzanillo Col
-                    </td>
-                    <td>raraya@pcolorada.com www.pcolorada.com
-                    </td>
-                    <td>314 331 0619 314 331 0660
+                    <td>PEÑA COLORADA <br>
+                    Av. Del Trabajo No.1000, Tapeixtles, Manzanillo Col <br>
+                    
+                    raraya@pcolorada.com <br> www.pcolorada.com <br>
+                    
+                    314 331 0619 <br> 314 331 0660
 
                     </td>
                 </tr>
@@ -1471,22 +1353,20 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE EMPRESAS</th>
+                    
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Naviero/ACAPULCO.JPG" alt="agencia naviera"></td>
-                    <td>ACAPULCO SHIPPING AGENCIES S.A. DE C.V.</td>
-                    <td>Calle 5 De Diciembre No. 1 Ext. B, Manzanillo, Col.
-
-                    </td>
-                    <td>acapulcoagencies@acapulcoagencies.com
-                    </td>
-                    <td>314 332 1847 314 332 3693
+                    <td>ACAPULCO SHIPPING AGENCIES S.A. DE C.V. <br>
+                    Calle 5 De Diciembre No. 1 Ext. B, Manzanillo, Col. <br>
+ 
+                    
+                    acapulcoagencies@acapulcoagencies.com <br>
+                    
+                    314 332 1847 <br> 314 332 3693
                     </td>
                 </tr>
             </tbody>
@@ -1498,22 +1378,20 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE EMPRESA</th>
+                   
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Pesca/GRUPO.PNG" alt="agencia pesquera"></td>
-                    <td>GRUPO MAR</td>
-                    <td>Don Antonio Suarez Gutiérrez No.5, Parque Industrial Fondeport, Manzanillo, Col
+                    <td>GRUPO MAR <br>
+                    Don Antonio Suarez Gutiérrez No.5, Parque Industrial Fondeport, Manzanillo, Col <br>
 
-                    </td>
-                    <td>www.grupomar.com
-                    </td>
-                    <td>314 331 1420
+                    
+                    www.grupomar.com <br>
+                     
+                    314 331 1420
                     </td>
                 </tr>
             </tbody>
@@ -1525,31 +1403,29 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE EMPRESA</th>
+                   
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Publicidad/BRIO.PNG" alt="agencia publicista"></td>
-                    <td>PUBLICENTER</td>
-                    <td>Av. Morelos, No.219, Centro, Manzanillo, Col.
-                    </td>
-                    <td>publicenter01@hotmail.com
-                    </td>
-                    <td>314 333 7990
+                    <td>PUBLICENTER <br>
+                    Av. Morelos, No.219, Centro, Manzanillo, Col. <br>
+                    
+                    publicenter01@hotmail.com <br>
+                    
+                    314 333 7990
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Publicidad/PUBLICENTER.JPG" alt="agencia publicista"></td>
-                    <td>BRIO CREATIVO</td>
-                    <td>Crucero de las Hadas. Blvd. Miguel de la Madrid 11368
-                    </td>
-                    <td>briocreativo.com
-                    </td>
-                    <td>314 120 3300
+                    <td>BRIO CREATIVO <br>
+                   Crucero de las Hadas. Blvd. Miguel de la Madrid 11368 <br>
+                     
+                   briocreativo.com <br>
+                    
+                   314 120 3300
                     </td>
                 </tr>
             </tbody>
@@ -1561,68 +1437,66 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE EMPRESA</th>
+                    
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Salud/HOSPITAL.JPG" alt="agencia de salud"></td>
-                    <td>HOSPITAL ECHAURI</td>
-                    <td>Blvd. Miguel De La Madrid No.1215, Salagua, Manzanillo, Col.
-                    </td>
-                    <td>administración@hospitalechauri.com
-                    </td>
-                    <td>314 334 1666 314 334 0444
+                    <td>HOSPITAL ECHAURI <br>
+                   Blvd. Miguel De La Madrid No.1215, Salagua, Manzanillo, Col. <br>
+                    
+                   administración@hospitalechauri.com <br>
+                    
+                   314 334 1666 <br> 314 334 0444
 
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Salud/LABORATORIO.JPG" alt="agencia de salud"></td>
-                    <td>LABORATORIO CLINICO DEL PUERTO SC</td>
-                    <td>Blvd. Miguel De La Madrid No.1215, Salagua, Manzanillo, Col.
-                    </td>
-                    <td>laboratorio.clinicodelpuerto@gmail.com
-                    </td>
-                    <td>314 333 0861
+                    <td>LABORATORIO CLINICO DEL PUERTO SC <br>
+                    Blvd. Miguel De La Madrid No.1215, Salagua, Manzanillo, Col. <br>
+                    
+                    laboratorio.clinicodelpuerto@gmail.com <br>
+                    
+                    314 333 0861
                     </td>
                 </tr>
 
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Salud/GRUPO.PNG" alt="agencia de salud"></td>
-                    <td>GRUPO OFTAMOLOGICO SAN ANTONIO</td>
-                    <td>Av. Elías Zamora Verduzco No.2114-A Loc. 9, Manzanillo, Col.
-                    </td>
-                    <td>dr_ulaje@hotmail.com
-                        optica_san_antonio@hotmail.com
+                    <td>GRUPO OFTAMOLOGICO SAN ANTONIO <br>
+                   Av. Elías Zamora Verduzco No.2114-A Loc. 9, Manzanillo, Col. <br>
+                     
+                   dr_ulaje@hotmail.com <br>
+                        optica_san_antonio@hotmail.com <br>
 
-                    </td>
-                    <td>314 138 1393
+                    
+                   314 138 1393
 
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Salud/PRO.PNG" alt="agencia de salud"></td>
-                    <td>PRO INSUMOS DE SALUD COLIMA</td>
-                    <td>Calle Coral, No. 9B, Salagua, Manzanillo, Col.
-                    </td>
-                    <td>ernestinamg@gmail.com
-                    </td>
-                    <td>314 120 2214
+                    <td>PRO INSUMOS DE SALUD COLIMA <br>
+                    Calle Coral, No. 9B, Salagua, Manzanillo, Col. <br>
+                    
+                    ernestinamg@gmail.com <br>
+                    
+                    314 120 2214
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Salud/CLINICA.JPG" alt="agencia de salud"></td>
-                    <td>CLINICA DENTAL LOP CAL</td>
-                    <td>Emiliano Zapata No. 43, esq. Josefa Ortiz de Dguez Centro, Manzanillo, Col.
-                    </td>
-                    <td>rubenlopezruan@gmail.com https://www.facebook.com/clinicadentallopcal/
+                    <td>CLINICA DENTAL LOP CAL <br>
+                  Emiliano Zapata No. 43, esq. Josefa Ortiz de Dguez Centro, Manzanillo, Col. <br>
+                    
+                  rubenlopezruan@gmail.com <br> https://www.facebook.com/clinicadentallopcal/ <br>
 
-                    </td>
-                    <td>314 109 4547 314 121 8131
+                    
+                  314 109 4547 <br> 314 121 8131
 
                     </td>
                 </tr>
@@ -1635,31 +1509,29 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS EMPRESA</th>
+                   
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Sanitizacion/SOLUCIONES INTEGRADAS.JPG" alt="agencia de sanitizacion"></td>
-                    <td>SOLUCIONES DE SANITIZACIÓN Y LIMPIEZA</td>
-                    <td>Av. Las Palmas, No. 113, Valle Paraíso, Manzanillo, Col.
-                    </td>
-                    <td>soluciones.sanitizacion@gmail.com
-                    </td>
-                    <td>314 120 0835
+                    <td>SOLUCIONES DE SANITIZACIÓN Y LIMPIEZA <br>
+                   Av. Las Palmas, No. 113, Valle Paraíso, Manzanillo, Col. <br>
+                    
+                   soluciones.sanitizacion@gmail.com <br>
+                    
+                   314 120 0835
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Sanitizacion/SOLUCIONES.JPG" alt="agencia de sanitizacion"></td>
-                    <td>SOLUCIONES INTEGRADAS DEL PACIFICO S.A. DE C.V. </td>
-                    <td>Independencia No. 22, Centro Santiago, Manzanillo, Col.
-                    </td>
-                    <td>georgina@sipacifico.com pipiola99@hotmail.com
-                    </td>
-                    <td>314 333 3235 312 119 2692
+                    <td>SOLUCIONES INTEGRADAS DEL PACIFICO S.A. DE C.V.  <br>
+                    Independencia No. 22, Centro Santiago, Manzanillo, Col. <br>
+                    
+                    georgina@sipacifico.com <br> pipiola99@hotmail.com
+                    
+                    314 333 3235 <br> 312 119 2692
                     </td>
                 </tr>
 
@@ -1672,52 +1544,50 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS EMPRESA</th>
+                   
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Seguridad/ASESORIA.PNG" alt="agencia de seguridad"></td>
-                    <td>ASESORIA EN LOGISTICA Y SEGURIDAD DUL</td>
-                    <td>Av. Elías Zamora Verduzco, No. 445, L13, Barrio 4, Valle de las Garzas, Manzanillo, Col.
-                    </td>
-                    <td>administracion@logisticadul.com
-                    </td>
-                    <td>314 114 1020
+                    <td>ASESORIA EN LOGISTICA Y SEGURIDAD DUL <br>
+                    Av. Elías Zamora Verduzco, No. 445, L13, Barrio 4, Valle de las Garzas, Manzanillo, Col. <br>
+                    
+                    administracion@logisticadul.com <br>
+                     
+                    314 114 1020
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Seguridad/GRUPO.JPG" alt="agencia de seguridad"></td>
-                    <td>GRUPO CENTAUROS SEGURIDAD PRIVADA</td>
-                    <td>Lázaro Cárdenas, No. 24, Colonia Tapeixtles, Manzanillo, Col.
-                    </td>
-                    <td>claudiab@grupocentauros.com
-                    </td>
-                    <td>314 336 4646 314 336 4647
+                    <td>GRUPO CENTAUROS SEGURIDAD PRIVADA <br>
+                    Lázaro Cárdenas, No. 24, Colonia Tapeixtles, Manzanillo, Col. <br>
+                    
+                    claudiab@grupocentauros.com <br>
+                    
+                    314 336 4646 <br> 314 336 4647
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Seguridad/PREVENCION.PNG" alt="agencia de seguridad"></td>
-                    <td>PREVENCIÓN DE RIESGOS MANZANILLO</td>
-                    <td>Lagos del bosque No.17, Tapeixtles, Manzanillo, Col.
-                    </td>
-                    <td>luis.velez@prmzo.com
-                    </td>
-                    <td>314 146 1499
+                    <td>PREVENCIÓN DE RIESGOS MANZANILLO <br>
+                    Lagos del bosque No.17, Tapeixtles, Manzanillo, Col. <br>
+                    
+                    luis.velez@prmzo.com <br>
+                    
+                    314 146 1499
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Seguridad/PROTECTOR.JPG" alt="agencia de seguridad"></td>
-                    <td>PROTECTOR A CONTENEDORES S.A. DE C.V. </td>
-                    <td>Calle Privada Encino No.185, Salagua, Manzanillo, Col.
-                    </td>
-                    <td>administracion@protectormexico.com.mx
-                    </td>
-                    <td>314 336 8262
+                    <td>PROTECTOR A CONTENEDORES S.A. DE C.V.  <br>
+                    Calle Privada Encino No.185, Salagua, Manzanillo, Col. <br>
+                     
+                    administracion@protectormexico.com.mx <br>
+                    
+                    314 336 8262
                     </td>
                 </tr>
 
@@ -1730,42 +1600,40 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE EMPRESA</th>
+                   
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Seguros/ESQUIVEL.JPG" alt="agencia de seguros"></td>
-                    <td>ESQUIVEL ASESORES EN SEGUROS </td>
-                    <td>Obras Marítimas No.104, Los Pinos, Manzanillo, Col.
-                    </td>
-                    <td>administracion@segurosesquivel.com.mx
-                    </td>
-                    <td>314 114 0346 314 336 5660
+                    <td>ESQUIVEL ASESORES EN SEGUROS  <br>
+                    Obras Marítimas No.104, Los Pinos, Manzanillo, Col. <br>
+                    
+                    administracion@segurosesquivel.com.mx <br>
+                    
+                    314 114 0346 314 336 5660
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Seguros/DANI.JPG" alt="agencia de seguros"></td>
-                    <td>GRUPO NUÑO ASESORES EN RIESGOS S.A DE C.V.</td>
-                    <td>Respeto #23 Col. San Miguel, Manzanillo, Col
-                    </td>
-                    <td>gruponunomzn@gruponuno.com
-                    </td>
-                    <td>314 149 4481 800 024 9988
+                    <td>GRUPO NUÑO ASESORES EN RIESGOS S.A DE C.V. <br>
+                    Respeto #23 Col. San Miguel, Manzanillo, Col
+                    
+                    gruponunomzn@gruponuno.com <br>
+                    
+                    314 149 4481 <br> 800 024 9988
 
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Seguros/GRUPO.JPG" alt="agencia de seguros"></td>
-                    <td>DANI TENA- LA DE LOS SEGUROS</td>
-                    <td>Sidney 95 Real Santa Fe, Villa de Álvarez
-                    </td>
-                    <td>danymetlife2020@gmail.com
-                    </td>
-                    <td>314 1173 577
+                    <td>DANI TENA- LA DE LOS SEGUROS <br>
+                    Sidney 95 Real Santa Fe, Villa de Álvarez <br>
+                    
+                    danymetlife2020@gmail.com <br>
+                    
+                    314 1173 577
                     </td>
                 </tr>
             </tbody>
@@ -1777,21 +1645,19 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE EMPRESA</th>
+                    
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Geolocalizacion/ATLANTIDA.PNG " alt="agencia de geolocalización"></td>
-                    <td>ATLANTIDA</td>
-                    <td>Av. Del Trabajo S/N, int. 4, Tapeixtles, Manzanillo, Col.
-                    </td>
-                    <td>cmora@atlantida.mx www.atlantida.mx
-                    </td>
-                    <td>314 335 3786
+                    <td>ATLANTIDA <br>
+                    Av. Del Trabajo S/N, int. 4, Tapeixtles, Manzanillo, Col. <br>
+                    
+                    cmora@atlantida.mx <br> www.atlantida.mx <br>
+                    
+                    314 335 3786
                     </td>
                 </tr>
             </tbody>
@@ -1803,106 +1669,104 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE EMPRESA</th>
+                   
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/ALMACENAMIENTO.PNG" alt="agencia de servicios generales"></td>
-                    <td>ALMACENAMIENTO Y SERVICIOS A CONTENEDORES S.A. DE C.V.</td>
-                    <td>Acámbaro N.66, Tapeixtles, Manzanillo, Col.
-                    </td>
-                    <td>juan.martinez@alsecont.mx
-                    </td>
-                    <td>314 138 1949
+                    <td>ALMACENAMIENTO Y SERVICIOS A CONTENEDORES S.A. DE C.V. <br>
+Acámbaro N.66, Tapeixtles, Manzanillo, Col. <br>
+                    
+juan.martinez@alsecont.mx <br>
+                    
+314 138 1949
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/TECNO.PNG" alt="agencia de servicios generales"></td>
-                    <td>TECNO MARINE, DISEÑO Y MANUFACTURA</td>
-                    <td>Blvd. Miguel de la Madrid Hurtado, No. 400, Fondeport, Manzanillo, Col.
-                    </td>
-                    <td>ventastecnomarine@hotmail.com www.tecnomarine.com.mx
+                    <td>TECNO MARINE, DISEÑO Y MANUFACTURA <br>
+                   Blvd. Miguel de la Madrid Hurtado, No. 400, Fondeport, Manzanillo, Col. <br>
+                    
+                   ventastecnomarine@hotmail.com <br> www.tecnomarine.com.mx
 
-                    </td>
-                    <td>314 334 7121
+                    
+                   314 334 7121
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/AFFIMEX.JPG" alt="agencia de servicios generales"></td>
-                    <td>AFFIMEX CORED WIRES S. DE R.L. DE C.V.</td>
-                    <td>Carretera Manzanillo- Minatitlán S/N, KM 3.5, Jalipa Manzanillo, Col.
-                    </td>
-                    <td>rgarcia@affimex.com.mx
+                    <td>AFFIMEX CORED WIRES S. DE R.L. DE C.V. <br>
+                    Carretera Manzanillo- Minatitlán S/N, KM 3.5, Jalipa Manzanillo, Col. <br>
+                    
+                    rgarcia@affimex.com.mx <br>
 
-                    </td>
-                    <td>314 334 1708
+                    
+                    314 334 1708
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/HAPPY.JPG" alt="agencia de servicios generales"></td>
-                    <td>HAPPY MOMS & KIDS LUDOTECA</td>
-                    <td>Blvd. Miguel de la Madrid Hurtado, No. 1046, Plaza Las Palmas, Local F, Salagua, Manzanillo, Col.
-                    </td>
-                    <td>Facebook: Happy Moms & Kids
-                    </td>
-                    <td>314 103 5255 314 334 6976
+                    <td>HAPPY MOMS & KIDS LUDOTECA <br>
+                    Blvd. Miguel de la Madrid Hurtado, No. 1046, Plaza Las Palmas, Local F, Salagua, Manzanillo, Col. <br>
+                    
+                    Facebook: Happy Moms & Kids <br>
+                    
+                    314 103 5255 <br> 314 334 6976
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/B.K.A.S.JPG" alt="agencia de servicios generales"></td>
-                    <td>B.K.A.S. SALON & SPA</td>
-                    <td>Av. Lázaro Cárdenas No. 1504, Las Brisas, Manzanillo, Col.
-                    </td>
-                    <td>Facebook: @bkasoficial Instagram: @bkasigoficial
-                    </td>
-                    <td>314 353 1922
+                    <td>B.K.A.S. SALON & SPA <br>
+                   Av. Lázaro Cárdenas No. 1504, Las Brisas, Manzanillo, Col. <br>
+                    
+                   Facebook: @bkasoficial <br> Instagram: @bkasigoficial <br>
+                    
+                   314 353 1922
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/EWALD.PNG" alt="agencia de servicios generales"></td>
-                    <td>EWALD & KOHL PACIFICO</td>
-                    <td>Calle Guanabano 34 Valle de las Garzas
-                    </td>
-                    <td>coachrafajuarez@gmail.com ekmexico.com
-                    </td>
-                    <td>314 1472 344
+                    <td>EWALD & KOHL PACIFICO <br>
+                    Calle Guanabano 34 Valle de las Garzas <br>
+                    
+                    coachrafajuarez@gmail.com <br> ekmexico.com <br>
+                    
+                    314 1472 344
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/INSPECTORES.JPG" alt="agencia de servicios generales"></td>
-                    <td>INSPECTORES MARITIMOS DE MEXICO S DE R.L. DE C.V.</td>
-                    <td>Av. Teniente Azueta No 4 Col. Burócrata
-                    </td>
-                    <td>edgar@capquint.com
-                    </td>
-                    <td>314 124 906
+                    <td>INSPECTORES MARITIMOS DE MEXICO S DE R.L. DE C.V. <br>
+                    Av. Teniente Azueta No 4 Col. Burócrata <br>
+                    
+                    edgar@capquint.com <br>
+                    
+                    314 124 906
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/LDC.PNG" alt="agencia de servicios generales"></td>
-                    <td>LDC INDUSTRIAL S. DE R.L. DE C.V.</td>
-                    <td>Calle Andador Palma D, Numero Ext M64 L1, Colonia Valle de las Garzas C.P. 28219 Manzanillo, Colima
-                    </td>
-                    <td>logística.comercial@ldcindustrial.com.mx www.ldcindustrial.com.mx
-                    </td>
-                    <td>314 114 1650
+                    <td>LDC INDUSTRIAL S. DE R.L. DE C.V. <br>
+                    Calle Andador Palma D, Numero Ext M64 L1, Colonia Valle de las Garzas C.P. 28219 Manzanillo, Colima <br>
+                    
+                    logística.comercial@ldcindustrial.com.mx <br> www.ldcindustrial.com.mx <br>
+                     
+                    314 114 1650
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Generales/LOCAL.PNG" alt="agencia de servicios generales"></td>
-                    <td>LOCAL WORKSPACE SOLUTIONS.</td>
-                    <td>Blvd. Miguel de la Madrid 1251, Local 1B, Las Palmas, Manzanillo
-                    </td>
-                    <td>info@localwss.com
-                    </td>
-                    <td>314 109 7387
+                    <td>LOCAL WORKSPACE SOLUTIONS. <br>
+                   Blvd. Miguel de la Madrid 1251, Local 1B, Las Palmas, Manzanillo <br>
+                    
+                   info@localwss.com <br>
+                    
+                   314 109 7387 <br>
                     </td>
                 </tr>
             </tbody>
@@ -1914,21 +1778,19 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE EMPRESA</th>
+                 
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Funerales/CIELO.JPG" alt="agencia funeraria"></td>
-                    <td>CIELO ETERNO</td>
-                    <td>Blvd. Miguel de la Madrid No.1845, Fracc. Playa Azul, Manzanillo, Col.
-                    </td>
-                    <td>cieloeterno@live.com
-                    </td>
-                    <td>312 155 1881 312 107 3782
+                    <td>CIELO ETERNO <br>
+                   Blvd. Miguel de la Madrid No.1845, Fracc. Playa Azul, Manzanillo, Col. <br>
+                    
+                   cieloeterno@live.com <br>
+                    
+                   312 155 1881 <br> 312 107 3782
                     </td>
                 </tr>
             </tbody>
@@ -1940,84 +1802,82 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE EMPRESA</th>
+                    
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Tecnologicos/CONSULTORIA.JPG" alt="agencia tecnologica"></td>
-                    <td>CONSULTORÍA EN INFORMÁTICA ALSA SA DE CV</td>
-                    <td>Av. Manuel J. Clouthier No.182 B, El Ángel, Villa de Álvarez, Col.
-                    </td>
-                    <td>www.alsainformatica.com.mx
-                    </td>
-                    <td>312 311 2325
-                        312 315 3220
+                    <td>CONSULTORÍA EN INFORMÁTICA ALSA SA DE CV <br>
+                    Av. Manuel J. Clouthier No.182 B, El Ángel, Villa de Álvarez, Col. <br>
+                     
+                    www.alsainformatica.com.mx <br>
+                    
+                    312 311 2325 <br>
+                        312 315 3220 <br>
                         312 311 2711
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Tecnologicos/CODESY.PNG" alt="agencia tecnologica"></td>
-                    <td>CODESY CONSULTORES</td>
-                    <td>Gaviotas No.14, Gaviotas, Manzanillo, Col.
-                    </td>
-                    <td>ventas@codesy.com
-                    </td>
-                    <td>314 334 2733
+                    <td>CODESY CONSULTORES <br>
+                    Gaviotas No.14, Gaviotas, Manzanillo, Col. <br>
+                    
+                    ventas@codesy.com <br>
+                    
+                    314 334 2733
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Tecnologicos/INTESYS.JPG" alt="agencia tecnologica"></td>
-                    <td>INTESYS S.A. DE C.V</td>
-                    <td>Torre Puerto Int. L14-2 Blvd. Miguel De La Madrid No.426, Tapeixtles, Manzanillo, Col.
-                    </td>
-                    <td>vgradilla@intesys.com.mx
-                    </td>
-                    <td>315 355 3085 315 355 3086
+                    <td>INTESYS S.A. DE C.V <br>
+                    Torre Puerto Int. L14-2 Blvd. Miguel De La Madrid No.426, Tapeixtles, Manzanillo, Col. <br>
+                    
+                    vgradilla@intesys.com.mx <br>
+                    
+                    315 355 3085 <br> 315 355 3086
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Tecnologicos/SISTEMAS.PNG" alt="agencia tecnologica"></td>
-                    <td>SISTEMAS INTEGRALES EN INTERNET & COMPUTO DE MEXICO S.C</td>
-                    <td>Andador Bugambilias S/N, Manzana 4 Lote 14, Valle De Las Garzas, Manzanillo Col.
-                    </td>
-                    <td>alex.peralta@serviciosintegrales.com.mx
-                    </td>
-                    <td>314145 2170
+                    <td>SISTEMAS INTEGRALES EN INTERNET & COMPUTO DE MEXICO S.C <br>
+                   Andador Bugambilias S/N, Manzana 4 Lote 14, Valle De Las Garzas, Manzanillo Col. <br>
+                    
+                   alex.peralta@serviciosintegrales.com.mx <br>
+                    
+                   314145 2170 <br>
                         314 138 4257
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Tecnologicos/ATLAS-RASTREO.PNG" alt="agencia tecnologica"></td>
-                    <td>ATLAS-RASTREO INTELIGENTE</td>
-                    <td>Av. Lázaro Cárdenas No.1526 Local 7, Morelos, Manzanillo, Col. C.P. 28217 Plaza Santa Fe
-                    </td>
-                    <td>administracion@atlasgps.mx
-                    </td>
-                    <td>314 334 3535
+                    <td>ATLAS-RASTREO INTELIGENTE <br>
+                   Av. Lázaro Cárdenas No.1526 Local 7, Morelos, Manzanillo, Col. C.P. 28217 Plaza Santa Fe <br>
+                    
+                   administracion@atlasgps.mx <br>
+                    
+                   314 334 3535
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Tecnologicos/GRUPO.JPG" alt="agencia tecnologica"></td>
-                    <td>GRUPO SITPE SOLUCIONES</td>
-                    <td>Sirio No.240 I.19, Salagua, Manzanillo, Col.
-                    </td>
-                    <td>juan.meza@sitpe.com.mx www.sitpe.com.mx
-                    </td>
-                    <td>314 138 3359
+                    <td>GRUPO SITPE SOLUCIONES <br>
+                    Sirio No.240 I.19, Salagua, Manzanillo, Col. <br>
+                    
+                    juan.meza@sitpe.com.mx www.sitpe.com.mx <br>
+                    
+                    314 138 3359
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Servicios Tecnologicos/TECNOLÓGICA.JPG" alt="agencia tecnologica"></td>
-                    <td>TECNOLÓGICA MEXICANA</td>
-                    <td>Calle Gavilán, No.134, Paraíso Salagua, Manzanillo, Col.
-                    <td>ventas@tecme.mx
-                    </td>
-                    <td>331 698 7660
+                    <td>TECNOLÓGICA MEXICANA <br>
+                   Calle Gavilán, No.134, Paraíso Salagua, Manzanillo, Col. <br>
+                   ventas@tecme.mx <br>
+                     
+                   331 698 7660
                     </td>
                 </tr>
             </tbody>
@@ -2030,89 +1890,87 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE EMPRESA</th>
+                 
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Terminal Portuaria/CONTECON.JPG" alt="agencia portuaria"></td>
-                    <td>CONTECON MANZANILLO S.A. DE C.V. </td>
-                    <td>Blvd. Miguel De La Madrid Hurtado No.1519 Int. L-A, Infonavit, Manzanillo, Col.
-                    </td>
-                    <td>cmsa.comercial@contecon.mx
-                    </td>
-                    <td>314 980 0553
+                    <td>CONTECON MANZANILLO S.A. DE C.V.  <br>
+                    Blvd. Miguel De La Madrid Hurtado No.1519 Int. L-A, Infonavit, Manzanillo, Col. <br>
+                     
+                    cmsa.comercial@contecon.mx <br>
+                    
+                    314 980 0553
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Terminal Portuaria/OCUPA.PNG" alt="agencia portuaria"></td>
-                    <td>OCUPA, S.A DE C.V.</td>
-                    <td>Av. Central L1 Me, Fondeport, Manzanillo, Col.
-                    </td>
-                    <td>direccion@grupoocupa.com
-                    </td>
-                    <td>314 331 2600
+                    <td>OCUPA, S.A DE C.V. <br>
+                   Av. Central L1 Me, Fondeport, Manzanillo, Col. <br>
+                    
+                   direccion@grupoocupa.com <br>
+                    
+                   314 331 2600
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Terminal Portuaria/SSA.JPG" alt="agencia portuaria"></td>
-                    <td>SSA MEXICO </td>
-                    <td>Blvd. Miguel De La Madrid No.855, Manzanillo, Col.
-                    </td>
-                    <td>ssamatencion.clientes@ssamexico.co
-                    </td>
-                    <td>314 331 1000
+                    <td>SSA MEXICO  <br>
+                    Blvd. Miguel De La Madrid No.855, Manzanillo, Col. <br>
+                    
+                    ssamatencion.clientes@ssamexico.co <br>
+                    
+                    314 331 1000
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Terminal Portuaria/TAP.PNG" alt="agencia portuaria"></td>
-                    <td>TAP LA JUNTA S.A. DE C.V</td>
-                    <td>V. Lázaro Cárdenas # 1248 Int 1Col. Morelos Manzanillo, Colima, C.P. 28217
-                    </td>
-                    <td>lguzman@tapterminal.com
-                    </td>
-                    <td>314 331 2570
+                    <td>TAP LA JUNTA S.A. DE C.V <br>
+                   V. Lázaro Cárdenas # 1248 Int 1Col. Morelos Manzanillo, Colima, C.P. 28217 <br>
+                    
+                   lguzman@tapterminal.com <br>
+                    
+                   314 331 2570
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Terminal Portuaria/TERMINAL.JPG" alt="agencia portuaria"></td>
-                    <td>TERMINAL INTERNACIONAL DE MANZANILLO S.A. DE C.V. </td>
-                    <td>Av. Teniente Azueta N.29 Edificio 2, Burócrata, Manzanillo, Col.
-                    </td>
-                    <td>www.hutchisonportstimsa.com mac@timsamx.com
-                    </td>
-                    <td>314 331 2700
+                    <td>TERMINAL INTERNACIONAL DE MANZANILLO S.A. DE C.V. <br>
+                    Av. Teniente Azueta N.29 Edificio 2, Burócrata, Manzanillo, Col. <br>
+                   
+                    www.hutchisonportstimsa.com <br> mac@timsamx.com
+                   
+                    314 331 2700 <br>
                         314 331 2705
 
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Terminal Portuaria/TERMINALES.PNG" alt="agencia portuaria"></td>
-                    <td>TERMINALES MEXICANAS DE CARGA Y ALMACENAJE, S.A. DE C.V.(TMC)</td>
-                    <td>Calle Ballena L 23 M 1 Colonia Océano C.P. 28219
-                    </td>
-                    <td>contacto@tmca.com.mx
-                    </td>
-                    <td>314 331 2470
+                    <td>TERMINALES MEXICANAS DE CARGA Y ALMACENAJE, S.A. DE C.V.(TMC) <br>
+                   Calle Ballena L 23 M 1 Colonia Océano C.P. 28219 <br>
+                    
+                   contacto@tmca.com.mx  <br>
+                    
+                   314 331 2470
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Terminal Portuaria/GRUPO.JPG" alt="agencia portuaria"></td>
-                    <td>GRUPO LOGISTICO DE LA CUENCA DEL PACIFICO S.A. DE C.V</td>
-                    <td>Av. Elías Zamora Verduzco #153 Local 4 Valle de las garzas barrio 2 Manzanillo Colima C.P. 28219
-                    </td>
-                    <td>rcaballero@ialogisticzlo.com
-                        clientes.tm2@transpzlo.com
-                        comercial.alman3@almanzlo.com
+                    <td>GRUPO LOGISTICO DE LA CUENCA DEL PACIFICO S.A. DE C.V <br>
+                    Av. Elías Zamora Verduzco #153 Local 4 Valle de las garzas barrio 2 Manzanillo Colima C.P. 28219 <br>
+                    
+                    rcaballero@ialogisticzlo.com <br>
+                        clientes.tm2@transpzlo.com <br>
+                        comercial.alman3@almanzlo.com <br>
 
-                    </td>
-                    <td>314 116 2857
-                        314 106 0380
+                    
+                    314 116 2857 <br>
+                        314 106 0380 <br>
                         314 872 6332
 
                     </td>
@@ -2126,160 +1984,157 @@
             <thead>
                 <tr>
                     <th>LOGO</th>
-                    <th>NOMBRE</th>
-                    <th>DOMICILIO</th>
-                    <th>CORREO</th>
-                    <th>TELÉFONO</th>
+                    <th>DATOS DE EMPRESA</th>
+                  
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/AEROPUERTO.PNG" alt="agencia de transporte"></td>
-                    <td>AEROPUERTO DE MANZANILLO S.A. DE C.V</td>
-                    <td>Carretera Manzanillo, Barra De Navidad Km 42, Col. Playa De Oro, Manzanillo, Col.
-                    </td>
-                    <td>vigarcia@aeropuertosgap.com.mx
-                        jcruz@aeropuertosgap.com.mx
+                    <td>AEROPUERTO DE MANZANILLO S.A. DE C.V <br>
+                    Carretera Manzanillo, Barra De Navidad Km 42, Col. Playa De Oro, Manzanillo, Col. <br>
+                    
+                    vigarcia@aeropuertosgap.com.mx <br>
+                        jcruz@aeropuertosgap.com.mx <br>
 
-                    </td>
-                    <td>314 333 2525
+                    
+                    314 333 2525
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/ALCARAZ.PNG" alt="agencia de transporte"></td>
-                    <td>ALCARAZ TRANSPORTE DE MANZANILLO</td>
-                    <td>Carretera Manzanillo-Minatitlán km 2.3, No. 2137, int. A-1, Manzanillo, Col
-                    </td>
-                    <td>administracion@alcaraztransporte.com
+                    <td>ALCARAZ TRANSPORTE DE MANZANILLO <br>
+                   Carretera Manzanillo-Minatitlán km 2.3, No. 2137, int. A-1, Manzanillo, Col <br>
+                    
+                   administracion@alcaraztransporte.com <br>
 
-                    </td>
-                    <td>314 141 1479
+                    
+                   314 141 1479
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/MGA.JPG" alt="agencia de transporte"></td>
-                    <td>MGA TRANSPORT</td>
-                    <td>Blvd. Miguel de la Madrid Hurtado, No. 502, int. 13B, Fondeport, Manzanillo, Col
-                    </td>
-                    <td>mgatransport@gmail.com
-                        elio.galan@mgatransport.com
+                    <td>MGA TRANSPORT <br>
+                    Blvd. Miguel de la Madrid Hurtado, No. 502, int. 13B, Fondeport, Manzanillo, Col <br>
+                    
+                    mgatransport@gmail.com <br>
+                        elio.galan@mgatransport.com <br>
 
-                    </td>
-                    <td>314 114 1806
+                    
+                    314 114 1806
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/MOREGAR.JPG" alt="agencia de transporte"></td>
-                    <td>MOREGAR EXPRESS SA DE C</td>
-                    <td>Miguel Torres Cárdenas No.14 Col. Del Pacifico, Manzanillo, Col.
-                    </td>
-                    <td>
+                    <td>MOREGAR EXPRESS SA DE C <br>
+                    Miguel Torres Cárdenas No.14 Col. Del Pacifico, Manzanillo, Col. <br>
+                    
 
-                    </td>
-                    <td>314 336 5632
+                    
+                    314 336 5632
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/SANIDAD.JPG" alt="agencia de transporte"></td>
-                    <td>SANIDAD CARGA Y OPERACIONES S.A. DE C.V.</td>
-                    <td>La Barca No.11 M7 I-46, Tapeixtles, Manzanillo, Col.
-                    </td>
-                    <td>ventas@sanidadcarga.com
-                        gerencia@sanidadcarga.com
-                    </td>
-                    <td>314 333 4886
+                    <td>SANIDAD CARGA Y OPERACIONES S.A. DE C.V. <br>
+                    La Barca No.11 M7 I-46, Tapeixtles, Manzanillo, Col. <br>
+                    
+                    ventas@sanidadcarga.com <br>
+                        gerencia@sanidadcarga.com <br>
+                    
+                    314 333 4886 <br>
                         314 120 712
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/TRANSPORTES.PNG" alt="agencia de transporte"></td>
-                    <td>TRANSPORTES JOSE GUAJARDO S.A. DE C.V.</td>
-                    <td>Obras Marítimas S/N, Tapeixtles Manzanillo, Col.
-                    </td>
-                    <td>www.tlgsa.com.mx
+                    <td>TRANSPORTES JOSE GUAJARDO S.A. DE C.V. <br>
+                    Obras Marítimas S/N, Tapeixtles Manzanillo, Col. <br>
+                    
+                    www.tlgsa.com.mx <br>
 
-                    </td>
-                    <td>818 259 3950
+                    
+                    818 259 3950
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/LOGISTICA.JPG" alt="agencia de transporte"></td>
-                    <td>LOGISTICA MULTIMODAL ESPECIALIZADA EN TRANSPORTE</td>
-                    <td>Av. Paseo de las Garzas, No.295B, Salagua, Manzanillo, Col.
-                    </td>
-                    <td>rosario.santillan@logisticamultimodal.com
-                    </td>
-                    <td>314 146 3983
+                    <td>LOGISTICA MULTIMODAL ESPECIALIZADA EN TRANSPORTE <br>
+                   Av. Paseo de las Garzas, No.295B, Salagua, Manzanillo, Col. <br>
+                    
+                   rosario.santillan@logisticamultimodal.com <br>
+                    
+                   314 146 3983
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/CONEXIÓN.JPG" alt="agencia de transporte"></td>
-                    <td>CONEXIÓN PORTUARIA DEL PACÍFICO</td>
-                    <td>Av. Paseo de las Gaviotas No.295, Salagua, Manzanillo, Col.
-                    </td>
-                    <td>ricardo.rivero@logisticamultimodal.com
+                    <td>CONEXIÓN PORTUARIA DEL PACÍFICO <br>
+                    Av. Paseo de las Gaviotas No.295, Salagua, Manzanillo, Col. <br>
+                    
+                    ricardo.rivero@logisticamultimodal.com <br>
 
-                    </td>
-                    <td>314 103 6591
+                    
+                    314 103 6591
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/IPORT.PNG" alt="agencia de transporte"></td>
-                    <td>TRANSPORTES FERNANDEZ</td>
-                    <td>Av. Lopez Mateos S/N. Col. Arturo Noriega Pizano, El Colomo, Manzanillo, Col.
-                    </td>
-                    <td>www.transportesfernandez.com.mx
-                    </td>
-                    <td>314 337 6140
+                    <td>TRANSPORTES FERNANDEZ <br>
+                   Av. Lopez Mateos S/N. Col. Arturo Noriega Pizano, El Colomo, Manzanillo, Col. <br>
+                    
+                   www.transportesfernandez.com.mx <br>
+                    
+                   314 337 6140
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/SMD.JPG" alt="agencia de transporte"></td>
-                    <td>SMD SERVICIOS DE DISTRIBUCION PICASSO S.A. DE C.V</td>
-                    <td>Carretera federal Manzanillo Armería Km 307+500, Col. El Colomo C.P. 28800
-                    </td>
-                    <td>https://transportespicazo.com
+                    <td>SMD SERVICIOS DE DISTRIBUCION PICASSO S.A. DE C.V <br>
+                    Carretera federal Manzanillo Armería Km 307+500, Col. El Colomo C.P. 28800 <br>
+                    
+                    https://transportespicazo.com <br>
 
-                    </td>
-                    <td>314 144 9067
+                    
+                    314 144 9067
                     </td>
                 </tr>
 
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/TRANSPORTES.PNG" alt="agencia de transporte"></td>
-                    <td>TRANSPORTES FERNANDEZ</td>
-                    <td>Av. Lopez Mateos S/N. Col. Arturo Noriega Pizano, El Colomo, Manzanillo, Col.
-                    </td>
-                    <td>www.transportesfernandez.com.mx
-                    </td>
-                    <td>314 337 6140
+                    <td>TRANSPORTES FERNANDEZ <br>
+                    Av. Lopez Mateos S/N. Col. Arturo Noriega Pizano, El Colomo, Manzanillo, Col. <br>
+                    
+                    www.transportesfernandez.com.mx <br>
+                    
+                    314 337 6140
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/GRUAS.JPG" alt="agencia de transporte"></td>
-                    <td>GRUAS ROMAN DE MANZANILLO S DE RL DE CV</td>
-                    <td>José Cárdenas Pallares s/n Col. Méndez Arceo Salahua
-                    </td>
-                    <td>www.grmzo.com
+                    <td>GRUAS ROMAN DE MANZANILLO S DE RL DE CV <br>
+                    José Cárdenas Pallares s/n Col. Méndez Arceo Salahua <br>
+                    
+                    www.grmzo.com <br>
 
-                    </td>
-                    <td>314 334 4615
+                    
+                    314 334 4615 <br>
                         314 120 2468
                     </td>
                 </tr>
                 <tr>
                     <td><img class="directoryImg" data-src="assets/img/Directorio/Transporte/K8.PNG" alt="agencia de transporte"></td>
-                    <td>K8 LOGISTICA S.A. DE C.V.</td>
-                    <td>Obras Marítimas 86, Col. Fetse C.P. 28219
-                    </td>
-                    <td>contacto@k8logistica.com
+                    <td>K8 LOGISTICA S.A. DE C.V. <br>
+                    Obras Marítimas 86, Col. Fetse C.P. 28219 <br>
+                    
+                    contacto@k8logistica.com <br>
 
-                    </td>
-                    <td>314 138 2071
+                    
+                    314 138 2071
                     </td>
                 </tr>
             </tbody>
