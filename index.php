@@ -11,6 +11,7 @@
     <?php include 'static/topbar.php' ?>
     <?php include './components/CarruselBanner.php' ?>
     <?php include './components/FactsStats.php' ?>
+    <?php include './components/Aviso.php'?>
     <?php include './components/LastEvents.php' ?>
     <?php include './components/IntroIndex.php' ?>
     <?php include './components/FeaturesSection.php' ?>
