@@ -9,11 +9,10 @@
         </div>
         <div class="col-lg-4 text-center text-lg-end">
             <div class="d-inline-flex align-items-center" style="height: 45px;">
-                <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://twitter.com/Coparmex_mzo"><i class="fab fa-twitter fw-normal"></i></a>
-                <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.facebook.com/coparmexmzo"><i class="fab fa-facebook-f fw-normal"></i></a>
-                <!-- <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://coparmex.whiteboxsystems.tech/"><i class="fab fa-linkedin-in fw-normal"></i></a> -->
-                <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.instagram.com/coparmex_manzanillo/"><i class="fab fa-instagram fw-normal"></i></a>
-                <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" href="https://www.youtube.com/@coparmexmanzanillo"><i class="fab fa-youtube fw-normal"></i></a>
+                <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" aria-label="Liga para Twitter" href="https://twitter.com/Coparmex_mzo"><i class="fab fa-twitter fw-normal"></i></a>
+                <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" aria-label="Liga para Facebook" href="https://www.facebook.com/coparmexmzo"><i class="fab fa-facebook-f fw-normal"></i></a>
+                <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" aria-label="Liga para Instagram" href="https://www.instagram.com/coparmex_manzanillo/"><i class="fab fa-instagram fw-normal"></i></a>
+                <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" aria-label="Liga para Youtube" href="https://www.youtube.com/@coparmexmanzanillo"><i class="fab fa-youtube fw-normal"></i></a>
             </div>
         </div>
     </div>
