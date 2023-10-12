@@ -13,7 +13,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="w-100" data-src="assets/img/banner_2.jpg" alt="Image">
+                <img class="w-100" data-src="assets/img/banner_3.jpg" alt="Image">
                 <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                 </div>
             </div>
